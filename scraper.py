@@ -44,7 +44,9 @@ DEFAULT_CAT = ("event", "Event")
 # Reihenfolge = Priorität. Matching case-insensitive gegen Strasse + Titel + place.
 VENUES = {
     "Ascona": [
-        ("Seepromenade", ["lungolago", "piazza giuseppe motta", "piazza g. motta", "piazza motta"]),
+        ("Seepromenade", ["lungolago"]),
+        ("Piazza",       ["piazza giuseppe motta", "piazza g. motta", "piazza motta",
+                          "piazza/borgo", "borgo ascona", "borgo di ascona", "borgo"]),
         ("Lido",         ["lido"]),
     ],
     "Locarno": [
@@ -119,7 +121,11 @@ def build(lang="de"):
         seen.add(key)
 
         cat_key, cat_label = category(ev)
-        loc = ", ".join(p for p in [ev.get("street"), city] if p)
+        street = (ev.get("street") or "").strip()
+        if street:
+            loc = f"{street}, {city}"
+        else:
+            loc = (ev.get("place") or "").strip() or city
         venue = key_venue(city, ev.get("street"), ev.get("denomination"), ev.get("place"))
         # Echte, öffentliche Detailseite auf ascona-locarno.com (nicht die API-Adresse!)
         item_id = ev.get("itemId")
