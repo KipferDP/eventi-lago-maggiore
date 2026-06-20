@@ -1,36 +1,25 @@
-// Service Worker für "Eventi Lago Maggiore"
-// Macht die App offline-fähig (App-Hülle + letzte Eventdaten gecacht).
-const CACHE = 'eventi-v6';
-const SHELL = [
-  './', './index.html', './data.js',
-  './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png',
-  './ascona-cover.jpg', './locarno-cover.jpg'
-];
-
-self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
-});
+// KILL-SWITCH Service Worker
+// Entfernt den alten (hartnäckigen) Offline-Speicher von allen Geräten.
+// Danach lädt die App immer direkt die aktuelle Version von GitHub Pages.
+self.addEventListener('install', e => self.skipWaiting());
 
 self.addEventListener('activate', e => {
-  e.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
-      .then(() => self.clients.claim())
-  );
+  e.waitUntil((async () => {
+    // alle Caches löschen
+    const keys = await caches.keys();
+    await Promise.all(keys.map(k => caches.delete(k)));
+    // sich selbst abmelden
+    await self.registration.unregister();
+    // offene Seiten neu laden -> holt frische Version
+    const clients = await self.clients.matchAll({ type: 'window' });
+    for (const c of clients) {
+      try { c.navigate(c.url); } catch (_) {}
+    }
+  })());
 });
 
-// data.js: immer frisch versuchen (network-first), sonst Cache.
-// Restliche App-Dateien: zuerst Cache (schnell), sonst Netz.
+// Während der Kill-Switch aktiv ist: nichts mehr aus dem Cache liefern,
+// alles direkt aus dem Netz holen.
 self.addEventListener('fetch', e => {
-  const url = e.request.url;
-  if (url.endsWith('data.js')) {
-    e.respondWith(
-      fetch(e.request).then(r => {
-        const copy = r.clone();
-        caches.open(CACHE).then(c => c.put(e.request, copy));
-        return r;
-      }).catch(() => caches.match(e.request))
-    );
-  } else {
-    e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
-  }
+  e.respondWith(fetch(e.request).catch(() => caches.match(e.request)));
 });

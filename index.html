@@ -203,9 +203,11 @@ function closeDetail(){document.getElementById('detail').classList.remove('open'
 if(UPDATED) document.getElementById('foot').textContent='Daten: Ticino Turismo · Stand '+UPDATED;
 render();
 
-// Service Worker (Offline-Fähigkeit, nur über http/https – nicht bei file://)
+// Während der Entwicklung KEIN Service Worker / kein Offline-Cache:
+// vorhandene Worker abmelden und Caches löschen -> App lädt immer frisch.
 if('serviceWorker' in navigator && location.protocol.startsWith('http')){
-  navigator.serviceWorker.register('sw.js').catch(()=>{});
+  navigator.serviceWorker.getRegistrations().then(rs=>rs.forEach(r=>r.unregister())).catch(()=>{});
+  if(window.caches) caches.keys().then(ks=>ks.forEach(k=>caches.delete(k))).catch(()=>{});
 }
 </script>
 </body>
