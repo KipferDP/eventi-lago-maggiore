@@ -73,6 +73,17 @@
 
   .foot{position:fixed;bottom:0;left:0;right:0;max-width:480px;margin:0 auto;background:rgba(29,43,48,.92);
     color:#fff;text-align:center;font-size:11px;padding:7px;z-index:60;letter-spacing:.3px}
+
+  /* Umschalter Hauptorte / Alle */
+  .filter{display:flex;gap:6px;padding:12px 14px 2px;background:var(--bg);position:sticky;
+    top:118px;z-index:15}
+  .fpill{flex:1;text-align:center;padding:9px 0;border-radius:11px;font-weight:700;font-size:14px;
+    cursor:pointer;background:#e7edee;color:var(--muted);transition:.15s;border:1.5px solid transparent}
+  .fpill.active{background:#fff;color:var(--blue);border-color:var(--blue);box-shadow:var(--shadow)}
+  /* Hervorhebung Hauptort-Karten */
+  .card.key{border:2px solid var(--sun)}
+  .venue{display:inline-flex;align-items:center;gap:4px;background:#fff4d6;color:#8a6100;
+    font-weight:800;font-size:12px;padding:3px 9px;border-radius:8px;margin-bottom:8px;margin-left:6px}
 </style>
 </head>
 <body>
@@ -85,6 +96,10 @@
       <div class="tab" data-city="locarno" onclick="switchCity('locarno')">Locarno <span class="count" id="c-locarno"></span></div>
     </div>
   </header>
+  <div class="filter">
+    <div class="fpill active" id="f-all" onclick="setFilter(false)">Alle</div>
+    <div class="fpill" id="f-key" onclick="setFilter(true)">★ Hauptorte</div>
+  </div>
   <div class="list" id="list"></div>
 </div>
 
@@ -115,32 +130,46 @@ const ICONS={musik:'🎵',festival:'🎪',kultur:'🎭',tradition:'🎉',ausstel
 const DATA = (window.EVENT_DATA && window.EVENT_DATA.events) || {ascona:[],locarno:[]};
 const UPDATED = (window.EVENT_DATA && window.EVENT_DATA.updated) || '';
 let current='ascona';
+let onlyKey=false;   // false = Alle, true = nur Hauptorte
 
 function color(c){return COLORS[c]||COLORS.event;}
 function icon(c){return ICONS[c]||ICONS.event;}
 
 function render(){
-  const items=[...(DATA[current]||[])].sort((a,b)=>(a.sortKey||0)-(b.sortKey||0));
-  document.getElementById('c-ascona').textContent=(DATA.ascona||[]).length;
-  document.getElementById('c-locarno').textContent=(DATA.locarno||[]).length;
+  let items=[...(DATA[current]||[])];
+  if(onlyKey) items=items.filter(e=>e.keyVenue);
+  // Sortierung: Hauptorte zuerst, dann nach Datum
+  items.sort((a,b)=>(b.keyVenue?1:0)-(a.keyVenue?1:0) || (a.sortKey||0)-(b.sortKey||0));
+
+  const keyCount=c=>(DATA[c]||[]).filter(e=>e.keyVenue).length;
+  document.getElementById('c-ascona').textContent=onlyKey?keyCount('ascona'):(DATA.ascona||[]).length;
+  document.getElementById('c-locarno').textContent=onlyKey?keyCount('locarno'):(DATA.locarno||[]).length;
+
   const list=document.getElementById('list');
-  if(!items.length){list.innerHTML='<div class="empty">Keine Events gefunden.<br>Bitte data.js neu erzeugen (scraper.py).</div>';return;}
+  if(!items.length){list.innerHTML='<div class="empty">Keine Events gefunden.</div>';return;}
   list.innerHTML=items.map(e=>{
     const c=color(e.cat);
     const bg=e.image?`background-image:url('${e.image}')`:`background:linear-gradient(135deg,${c},${c}aa)`;
-    return `<div class="card" onclick="openDetail('${current}','${e.id}')">
+    return `<div class="card${e.keyVenue?' key':''}" onclick="openDetail('${current}','${e.id}')">
       <div class="img" style="${bg}">
         <span class="badge" style="background:${c}">${icon(e.cat)} ${e.catLabel}</span>
         ${e.isTop?'<span class="top">★ TOP</span>':''}
         ${e.image?'':icon(e.cat)}
       </div>
       <div class="body">
-        <span class="date-pill">${e.dateText}</span>
+        <span class="date-pill">${e.dateText}</span>${e.keyVenue?`<span class="venue">★ ${e.venue}</span>`:''}
         <h3>${e.title}</h3>
         <div class="meta"><span class="ic">📍</span>${e.loc}</div>
       </div>
     </div>`;
   }).join('');
+}
+
+function setFilter(key){
+  onlyKey=key;
+  document.getElementById('f-all').classList.toggle('active',!key);
+  document.getElementById('f-key').classList.toggle('active',key);
+  render(); window.scrollTo(0,0);
 }
 
 function switchCity(city){
@@ -161,7 +190,7 @@ function openDetail(city,id){
   const b=document.getElementById('d-badge'); b.textContent=icon(e.cat)+' '+e.catLabel; b.style.background=c;
   document.getElementById('d-title').textContent=e.title;
   document.getElementById('d-date').textContent=e.dateText;
-  document.getElementById('d-loc').textContent=e.loc;
+  document.getElementById('d-loc').innerHTML=(e.keyVenue?`<span style="color:#8a6100;font-weight:800">★ ${e.venue}</span> · `:'')+e.loc;
   document.getElementById('d-cat').textContent=e.catLabel;
   const link=document.getElementById('d-link');
   if(e.link){link.style.display='block';link.href=e.link;}else{link.style.display='none';}

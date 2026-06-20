@@ -40,6 +40,28 @@ CAT_MAP = {
 }
 DEFAULT_CAT = ("event", "Event")
 
+# Hauptorte (Wunsch Michael): Seepromenade, Lido, Piazza – pro Stadt.
+# Reihenfolge = Priorität. Matching case-insensitive gegen Strasse + Titel + place.
+VENUES = {
+    "Ascona": [
+        ("Seepromenade", ["lungolago", "piazza giuseppe motta", "piazza g. motta", "piazza motta"]),
+        ("Lido",         ["lido"]),
+    ],
+    "Locarno": [
+        ("Piazza",       ["piazza grande"]),
+        ("Seepromenade", ["lungolago"]),
+        ("Lido",         ["lido", "respini"]),
+    ],
+}
+
+
+def key_venue(city, *texts):
+    hay = " ".join(t for t in texts if t).lower()
+    for label, words in VENUES.get(city, []):
+        if any(w in hay for w in words):
+            return label
+    return ""
+
 
 def to_local_date(ms):
     if ms is None:
@@ -98,6 +120,7 @@ def build(lang="de"):
 
         cat_key, cat_label = category(ev)
         loc = ", ".join(p for p in [ev.get("street"), city] if p)
+        venue = key_venue(city, ev.get("street"), ev.get("denomination"), ev.get("place"))
         out[CITIES[city]].append({
             "id": str(ev.get("itemId")),
             "cat": cat_key,
@@ -106,6 +129,8 @@ def build(lang="de"):
             "dateText": date_text(d_from, d_until),
             "sortKey": ev.get("validFromDate") or 0,
             "loc": loc or city,
+            "venue": venue,           # "" oder Seepromenade/Lido/Piazza
+            "keyVenue": bool(venue),  # Hauptort ja/nein
             "image": ev.get("imageName") or "",
             "link": ev.get("slug") or "",
             "lat": ev.get("mapLatitude"),
