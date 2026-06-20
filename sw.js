@@ -1,9 +1,10 @@
 // Service Worker für "Eventi Lago Maggiore"
 // Macht die App offline-fähig (App-Hülle + letzte Eventdaten gecacht).
-const CACHE = 'eventi-v3';
+const CACHE = 'eventi-v4';
 const SHELL = [
   './', './index.html', './data.js',
-  './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'
+  './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png',
+  './ascona-cover.jpg', './locarno-cover.jpg'
 ];
 
 self.addEventListener('install', e => {

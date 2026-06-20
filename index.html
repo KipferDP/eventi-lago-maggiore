@@ -84,6 +84,8 @@
   .card.key{border:2px solid var(--sun)}
   .venue{display:inline-flex;align-items:center;gap:4px;background:#fff4d6;color:#8a6100;
     font-weight:800;font-size:12px;padding:3px 9px;border-radius:8px;margin-bottom:8px;margin-left:6px}
+  .live{display:inline-block;background:#e23b3b;color:#fff;font-weight:800;font-size:12px;
+    padding:3px 9px;border-radius:8px;margin-bottom:8px;margin-left:6px}
 </style>
 </head>
 <body>
@@ -150,17 +152,18 @@ function render(){
 
   const list=document.getElementById('list');
   if(!items.length){list.innerHTML='<div class="empty">Keine Events gefunden.</div>';return;}
+  const cover=current==='ascona'?'ascona-cover.jpg':'locarno-cover.jpg';
   list.innerHTML=items.map(e=>{
     const c=color(e.cat);
-    const bg=e.image?`background-image:url('${e.image}')`:`background:linear-gradient(135deg,${c},${c}aa)`;
+    const ongoing=(e.sortKey||0)<today;
+    const bg=e.image?`background-image:url('${e.image}')`:`background-image:url('${cover}')`;
     return `<div class="card${e.keyVenue?' key':''}" onclick="openDetail('${current}','${e.id}')">
       <div class="img" style="${bg}">
         <span class="badge" style="background:${c}">${icon(e.cat)} ${e.catLabel}</span>
         ${e.isTop?'<span class="top">★ TOP</span>':''}
-        ${e.image?'':icon(e.cat)}
       </div>
       <div class="body">
-        <span class="date-pill">${e.dateText}</span>${e.keyVenue?`<span class="venue">★ ${e.venue}</span>`:''}
+        <span class="date-pill">${e.dateText}</span>${ongoing?'<span class="live">● läuft</span>':''}${e.keyVenue?`<span class="venue">★ ${e.venue}</span>`:''}
         <h3>${e.title}</h3>
         <div class="meta"><span class="ic">📍</span>${e.loc}</div>
       </div>
@@ -185,14 +188,15 @@ function switchCity(city){
 function openDetail(city,id){
   const e=(DATA[city]||[]).find(x=>x.id===id); if(!e)return;
   const c=color(e.cat);
+  const cover=city==='ascona'?'ascona-cover.jpg':'locarno-cover.jpg';
   const hero=document.getElementById('d-hero');
-  hero.style.cssText = e.image
-    ? `background-image:url('${e.image}')`
-    : `background:linear-gradient(135deg,${c},${c}aa)`;
-  hero.innerHTML=`<div class="back" onclick="closeDetail()">‹</div>`+(e.image?'':icon(e.cat));
+  hero.style.cssText = `background-image:url('${e.image||cover}')`;
+  hero.innerHTML=`<div class="back" onclick="closeDetail()">‹</div>`;
   const b=document.getElementById('d-badge'); b.textContent=icon(e.cat)+' '+e.catLabel; b.style.background=c;
   document.getElementById('d-title').textContent=e.title;
-  document.getElementById('d-date').textContent=e.dateText;
+  const t0=new Date(); t0.setHours(0,0,0,0);
+  const live=(e.sortKey||0)<t0.getTime();
+  document.getElementById('d-date').innerHTML=e.dateText+(live?' <span style="color:#e23b3b;font-weight:800">● läuft</span>':'');
   document.getElementById('d-loc').innerHTML=(e.keyVenue?`<span style="color:#8a6100;font-weight:800">★ ${e.venue}</span> · `:'')+e.loc;
   document.getElementById('d-cat').textContent=e.catLabel;
   const link=document.getElementById('d-link');
