@@ -1,5 +1,5 @@
 {
- "updated": "20.06.2026 20:51",
+ "updated": "20.06.2026 20:56",
  "events": {
   "ascona": [
    {
@@ -13,7 +13,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8c37d4ac4cca80a34c958196eb1a48862974e6cd-960x960.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/in-silenzio-alexandra-von-burg",
+    "link": "https://www.ascona-locarno.com/de/events/details/in-silenzio-alexandra-von-burg/12436",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
     "isTop": false
@@ -29,7 +29,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/yoga-am-monte-verita",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
     "lat": 46.1585094,
     "lng": 8.762817,
     "isTop": false
@@ -45,7 +45,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6454420afd6a32478e7259b50aa1733a792d01ee-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/jazzascona-2026",
+    "link": "https://www.ascona-locarno.com/de/events/details/jazzascona-2026/10042",
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true
@@ -61,7 +61,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/apero-in-zibrett",
+    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
     "isTop": false
@@ -77,7 +77,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e160c3b13fb49827db8d5dd2845c5b7b6d3a9d58-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/trekking-schmugglerpfad",
+    "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": false
@@ -93,7 +93,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a47e843095134eb5bb8e64cbbc0d8b2505b3613d-3000x2000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/spettacolo-di-circo-marionetta-di-lucy-lucky-loop",
+    "link": "https://www.ascona-locarno.com/de/events/details/spettacolo-di-circo-marionetta-di-lucy-lucky-loop/10006136",
     "lat": 46.1537183,
     "lng": 8.7692132,
     "isTop": false
@@ -109,7 +109,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/90427ebef88aa16975db4ebe5c4cb717786da1d9-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/ensemble-in-residence-quartetto-kontakt",
+    "link": "https://www.ascona-locarno.com/de/events/details/ensemble-in-residence-quartetto-kontakt/10006287",
     "lat": 46.1539078,
     "lng": 8.7688003,
     "isTop": false
@@ -125,7 +125,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bde70b1f22d58f0bfa4b785dcc22c3699a2d3d80-4219x3375.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/musica-da-camera-con-pianoforte",
+    "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte/10006289",
     "lat": 46.1599336,
     "lng": 8.7734914,
     "isTop": false
@@ -141,7 +141,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f3dcd94c23a24b6f186506b82c1040aca328ad73-1280x512.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/cantiere-aperto-n-3",
+    "link": "https://www.ascona-locarno.com/de/events/details/cantiere-aperto-n-3/12150",
     "lat": 46.161196,
     "lng": 8.773822,
     "isTop": false
@@ -157,7 +157,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b569201f8eae5d516b5832385cec2e67f2a37c1b-3647x2187.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/musik-und-wort-musica-e-parola",
+    "link": "https://www.ascona-locarno.com/de/events/details/musik-und-wort-musica-e-parola/10006290",
     "lat": 46.1599336,
     "lng": 8.7734914,
     "isTop": false
@@ -173,7 +173,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/674ccc9bbff877adb26994af4c43f478525784ff-5870x3906.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/musica-da-camera-con-pianoforte-ticino-musica-festival",
+    "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte-ticino-musica-festival/10006311",
     "lat": 46.1599336,
     "lng": 8.7734914,
     "isTop": false
@@ -189,7 +189,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2917c654f5a62a85b34fa5e9c87e5505502a3b47-1600x1066.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/polysportcamp-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/polysportcamp-ascona/12055",
     "lat": 46.1556246,
     "lng": 8.7752612,
     "isTop": false
@@ -205,7 +205,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2459bf7689bf94786cd7f60ecaafe67e649b8b87-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/tanzende-fontaenenshow",
+    "link": "https://www.ascona-locarno.com/de/events/details/tanzende-fontaenenshow/10248",
     "lat": 46.152626362073,
     "lng": 8.7706283824951,
     "isTop": false
@@ -221,7 +221,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cda8bcdea540d7f99fb721545d8278749fed1cd6-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/feierlichkeiten-am-1-august-mit-tanzenden-fontaenen",
+    "link": "https://www.ascona-locarno.com/de/events/details/feierlichkeiten-am-1-august-mit-tanzenden-fontaenen/10340",
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true
@@ -237,7 +237,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/98401c1be0409eb3dc6ab84d04d97aff3f9e1c10-240x320.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/tessiner-unspunnen-meisterschaft-das-schweizer-steinwerfen",
+    "link": "https://www.ascona-locarno.com/de/events/details/tessiner-unspunnen-meisterschaft-das-schweizer-steinwerfen/10350",
     "lat": 46.15461859885,
     "lng": 8.7674086423279,
     "isTop": false
@@ -253,7 +253,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/90dd8d8bcbd891dd177813d8bcc90e72cf12ee4c-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/concerto-dal-balcone",
+    "link": "https://www.ascona-locarno.com/de/events/details/concerto-dal-balcone/10345",
     "lat": 46.1537183,
     "lng": 8.7692132,
     "isTop": false
@@ -269,7 +269,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/164e8b48cb734e68742811848c1f61a010e7e457-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/ascona-rock-night",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-rock-night/10358",
     "lat": 46.155619249761,
     "lng": 8.7672454226929,
     "isTop": false
@@ -285,7 +285,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/13200a5f2dd6553de7a918fac31f183d3c3b452a-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/ascona-dj-night",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-dj-night/10360",
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": false
@@ -301,7 +301,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b4ae12e174fa93e4c0fc9bd4723e0830795576c0-3543x2362.jpg?fm=webp&q=90&w=588&h=441&rect=0,0,3543,2362&fit=crop&fp-x=0.5&fp-y=0.5",
-    "link": "https://api.ticino.ch/de/tinext/events/ascona-polo-cup",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-polo-cup/10071",
     "lat": 46.160757543463,
     "lng": 8.781336007843,
     "isTop": true
@@ -317,7 +317,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8bf693fbb3a4791f994922db242cedf0c7c753f1-1138x853.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/csi-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/csi-ascona/10080",
     "lat": 46.160757543463,
     "lng": 8.781336007843,
     "isTop": true
@@ -333,7 +333,7 @@
     "venue": "Lido",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/adaddc342c70e4a6f768d7ad35d82d21215e4c36-4350x2900.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/sunice-festival",
+    "link": "https://www.ascona-locarno.com/de/events/details/sunice-festival/10259",
     "lat": 46.148153097038,
     "lng": 8.7791007757187,
     "isTop": true
@@ -349,7 +349,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/99057359ce0240c2316cb2d9b744b4fc70885b69-3000x2250.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/classicascona-nr-81-by-fondazione-settimane-musicali-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/classicascona-nr-81-by-fondazione-settimane-musicali-ascona/10024",
     "lat": 46.1552882,
     "lng": 8.7711284,
     "isTop": true
@@ -365,7 +365,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d50b1671cf68fa129c4cbaf20a8f41bb0c8ddda1-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/ascona-classic-car-award",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-classic-car-award/10380",
     "lat": 46.1615793,
     "lng": 8.7750131,
     "isTop": true
@@ -381,7 +381,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/babd0d1787b5f2352816fb467283abf0e1478836-750x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/monte-verita-musik-literatur-san-gottardo",
+    "link": "https://www.ascona-locarno.com/de/events/details/monte-verita-musik-literatur-san-gottardo/10005826",
     "lat": 46.1585851,
     "lng": 8.7628859,
     "isTop": false
@@ -397,7 +397,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2d68dc40df0dabe38963384222086fd731e252d7-1055x1491.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/musica-e-shopping-nel-borgo-di-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/musica-e-shopping-nel-borgo-di-ascona/10006422",
     "lat": 46.1561054,
     "lng": 8.7678927,
     "isTop": false
@@ -413,7 +413,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/86807babefe2ebfd03cf758992bd0db9a796bf5b-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/herbstfest-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/herbstfest-ascona/10086",
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true
@@ -429,7 +429,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/02eb43e956f931fcc0ca296003b98c8ed6701f78-1920x1280.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/kastanienfest-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/kastanienfest-ascona/11417",
     "lat": 46.1615793,
     "lng": 8.7750131,
     "isTop": true
@@ -445,7 +445,7 @@
     "venue": "Lido",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/947d648b20d444e25dd30bc29bd9ead20f2bc40d-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/pro-am-comune-di-ascona-otlmv",
+    "link": "https://www.ascona-locarno.com/de/events/details/pro-am-comune-di-ascona-otlmv/10394",
     "lat": 46.149037604415,
     "lng": 8.7826681137085,
     "isTop": false
@@ -461,7 +461,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/84aa86dc634c91bd1f090d8b65c25a7474d7af17-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/international-classic-jazz-workshop",
+    "link": "https://www.ascona-locarno.com/de/events/details/international-classic-jazz-workshop/10396",
     "lat": 46.159331,
     "lng": 8.7694342,
     "isTop": false
@@ -477,7 +477,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/kunsthandwerker-in-borgo-weihnachtsmarkt-in-ascona",
+    "link": "https://www.ascona-locarno.com/de/events/details/kunsthandwerker-in-borgo-weihnachtsmarkt-in-ascona/11539",
     "lat": 46.1615793,
     "lng": 8.7750131,
     "isTop": false
@@ -493,7 +493,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cf0a43281370dcbe534eb5ab28a3477b6d076894-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/corsa-da-natal",
+    "link": "https://www.ascona-locarno.com/de/events/details/corsa-da-natal/10401",
     "lat": 46.1537183,
     "lng": 8.7692132,
     "isTop": false
@@ -511,7 +511,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/85e282d758c07412b2ce953623521fe56cc4ce73-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/internationales-festival-voci-audaci",
+    "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -527,7 +527,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/01237f6488e6e17a7adee6a76e7f3115618563e3-3543x2363.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/arp-cahn-magnelli-taeuber-arp-kunst-leben-kunst-geben",
+    "link": "https://www.ascona-locarno.com/de/events/details/arp-cahn-magnelli-taeuber-arp-kunst-leben-kunst-geben/12482",
     "lat": 46.172777,
     "lng": 8.770584,
     "isTop": false
@@ -543,7 +543,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0fd645368b7bd717ac8fbdac1a7190e5be748a4a-515x619.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/locarno-organ-festival-2026",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-organ-festival-2026/10092",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -559,7 +559,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5fc222f44d019f8fe7bfadd726c6add0272dad02-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/verbano-musica-estate",
+    "link": "https://www.ascona-locarno.com/de/events/details/verbano-musica-estate/10137",
     "lat": 46.1694825,
     "lng": 8.793725,
     "isTop": false
@@ -575,7 +575,7 @@
     "venue": "Lido",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c663a1829dc27b96c28489f5dc18713fc7a44da6-1320x1839.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/mondiali-2026-lake-view-locarno",
+    "link": "https://www.ascona-locarno.com/de/events/details/mondiali-2026-lake-view-locarno/10006346",
     "lat": 46.157378404537,
     "lng": 8.8024333119392,
     "isTop": false
@@ -591,7 +591,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9c6425d207d428cf4619df887f1a42d04e63551e-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/festeggiamo",
+    "link": "https://www.ascona-locarno.com/de/events/details/festeggiamo/10824",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -607,7 +607,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/535b97de5566ef11b1e7c688fa854592c66a7d2b-1200x1600.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/swisssportsterday-20-saltalacena",
+    "link": "https://www.ascona-locarno.com/de/events/details/swisssportsterday-20-saltalacena/10006295",
     "lat": 46.1698704,
     "lng": 8.79865,
     "isTop": false
@@ -623,7 +623,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b0b58b9fdea5596e5a2d88977682b09d56f9cf29-1139x1600.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/un-piccolo-regalo-di-nozze",
+    "link": "https://www.ascona-locarno.com/de/events/details/un-piccolo-regalo-di-nozze/10006394",
     "lat": 46.1668905,
     "lng": 8.798261,
     "isTop": false
@@ -639,7 +639,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d7658b8cbc8c544117165f26bb8b57e8c1bb1dde-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/locarno-time-travel-tour",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
     "lat": 46.1696279,
     "lng": 8.7990235,
     "isTop": false
@@ -655,7 +655,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3355f6c8e2dc9965d22b8fd5793b6df2cd63498b-6000x4000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/the-alpine-seven",
+    "link": "https://www.ascona-locarno.com/de/events/details/the-alpine-seven/10006313",
     "lat": 46.137266904508,
     "lng": 8.7768547914062,
     "isTop": false
@@ -671,7 +671,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/orchestra-canova",
+    "link": "https://www.ascona-locarno.com/de/events/details/orchestra-canova/10005836",
     "lat": 46.1684184,
     "lng": 8.7933135,
     "isTop": false
@@ -687,7 +687,7 @@
     "venue": "Lido",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/523415f90dabe10721114f970b97ae947649f6d3-3375x4219.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/yamore-open-air",
+    "link": "https://www.ascona-locarno.com/de/events/details/yamore-open-air/10006271",
     "lat": 46.157378404537,
     "lng": 8.8024333119392,
     "isTop": false
@@ -703,7 +703,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a8d9e60bed65239329467592cd918f3ab3bc5f69-1350x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/moon-stars-2026",
+    "link": "https://www.ascona-locarno.com/de/events/details/moon-stars-2026/10053",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -719,7 +719,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/emis-killa-rkomi-sal-da-vinci",
+    "link": "https://www.ascona-locarno.com/de/events/details/emis-killa-rkomi-sal-da-vinci/10003850",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -735,7 +735,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/rkomi",
+    "link": "https://www.ascona-locarno.com/de/events/details/rkomi/10000033",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -751,7 +751,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/sal-da-vinci",
+    "link": "https://www.ascona-locarno.com/de/events/details/sal-da-vinci/10000035",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -767,7 +767,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d0a4ea162a4ce20ce1e103bfe44335d5903df952-5590x3727.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/gratis-busdienst-locarno-gambarogno",
+    "link": "https://www.ascona-locarno.com/de/events/details/gratis-busdienst-locarno-gambarogno/11001",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -783,7 +783,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/bligg",
+    "link": "https://www.ascona-locarno.com/de/events/details/bligg/12333",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -799,7 +799,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/eifachben",
+    "link": "https://www.ascona-locarno.com/de/events/details/eifachben/10003840",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -815,7 +815,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/goela-bligg-eifachben",
+    "link": "https://www.ascona-locarno.com/de/events/details/goela-bligg-eifachben/12332",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -831,7 +831,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/kim-wilde",
+    "link": "https://www.ascona-locarno.com/de/events/details/kim-wilde/10000011",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -847,7 +847,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/roxette-kim-wilde",
+    "link": "https://www.ascona-locarno.com/de/events/details/roxette-kim-wilde/12479",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -863,7 +863,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/duran-duran-hurts",
+    "link": "https://www.ascona-locarno.com/de/events/details/duran-duran-hurts/10003763",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -879,7 +879,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/hurts",
+    "link": "https://www.ascona-locarno.com/de/events/details/hurts/12481",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -895,7 +895,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/neil-young-and-the-chrome-hearts",
+    "link": "https://www.ascona-locarno.com/de/events/details/neil-young-and-the-chrome-hearts/11910",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -911,7 +911,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/jamiroquai-lp",
+    "link": "https://www.ascona-locarno.com/de/events/details/jamiroquai-lp/11865",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -927,7 +927,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/lp",
+    "link": "https://www.ascona-locarno.com/de/events/details/lp/12211",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -943,7 +943,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/jessie-j",
+    "link": "https://www.ascona-locarno.com/de/events/details/jessie-j/10003825",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -959,7 +959,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/onerepublic-jessie-j",
+    "link": "https://www.ascona-locarno.com/de/events/details/onerepublic-jessie-j/11819",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -975,7 +975,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/giant-rooks",
+    "link": "https://www.ascona-locarno.com/de/events/details/giant-rooks/10003762",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -991,7 +991,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/lewis-capaldi-giant-rooks",
+    "link": "https://www.ascona-locarno.com/de/events/details/lewis-capaldi-giant-rooks/11814",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1007,7 +1007,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/max-pezzali-noemi",
+    "link": "https://www.ascona-locarno.com/de/events/details/max-pezzali-noemi/12036",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1023,7 +1023,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/noemi",
+    "link": "https://www.ascona-locarno.com/de/events/details/noemi/10000059",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1039,7 +1039,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/alan-walker-rita-ora-the-kolors",
+    "link": "https://www.ascona-locarno.com/de/events/details/alan-walker-rita-ora-the-kolors/12037",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1055,7 +1055,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/rita-ora",
+    "link": "https://www.ascona-locarno.com/de/events/details/rita-ora/12418",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1071,7 +1071,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/the-kolors",
+    "link": "https://www.ascona-locarno.com/de/events/details/the-kolors/10003729",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1087,7 +1087,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/heimatliebi",
+    "link": "https://www.ascona-locarno.com/de/events/details/heimatliebi/12040",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1103,7 +1103,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/stubete-gaeng",
+    "link": "https://www.ascona-locarno.com/de/events/details/stubete-gaeng/12039",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1119,7 +1119,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/trauffer-stubete-gaeng-heimatliebi",
+    "link": "https://www.ascona-locarno.com/de/events/details/trauffer-stubete-gaeng-heimatliebi/12038",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1135,7 +1135,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2e2f3c048ef153f84044cdcb5fa61f53baad2a31-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/festival-ticino-musica",
+    "link": "https://www.ascona-locarno.com/de/events/details/festival-ticino-musica/10238",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1151,7 +1151,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/sarah-connor-wincent-weiss",
+    "link": "https://www.ascona-locarno.com/de/events/details/sarah-connor-wincent-weiss/12480",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1167,7 +1167,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/wincent-weiss",
+    "link": "https://www.ascona-locarno.com/de/events/details/wincent-weiss/11866",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1183,7 +1183,7 @@
     "venue": "Seepromenade",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b3a05efa33076db17bb9cda72f7c7252789d7914-1920x1280.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/luci-e-ombre",
+    "link": "https://www.ascona-locarno.com/de/events/details/luci-e-ombre/10055",
     "lat": 46.1710217,
     "lng": 8.8021322,
     "isTop": true
@@ -1199,7 +1199,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/87e83a5bd93b06ffea8aecc65517cb657f2ad756-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/internationales-theaterfestival-il-teatro-in-festa",
+    "link": "https://www.ascona-locarno.com/de/events/details/internationales-theaterfestival-il-teatro-in-festa/10245",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1215,7 +1215,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/788491d4aa8532871f2bb8f4984d579c2fd0af85-1618x1080.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/lo-sciopero-delle-bambine",
+    "link": "https://www.ascona-locarno.com/de/events/details/lo-sciopero-delle-bambine/12545",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1231,7 +1231,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/da2133dc0f0afa0c3b0233a62e8e8a639709b623-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/gaber-sotto-le-stelle",
+    "link": "https://www.ascona-locarno.com/de/events/details/gaber-sotto-le-stelle/12546",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1247,7 +1247,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/628c15428739ab1879c2197d6d3a5bec439e273f-1842x857.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/la-boheme",
+    "link": "https://www.ascona-locarno.com/de/events/details/la-boheme/10003849",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1263,7 +1263,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/70b046c4abecfdf806e12e00826ee89dfb3b39d0-8256x5504.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/opera-a-locarno-ticino-musica-festival",
+    "link": "https://www.ascona-locarno.com/de/events/details/opera-a-locarno-ticino-musica-festival/10006315",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1279,7 +1279,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/483f2d36c5518246ea613a7baca1b9cac5d0f7cc-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/rotonda-by-la-mobiliare",
+    "link": "https://www.ascona-locarno.com/de/events/details/rotonda-by-la-mobiliare/10249",
     "lat": 46.1668534,
     "lng": 8.7933165,
     "isTop": true
@@ -1295,7 +1295,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/032259f90aeb87f0c9c67da6797035bda8e616c7-1201x825.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/i-fiori-nella-ghisa",
+    "link": "https://www.ascona-locarno.com/de/events/details/i-fiori-nella-ghisa/10000024",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1311,7 +1311,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ef85f33d05d5a78c8750596b1ab5d362abefea9b-1080x902.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/mobile",
+    "link": "https://www.ascona-locarno.com/de/events/details/mobile/12547",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1327,7 +1327,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f41afe027ee33f9f15db48b802a9fc7fd2825312-1564x1080.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/lucia-e-il-brigante",
+    "link": "https://www.ascona-locarno.com/de/events/details/lucia-e-il-brigante/10003770",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1343,7 +1343,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0a9e0faf6efc832efb7f51ac44f2dba475fa1a3f-1475x1039.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/lu-santo-jullare-francesco",
+    "link": "https://www.ascona-locarno.com/de/events/details/lu-santo-jullare-francesco/10000026",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1359,7 +1359,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7a3fc4362cf332b7209d4ab2a704c60983e488df-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/locarno-film-festival-2026",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-film-festival-2026/10056",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1375,7 +1375,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/326a862299064dbb740331b545dc4103a74ec415-4624x2604.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/il-bistrot-teatro-paravento",
+    "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false
@@ -1391,7 +1391,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/43041f49f1e989ef392eb1f1da99b835ef82d72a-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/das-verwunschene-schloss",
+    "link": "https://www.ascona-locarno.com/de/events/details/das-verwunschene-schloss/10347",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1407,7 +1407,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4ae1cde6b178a087d925ea457befb45451c3dc61-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/tessiner-risotto-meisterschaft",
+    "link": "https://www.ascona-locarno.com/de/events/details/tessiner-risotto-meisterschaft/10342",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1423,7 +1423,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2ee0198ff0d011fb6432da5df02dfa42a603822b-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/festival-warm-up-concert-tra-mondi-zwischen-welten-anteprima-corner-banca",
+    "link": "https://www.ascona-locarno.com/de/events/details/festival-warm-up-concert-tra-mondi-zwischen-welten-anteprima-corner-banca/10003828",
     "lat": 46.1678609,
     "lng": 8.7917756,
     "isTop": false
@@ -1439,7 +1439,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4ee36967a1b4c720d52584cdf96f82c8e7528c3-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/triathlon-locarno",
+    "link": "https://www.ascona-locarno.com/de/events/details/triathlon-locarno/10073",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1455,7 +1455,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/johannes-michel",
+    "link": "https://www.ascona-locarno.com/de/events/details/johannes-michel/12311",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false
@@ -1471,7 +1471,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/61c9812edfea3c4677997fa763bcb45d4c348735-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/gastronomischer-herbst-lago-maggiore-e-valli",
+    "link": "https://www.ascona-locarno.com/de/events/details/gastronomischer-herbst-lago-maggiore-e-valli/10084",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1487,7 +1487,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/stephan-rahn",
+    "link": "https://www.ascona-locarno.com/de/events/details/stephan-rahn/12313",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false
@@ -1503,7 +1503,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/97ec3b3ce141eee630e4d2d68903df0fd3ee9d5e-4079x2527.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/run-in-fly",
+    "link": "https://www.ascona-locarno.com/de/events/details/run-in-fly/12371",
     "lat": 46.1616261,
     "lng": 8.8032376,
     "isTop": true
@@ -1519,7 +1519,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7f3022c71d3d8839041ee9de535ae8f0069b7614-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/gesang-in-den-hoefen",
+    "link": "https://www.ascona-locarno.com/de/events/details/gesang-in-den-hoefen/10369",
     "lat": 46.169806,
     "lng": 8.7946727,
     "isTop": false
@@ -1535,7 +1535,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/stefano-molardi",
+    "link": "https://www.ascona-locarno.com/de/events/details/stefano-molardi/12315",
     "lat": 46.1699706,
     "lng": 8.7799705,
     "isTop": false
@@ -1551,7 +1551,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/71c38fcb4e2af2f347a337f479c31a7870797c34-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/lokaler-markt-fuer-produkte",
+    "link": "https://www.ascona-locarno.com/de/events/details/lokaler-markt-fuer-produkte/10377",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1567,7 +1567,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/roberto-olzer",
+    "link": "https://www.ascona-locarno.com/de/events/details/roberto-olzer/10003734",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false
@@ -1583,7 +1583,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/marina-jahn",
+    "link": "https://www.ascona-locarno.com/de/events/details/marina-jahn/12316",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false
@@ -1599,7 +1599,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8306cd45ac0f58f43dee5add105185714d382c26-1280x853.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/ascona-locarno-run",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-locarno-run/10077",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1615,7 +1615,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6d0a7d61e7298f08e59eb7664b2e181ae06a3932-3115x4672.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/runthrough-trails-ascona-locarno",
+    "link": "https://www.ascona-locarno.com/de/events/details/runthrough-trails-ascona-locarno/10063",
     "lat": 46.1698704,
     "lng": 8.79865,
     "isTop": true
@@ -1631,7 +1631,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c22c9b4f04f5f1ed5ebe44d9e0bbb29b60caf8a-1125x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/tessiner-herbstzauber-hike-bike-zwischen-palmen-graten-und-gipfeln",
+    "link": "https://www.ascona-locarno.com/de/events/details/tessiner-herbstzauber-hike-bike-zwischen-palmen-graten-und-gipfeln/10006435",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1647,7 +1647,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ae7b2f4d0e86050e412297b0e049d782e4255544-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/festival-la-donna-crea",
+    "link": "https://www.ascona-locarno.com/de/events/details/festival-la-donna-crea/10057",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false
@@ -1663,7 +1663,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4ddbe22c4cfd6cc5cf99edf2fa5f9b97a4f67ac2-1620x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/espo-verbano-1",
+    "link": "https://www.ascona-locarno.com/de/events/details/espo-verbano-1/12373",
     "lat": 46.1641605,
     "lng": 8.7887892,
     "isTop": false
@@ -1679,7 +1679,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3187bc24206abcc540827d78b662640d3ab6f386-1920x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/pink-floyd-tributo-wish-you-were-here",
+    "link": "https://www.ascona-locarno.com/de/events/details/pink-floyd-tributo-wish-you-were-here/12202",
     "lat": 46.1698704,
     "lng": 8.79865,
     "isTop": false
@@ -1695,7 +1695,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://api.ticino.ch/de/tinext/events/alessandro-urbano",
+    "link": "https://www.ascona-locarno.com/de/events/details/alessandro-urbano/12394",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false
@@ -1711,7 +1711,7 @@
     "venue": "Piazza",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/839d807a307829c0920bfddba84eee3f2f5f28b0-1323x813.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/generali-run-the-sun-ascona-locarno-marathon",
+    "link": "https://www.ascona-locarno.com/de/events/details/generali-run-the-sun-ascona-locarno-marathon/10006248",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true
@@ -1727,7 +1727,7 @@
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/daa9a897083eadc2e59970a23747e04df30a7b3b-2500x1667.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://api.ticino.ch/de/tinext/events/blumenausstellung-camelie-locarno",
+    "link": "https://www.ascona-locarno.com/de/events/details/blumenausstellung-camelie-locarno/10020",
     "lat": 46.1575972,
     "lng": 8.8018197,
     "isTop": true

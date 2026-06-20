@@ -121,6 +121,10 @@ def build(lang="de"):
         cat_key, cat_label = category(ev)
         loc = ", ".join(p for p in [ev.get("street"), city] if p)
         venue = key_venue(city, ev.get("street"), ev.get("denomination"), ev.get("place"))
+        # Echte, öffentliche Detailseite auf ascona-locarno.com (nicht die API-Adresse!)
+        item_id = ev.get("itemId")
+        slug_name = (ev.get("slug") or "").rstrip("/").split("/")[-1]
+        link = f"https://www.ascona-locarno.com/de/events/details/{slug_name}/{item_id}" if item_id else ""
         out[CITIES[city]].append({
             "id": str(ev.get("itemId")),
             "cat": cat_key,
@@ -132,7 +136,7 @@ def build(lang="de"):
             "venue": venue,           # "" oder Seepromenade/Lido/Piazza
             "keyVenue": bool(venue),  # Hauptort ja/nein
             "image": ev.get("imageName") or "",
-            "link": ev.get("slug") or "",
+            "link": link,
             "lat": ev.get("mapLatitude"),
             "lng": ev.get("mapLongitude"),
             "isTop": bool(ev.get("isTopEvent")),
