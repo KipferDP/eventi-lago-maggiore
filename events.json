@@ -16,7 +16,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/in-silenzio-alexandra-von-burg/12436",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10922",
@@ -32,7 +33,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
     "lat": 46.1585094,
     "lng": 8.762817,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10042",
@@ -48,7 +50,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/jazzascona-2026/10042",
     "lat": 46.1537368,
     "lng": 8.7689245,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10006088",
@@ -64,7 +67,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10081",
@@ -80,7 +84,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
     "lat": 46.1537368,
     "lng": 8.7689245,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006136",
@@ -96,7 +101,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/spettacolo-di-circo-marionetta-di-lucy-lucky-loop/10006136",
     "lat": 46.1537183,
     "lng": 8.7692132,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006287",
@@ -112,7 +118,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ensemble-in-residence-quartetto-kontakt/10006287",
     "lat": 46.1539078,
     "lng": 8.7688003,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006289",
@@ -128,7 +135,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte/10006289",
     "lat": 46.1599336,
     "lng": 8.7734914,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12150",
@@ -144,7 +152,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/cantiere-aperto-n-3/12150",
     "lat": 46.161196,
     "lng": 8.773822,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006290",
@@ -160,7 +169,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musik-und-wort-musica-e-parola/10006290",
     "lat": 46.1599336,
     "lng": 8.7734914,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006311",
@@ -176,7 +186,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte-ticino-musica-festival/10006311",
     "lat": 46.1599336,
     "lng": 8.7734914,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12055",
@@ -192,7 +203,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/polysportcamp-ascona/12055",
     "lat": 46.1556246,
     "lng": 8.7752612,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10248",
@@ -208,7 +220,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/tanzende-fontaenenshow/10248",
     "lat": 46.152626362073,
     "lng": 8.7706283824951,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10340",
@@ -224,7 +237,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/feierlichkeiten-am-1-august-mit-tanzenden-fontaenen/10340",
     "lat": 46.1537368,
     "lng": 8.7689245,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10350",
@@ -240,7 +254,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/tessiner-unspunnen-meisterschaft-das-schweizer-steinwerfen/10350",
     "lat": 46.15461859885,
     "lng": 8.7674086423279,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10345",
@@ -256,7 +271,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/concerto-dal-balcone/10345",
     "lat": 46.1537183,
     "lng": 8.7692132,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10358",
@@ -272,7 +288,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-rock-night/10358",
     "lat": 46.155619249761,
     "lng": 8.7672454226929,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10360",
@@ -288,7 +305,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-dj-night/10360",
     "lat": 46.1537368,
     "lng": 8.7689245,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10071",
@@ -304,7 +322,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-polo-cup/10071",
     "lat": 46.160757543463,
     "lng": 8.781336007843,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10080",
@@ -320,7 +339,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/csi-ascona/10080",
     "lat": 46.160757543463,
     "lng": 8.781336007843,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10259",
@@ -336,7 +356,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/sunice-festival/10259",
     "lat": 46.148153097038,
     "lng": 8.7791007757187,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10024",
@@ -352,7 +373,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/classicascona-nr-81-by-fondazione-settimane-musicali-ascona/10024",
     "lat": 46.1552882,
     "lng": 8.7711284,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10380",
@@ -368,7 +390,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-classic-car-award/10380",
     "lat": 46.1615793,
     "lng": 8.7750131,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10005826",
@@ -384,7 +407,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/monte-verita-musik-literatur-san-gottardo/10005826",
     "lat": 46.1585851,
     "lng": 8.7628859,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006422",
@@ -400,7 +424,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musica-e-shopping-nel-borgo-di-ascona/10006422",
     "lat": 46.1561054,
     "lng": 8.7678927,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10086",
@@ -416,7 +441,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/herbstfest-ascona/10086",
     "lat": 46.1537368,
     "lng": 8.7689245,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "11417",
@@ -432,7 +458,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kastanienfest-ascona/11417",
     "lat": 46.1615793,
     "lng": 8.7750131,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10394",
@@ -448,7 +475,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/pro-am-comune-di-ascona-otlmv/10394",
     "lat": 46.149037604415,
     "lng": 8.7826681137085,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10396",
@@ -464,7 +492,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/international-classic-jazz-workshop/10396",
     "lat": 46.159331,
     "lng": 8.7694342,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "11539",
@@ -480,7 +509,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kunsthandwerker-in-borgo-weihnachtsmarkt-in-ascona/11539",
     "lat": 46.1615793,
     "lng": 8.7750131,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10401",
@@ -496,7 +526,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/corsa-da-natal/10401",
     "lat": 46.1537183,
     "lng": 8.7692132,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    }
   ],
   "locarno": [
@@ -514,7 +545,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12482",
@@ -530,7 +562,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/arp-cahn-magnelli-taeuber-arp-kunst-leben-kunst-geben/12482",
     "lat": 46.172777,
     "lng": 8.770584,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10092",
@@ -546,7 +579,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/locarno-organ-festival-2026/10092",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10137",
@@ -562,7 +596,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/verbano-musica-estate/10137",
     "lat": 46.1694825,
     "lng": 8.793725,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006346",
@@ -578,7 +613,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/mondiali-2026-lake-view-locarno/10006346",
     "lat": 46.157378404537,
     "lng": 8.8024333119392,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10824",
@@ -594,7 +630,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festeggiamo/10824",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10006295",
@@ -610,7 +647,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/swisssportsterday-20-saltalacena/10006295",
     "lat": 46.1698704,
     "lng": 8.79865,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006394",
@@ -626,7 +664,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/un-piccolo-regalo-di-nozze/10006394",
     "lat": 46.1668905,
     "lng": 8.798261,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10195",
@@ -642,7 +681,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
     "lat": 46.1696279,
     "lng": 8.7990235,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006313",
@@ -658,7 +698,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/the-alpine-seven/10006313",
     "lat": 46.137266904508,
     "lng": 8.7768547914062,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10005836",
@@ -674,7 +715,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/orchestra-canova/10005836",
     "lat": 46.1684184,
     "lng": 8.7933135,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006271",
@@ -690,7 +732,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/yamore-open-air/10006271",
     "lat": 46.157378404537,
     "lng": 8.8024333119392,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10053",
@@ -706,7 +749,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/moon-stars-2026/10053",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10003850",
@@ -722,7 +766,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/emis-killa-rkomi-sal-da-vinci/10003850",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10000033",
@@ -738,7 +783,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/rkomi/10000033",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10000035",
@@ -754,7 +800,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/sal-da-vinci/10000035",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11001",
@@ -770,7 +817,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/gratis-busdienst-locarno-gambarogno/11001",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12333",
@@ -786,7 +834,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/bligg/12333",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10003840",
@@ -802,7 +851,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/eifachben/10003840",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12332",
@@ -818,7 +868,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/goela-bligg-eifachben/12332",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10000011",
@@ -834,7 +885,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kim-wilde/10000011",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12479",
@@ -850,7 +902,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/roxette-kim-wilde/12479",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10003763",
@@ -866,7 +919,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/duran-duran-hurts/10003763",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12481",
@@ -882,7 +936,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/hurts/12481",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11910",
@@ -898,7 +953,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/neil-young-and-the-chrome-hearts/11910",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11865",
@@ -914,7 +970,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/jamiroquai-lp/11865",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12211",
@@ -930,7 +987,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lp/12211",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10003825",
@@ -946,7 +1004,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/jessie-j/10003825",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11819",
@@ -962,7 +1021,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/onerepublic-jessie-j/11819",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10003762",
@@ -978,7 +1038,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/giant-rooks/10003762",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11814",
@@ -994,7 +1055,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lewis-capaldi-giant-rooks/11814",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12036",
@@ -1010,7 +1072,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/max-pezzali-noemi/12036",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10000059",
@@ -1026,7 +1089,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/noemi/10000059",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12037",
@@ -1042,7 +1106,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/alan-walker-rita-ora-the-kolors/12037",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12418",
@@ -1058,7 +1123,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/rita-ora/12418",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10003729",
@@ -1074,7 +1140,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/the-kolors/10003729",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12040",
@@ -1090,7 +1157,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/heimatliebi/12040",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12039",
@@ -1106,7 +1174,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/stubete-gaeng/12039",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "12038",
@@ -1122,7 +1191,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/trauffer-stubete-gaeng-heimatliebi/12038",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10238",
@@ -1138,7 +1208,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festival-ticino-musica/10238",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12480",
@@ -1154,7 +1225,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/sarah-connor-wincent-weiss/12480",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "11866",
@@ -1170,7 +1242,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/wincent-weiss/11866",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": "Moon+Stars 2026"
    },
    {
     "id": "10055",
@@ -1186,7 +1259,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/luci-e-ombre/10055",
     "lat": 46.1710217,
     "lng": 8.8021322,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10245",
@@ -1202,7 +1276,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-theaterfestival-il-teatro-in-festa/10245",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12545",
@@ -1218,7 +1293,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lo-sciopero-delle-bambine/12545",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12546",
@@ -1234,7 +1310,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/gaber-sotto-le-stelle/12546",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10003849",
@@ -1250,7 +1327,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/la-boheme/10003849",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006315",
@@ -1266,7 +1344,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/opera-a-locarno-ticino-musica-festival/10006315",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10249",
@@ -1282,7 +1361,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/rotonda-by-la-mobiliare/10249",
     "lat": 46.1668534,
     "lng": 8.7933165,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10000024",
@@ -1298,7 +1378,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/i-fiori-nella-ghisa/10000024",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12547",
@@ -1314,7 +1395,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/mobile/12547",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10003770",
@@ -1330,7 +1412,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lucia-e-il-brigante/10003770",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10000026",
@@ -1346,7 +1429,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lu-santo-jullare-francesco/10000026",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10056",
@@ -1362,7 +1446,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/locarno-film-festival-2026/10056",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10003874",
@@ -1378,7 +1463,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10347",
@@ -1394,7 +1480,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/das-verwunschene-schloss/10347",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10342",
@@ -1410,7 +1497,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/tessiner-risotto-meisterschaft/10342",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10003828",
@@ -1426,7 +1514,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festival-warm-up-concert-tra-mondi-zwischen-welten-anteprima-corner-banca/10003828",
     "lat": 46.1678609,
     "lng": 8.7917756,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10073",
@@ -1442,7 +1531,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/triathlon-locarno/10073",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "12311",
@@ -1458,7 +1548,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/johannes-michel/12311",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10084",
@@ -1474,7 +1565,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/gastronomischer-herbst-lago-maggiore-e-valli/10084",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "12313",
@@ -1490,7 +1582,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/stephan-rahn/12313",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12371",
@@ -1506,7 +1599,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/run-in-fly/12371",
     "lat": 46.1616261,
     "lng": 8.8032376,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10369",
@@ -1522,7 +1616,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/gesang-in-den-hoefen/10369",
     "lat": 46.169806,
     "lng": 8.7946727,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12315",
@@ -1538,7 +1633,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/stefano-molardi/12315",
     "lat": 46.1699706,
     "lng": 8.7799705,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10377",
@@ -1554,7 +1650,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/lokaler-markt-fuer-produkte/10377",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10003734",
@@ -1570,7 +1667,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/roberto-olzer/10003734",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12316",
@@ -1586,7 +1684,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/marina-jahn/12316",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10077",
@@ -1602,7 +1701,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-locarno-run/10077",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10063",
@@ -1618,7 +1718,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/runthrough-trails-ascona-locarno/10063",
     "lat": 46.1698704,
     "lng": 8.79865,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10006435",
@@ -1634,7 +1735,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/tessiner-herbstzauber-hike-bike-zwischen-palmen-graten-und-gipfeln/10006435",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10057",
@@ -1650,7 +1752,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festival-la-donna-crea/10057",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12373",
@@ -1666,7 +1769,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/espo-verbano-1/12373",
     "lat": 46.1641605,
     "lng": 8.7887892,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12202",
@@ -1682,7 +1786,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/pink-floyd-tributo-wish-you-were-here/12202",
     "lat": 46.1698704,
     "lng": 8.79865,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "12394",
@@ -1698,7 +1803,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/alessandro-urbano/12394",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false
+    "isTop": false,
+    "parent": ""
    },
    {
     "id": "10006248",
@@ -1714,7 +1820,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/generali-run-the-sun-ascona-locarno-marathon/10006248",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    },
    {
     "id": "10020",
@@ -1730,7 +1837,8 @@
     "link": "https://www.ascona-locarno.com/de/events/details/blumenausstellung-camelie-locarno/10020",
     "lat": 46.1575972,
     "lng": 8.8018197,
-    "isTop": true
+    "isTop": true,
+    "parent": ""
    }
   ]
  }

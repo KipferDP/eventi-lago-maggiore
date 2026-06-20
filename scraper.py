@@ -86,6 +86,32 @@ def date_text(d_from, d_until):
     return fmt_date(d_from)
 
 
+DAY_MS = 86400000
+
+
+def assign_parents(lst):
+    """Markiert Einzel-Events, die zu einem mehrtägigen Über-Event (Festival)
+    am selben Ort und im selben Zeitraum gehören (z. B. Konzerte → Moon+Stars)."""
+    umbrellas = [u for u in lst
+                 if u.get("isTop") and u["_street"] and (u["_end"] - u["_start"]) >= 2 * DAY_MS]
+    for e in lst:
+        espan = e["_end"] - e["_start"]
+        best = None
+        for u in umbrellas:
+            if u is e or not u["_street"] or u["_street"] != e["_street"]:
+                continue
+            uspan = u["_end"] - u["_start"]
+            if espan >= uspan:                       # nur kürzere Events sind "Kinder"
+                continue
+            if u["title"] == e["title"]:
+                continue
+            if u["_start"] <= e["_start"] <= u["_end"]:
+                if best is None or (best["_end"] - best["_start"]) > uspan:
+                    best = u                         # spezifischstes (kürzestes) Über-Event
+        if best:
+            e["parent"] = best["title"]
+
+
 def category(ev):
     facets = ev.get("listFacetIdAttributeEvent") or []
     for f in facets:
@@ -146,9 +172,16 @@ def build(lang="de"):
             "lat": ev.get("mapLatitude"),
             "lng": ev.get("mapLongitude"),
             "isTop": bool(ev.get("isTopEvent")),
+            "parent": "",
+            "_start": ev.get("validFromDate") or 0,
+            "_end": ev.get("validUntilDate") or ev.get("validFromDate") or 0,
+            "_street": (ev.get("street") or "").strip().lower(),
         })
 
     for c in out:
+        assign_parents(out[c])
+        for e in out[c]:
+            e.pop("_start", None); e.pop("_end", None); e.pop("_street", None)
         out[c].sort(key=lambda e: e["sortKey"])
     print(f"-> Ascona {len(out['ascona'])}, Locarno {len(out['locarno'])}", file=sys.stderr)
     return out
