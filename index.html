@@ -129,11 +129,18 @@ function icon(c){return ICONS[c]||ICONS.event;}
 
 function render(){
   let items=[...(DATA[current]||[])];
-  // Sortierung: rein chronologisch – was als Nächstes kommt, zuerst.
-  // Bereits laufende Events (Start in Vergangenheit, noch nicht vorbei) zählen als "heute".
+  // Sortierung auf Tagesebene: HEUTE startende Events zuerst, dann bereits
+  // laufende (vor heute begonnen), dann die kommenden nach Datum.
   const t0=new Date(); t0.setHours(0,0,0,0); const today=t0.getTime();
-  const eff=e=>Math.max(e.sortKey||0, today);
-  items.sort((a,b)=> eff(a)-eff(b) || (a.sortKey||0)-(b.sortKey||0));
+  const dayOf=ms=>{const d=new Date(ms||0); d.setHours(0,0,0,0); return d.getTime();};
+  const effDay=e=>Math.max(dayOf(e.sortKey), today);
+  items.sort((a,b)=>{
+    const da=effDay(a), db=effDay(b);
+    if(da!==db) return da-db;                       // nach (effektivem) Tag
+    const oa=dayOf(a.sortKey)<today?1:0, ob=dayOf(b.sortKey)<today?1:0;
+    if(oa!==ob) return oa-ob;                        // heute-startende vor laufenden
+    return (a.sortKey||0)-(b.sortKey||0);
+  });
 
   document.getElementById('c-ascona').textContent=(DATA.ascona||[]).length;
   document.getElementById('c-locarno').textContent=(DATA.locarno||[]).length;
@@ -143,7 +150,7 @@ function render(){
   const cover=current==='ascona'?'ascona-cover.jpg':'locarno-cover.jpg';
   list.innerHTML=items.map(e=>{
     const c=color(e.cat);
-    const ongoing=(e.sortKey||0)<today;
+    const ongoing=dayOf(e.sortKey)<today;
     const bg=e.image?`background-image:url('${e.image}')`:`background-image:url('${cover}')`;
     return `<div class="card" onclick="openDetail('${current}','${e.id}')">
       <div class="img" style="${bg}">
