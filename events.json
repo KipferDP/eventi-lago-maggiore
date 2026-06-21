@@ -1,5 +1,5 @@
 {
- "updated": "20.06.2026 22:30",
+ "updated": "21.06.2026 10:23",
  "events": {
   "ascona": [
    {
@@ -631,40 +631,6 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10006295",
-    "cat": "festival",
-    "catLabel": "Festival",
-    "title": "SwissSportsterDay 2.0 / SaltaLaCena",
-    "dateText": "Sa, 20.06.2026",
-    "sortKey": 1781942400000,
-    "loc": "Largo Franco Zorzi, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/535b97de5566ef11b1e7c688fa854592c66a7d2b-1200x1600.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/swisssportsterday-20-saltalacena/10006295",
-    "lat": 46.1698704,
-    "lng": 8.79865,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006394",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Un piccolo regalo di nozze",
-    "dateText": "Sa, 20.06.2026",
-    "sortKey": 1781980200000,
-    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b0b58b9fdea5596e5a2d88977682b09d56f9cf29-1139x1600.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/un-piccolo-regalo-di-nozze/10006394",
-    "lat": 46.1668905,
-    "lng": 8.798261,
-    "isTop": false,
     "parent": ""
    },
    {
