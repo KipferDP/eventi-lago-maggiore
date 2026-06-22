@@ -1,5 +1,5 @@
 {
- "updated": "21.06.2026 10:23",
+ "updated": "22.06.2026 11:42",
  "events": {
   "ascona": [
    {
@@ -84,6 +84,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
     "lat": 46.1537368,
     "lng": 8.7689245,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006442",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Vernissage „FESTINA LENTE“ – Lisa Lurati & Karim Forlin",
+    "dateText": "Sa, 11.07.2026",
+    "sortKey": 1783778400000,
+    "loc": "Galleria Sacchetti - via Beato P. Berno 14, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/vernissage-festina-lente-lisa-lurati-karim-forlin/10006442",
+    "lat": 46.154708,
+    "lng": 8.768589,
     "isTop": false,
     "parent": ""
    },
