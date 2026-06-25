@@ -1,5 +1,5 @@
 {
- "updated": "24.06.2026 09:35",
+ "updated": "25.06.2026 09:36",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/in-silenzio-alexandra-von-burg/12436",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10922",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Yoga am Monte Verità",
-    "dateText": "Mi, 24.06.–26.08.2026",
-    "sortKey": 1782318600000,
-    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
-    "lat": 46.1585094,
-    "lng": 8.762817,
     "isTop": false,
     "parent": ""
    },
@@ -67,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10922",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Yoga am Monte Verità",
+    "dateText": "Mi, 01.07.–26.08.2026",
+    "sortKey": 1782923400000,
+    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
+    "lat": 46.1585094,
+    "lng": 8.762817,
     "isTop": false,
     "parent": ""
    },
