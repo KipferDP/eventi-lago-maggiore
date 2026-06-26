@@ -1,5 +1,5 @@
 {
- "updated": "25.06.2026 09:36",
+ "updated": "26.06.2026 09:44",
  "events": {
   "ascona": [
    {
@@ -37,23 +37,6 @@
     "parent": ""
    },
    {
-    "id": "10006088",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Apero in zibrett",
-    "dateText": "Do, 25.06.–03.09.2026",
-    "sortKey": 1782403200000,
-    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
-    "lat": 46.1482016,
-    "lng": 8.778376,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10922",
     "cat": "sport",
     "catLabel": "Sport",
@@ -67,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
     "lat": 46.1585094,
     "lng": 8.762817,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006088",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Apero in zibrett",
+    "dateText": "Do, 02.07.–03.09.2026",
+    "sortKey": 1783008000000,
+    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
+    "lat": 46.1482016,
+    "lng": 8.778376,
     "isTop": false,
     "parent": ""
    },
