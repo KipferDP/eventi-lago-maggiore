@@ -19,7 +19,8 @@ except Exception:
     TZ = None
 
 API = "https://api.ticino.ch/fileadmin/api/events/?lang={lang}"
-CITIES = {"Ascona": "ascona", "Locarno": "locarno", "Minusio": "minusio", "Tenero": "tenero"}
+CITIES = {"Ascona": "ascona", "Locarno": "locarno", "Minusio": "minusio",
+          "Tenero": "tenero", "Orselina": "orselina", "Muralto": "muralto"}
 HEADERS = {"User-Agent": "Mozilla/5.0 (EventiLagoMaggiore/1.0)"}
 
 WEEKDAYS = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
@@ -61,6 +62,16 @@ VENUES = {
     "Tenero": [
         ("Seepromenade", ["lungolago"]),
         ("Lido",         ["lido"]),
+    ],
+    "Orselina": [
+        ("Park",   ["parco di orselina", "parco", "via caselle"]),
+        ("Cardada",["cardada"]),
+        ("Sasso",  ["madonna del sasso", "santuario"]),
+    ],
+    "Muralto": [
+        ("Seepromenade", ["lungolago", "viale verbano", "burbaglio"]),
+        ("Lido",         ["lido"]),
+        ("Bahnhof",      ["piazza stazione"]),
     ],
 }
 
