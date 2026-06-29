@@ -2,8 +2,8 @@
 """
 Event-Scraper fuer die App "Eventi Lago Maggiore".
 Holt die Events von der offiziellen Ticino-Turismo-Schnittstelle,
-filtert Ascona + Locarno und schreibt sie als data.js (von der App geladen)
-sowie events.json (fuer Hosting/Weiterverwendung).
+filtert Ascona + Locarno + Minusio + Tenero und schreibt sie als data.js
+(von der App geladen) sowie events.json (fuer Hosting/Weiterverwendung).
 
 Quelle:  https://api.ticino.ch/fileadmin/api/events/?lang=<lang>
 Aufruf:  python3 scraper.py            (Sprache de)
@@ -19,7 +19,7 @@ except Exception:
     TZ = None
 
 API = "https://api.ticino.ch/fileadmin/api/events/?lang={lang}"
-CITIES = {"Ascona": "ascona", "Locarno": "locarno"}
+CITIES = {"Ascona": "ascona", "Locarno": "locarno", "Minusio": "minusio", "Tenero": "tenero"}
 HEADERS = {"User-Agent": "Mozilla/5.0 (EventiLagoMaggiore/1.0)"}
 
 WEEKDAYS = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
@@ -53,6 +53,14 @@ VENUES = {
         ("Piazza",       ["piazza grande"]),
         ("Seepromenade", ["lungolago"]),
         ("Lido",         ["lido", "respini"]),
+    ],
+    "Minusio": [
+        ("Seepromenade", ["lungolago", "via alla riva", "rivapiana"]),
+        ("Lido",         ["lido"]),
+    ],
+    "Tenero": [
+        ("Seepromenade", ["lungolago"]),
+        ("Lido",         ["lido"]),
     ],
 }
 
@@ -129,7 +137,7 @@ def build(lang="de"):
     print(f"-> {len(items)} Events total", file=sys.stderr)
 
     today = date.today()
-    out = {"ascona": [], "locarno": []}
+    out = {slug: [] for slug in CITIES.values()}
     seen = set()
 
     for ev in items:
@@ -183,7 +191,8 @@ def build(lang="de"):
         for e in out[c]:
             e.pop("_start", None); e.pop("_end", None); e.pop("_street", None)
         out[c].sort(key=lambda e: e["sortKey"])
-    print(f"-> Ascona {len(out['ascona'])}, Locarno {len(out['locarno'])}", file=sys.stderr)
+    summary = ", ".join(f"{name} {len(out[slug])}" for name, slug in CITIES.items())
+    print(f"-> {summary}", file=sys.stderr)
     return out
 
 
