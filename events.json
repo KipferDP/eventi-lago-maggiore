@@ -1,5 +1,5 @@
 {
- "updated": "30.06.2026 09:44",
+ "updated": "01.07.2026 10:05",
  "events": {
   "ascona": [
    {
@@ -101,6 +101,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/spettacolo-di-circo-marionetta-di-lucy-lucky-loop/10006136",
     "lat": 46.1537183,
     "lng": 8.7692132,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006490",
+    "cat": "event",
+    "catLabel": "Event",
+    "title": "Kreuzfahrten an Bord des Dampfschiffs Piemonte ab Ascona",
+    "dateText": "So, 19.07.2026",
+    "sortKey": 1784453400000,
+    "loc": "Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/kreuzfahrten-an-bord-des-dampfschiffs-piemonte-ab-ascona/10006490",
+    "lat": 46.1537498,
+    "lng": 8.7686806,
     "isTop": false,
     "parent": ""
    },
@@ -238,6 +255,23 @@
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10006495",
+    "cat": "festival",
+    "catLabel": "Festival",
+    "title": "1.-August-Feuerwerk – Bundesfeier",
+    "dateText": "Sa, 01.08.2026",
+    "sortKey": 1785609000000,
+    "loc": "Via Lido 84, Ascona",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/518546bdf7634999fdc2a3f7e05df648a040eca3-4000x2667.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/1-august-feuerwerk-bundesfeier/10006495",
+    "lat": 46.1475114,
+    "lng": 8.7821734,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -614,23 +648,6 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10195",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno Time Travel Tour",
-    "dateText": "Di, 30.06.2026",
-    "sortKey": 1782806400000,
-    "loc": "Casinò Locarno - Largo Franco Zorzi 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d7658b8cbc8c544117165f26bb8b57e8c1bb1dde-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
-    "lat": 46.1696279,
-    "lng": 8.7990235,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -1110,6 +1127,23 @@
     "parent": "Moon+Stars 2026"
    },
    {
+    "id": "10006486",
+    "cat": "fuehrung",
+    "catLabel": "Führung",
+    "title": "Kreuzfahrten mit dem Dampfschiff Piemonte ab Ascona/Locarno/Magadino",
+    "dateText": "Sa, 18.07.–19.07.2026",
+    "sortKey": 1784368800000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9fe535534d8d72b0dab23bff5c0060ade074d0fb-1024x768.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/kreuzfahrten-mit-dem-dampfschiff-piemonte-ab-ascona-locarno-magadino/10006486",
+    "lat": 46.137266904508,
+    "lng": 8.7768547914062,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10238",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1123,6 +1157,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festival-ticino-musica/10238",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006485",
+    "cat": "fuehrung",
+    "catLabel": "Führung",
+    "title": "Kreuzfahrten an Bord des Raddampfers Piemonte ab Locarno",
+    "dateText": "So, 19.07.2026",
+    "sortKey": 1784449800000,
+    "loc": "Locarno (lago) Debarcadero - Via Giuseppe Motta 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9fe535534d8d72b0dab23bff5c0060ade074d0fb-1024x768.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/kreuzfahrten-an-bord-des-raddampfers-piemonte-ab-locarno/10006485",
+    "lat": 46.1762749,
+    "lng": 8.8135381,
     "isTop": false,
     "parent": ""
    },
@@ -1450,6 +1501,23 @@
     "parent": ""
    },
    {
+    "id": "10362",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Festa Pro Cardada & Family Fun",
+    "dateText": "So, 06.09.2026",
+    "sortKey": 1788681600000,
+    "loc": "Cardada, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/965e2b8cd2f12271b8bd53476dbcfb27386f0028-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/festa-pro-cardada-family-fun/10362",
+    "lat": 46.1935,
+    "lng": 8.78446,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "12311",
     "cat": "event",
     "catLabel": "Event",
@@ -1531,6 +1599,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/gesang-in-den-hoefen/10369",
     "lat": 46.169806,
     "lng": 8.7946727,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10421",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Festa dei popoli",
+    "dateText": "So, 20.09.2026",
+    "sortKey": 1789894800000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/36be4d52c16950fbb715db5ed60c5ff0bb43167d-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/festa-dei-popoli/10421",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
     "isTop": false,
     "parent": ""
    },
@@ -1813,23 +1898,6 @@
   ],
   "orselina": [
    {
-    "id": "10921",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Yoga im Orselina Park",
-    "dateText": "Di, 30.06.–27.08.2026",
-    "sortKey": 1782802800000,
-    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
-    "venue": "Park",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0c18c8da4fdb2d94545a96a84d17771b87374570-4128x3096.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yoga-im-orselina-park/10921",
-    "lat": 46.1774606,
-    "lng": 8.7972003,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10006448",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1841,6 +1909,23 @@
     "keyVenue": true,
     "image": "",
     "link": "https://www.ascona-locarno.com/de/events/details/jazz-al-parco/10006448",
+    "lat": 46.1774606,
+    "lng": 8.7972003,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10921",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Yoga im Orselina Park",
+    "dateText": "Do, 02.07.–27.08.2026",
+    "sortKey": 1782975600000,
+    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
+    "venue": "Park",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0c18c8da4fdb2d94545a96a84d17771b87374570-4128x3096.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-im-orselina-park/10921",
     "lat": 46.1774606,
     "lng": 8.7972003,
     "isTop": false,
@@ -1955,8 +2040,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Di, 30.06.–11.07.2026",
-    "sortKey": 1782820800000,
+    "dateText": "Mi, 01.07.–11.07.2026",
+    "sortKey": 1782907200000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
