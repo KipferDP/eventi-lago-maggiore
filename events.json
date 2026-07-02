@@ -1,5 +1,5 @@
 {
- "updated": "01.07.2026 10:05",
+ "updated": "02.07.2026 09:25",
  "events": {
   "ascona": [
    {
@@ -17,23 +17,6 @@
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10922",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Yoga am Monte Verità",
-    "dateText": "Mi, 01.07.–26.08.2026",
-    "sortKey": 1782923400000,
-    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
-    "lat": 46.1585094,
-    "lng": 8.762817,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -67,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
     "lat": 46.1537368,
     "lng": 8.7689245,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10922",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Yoga am Monte Verità",
+    "dateText": "Mi, 08.07.–26.08.2026",
+    "sortKey": 1783528200000,
+    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
+    "lat": 46.1585094,
+    "lng": 8.762817,
     "isTop": false,
     "parent": ""
    },
@@ -804,6 +804,23 @@
     "parent": "Moon+Stars 2026"
    },
    {
+    "id": "10006503",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Assos Collective 13 ride to Lago del Naret and San Carlo Val Bavona",
+    "dateText": "Sa, 11.07.2026",
+    "sortKey": 1783751400000,
+    "loc": "Rock'n Road, Via Serafino Balestra 20, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f72d9eeed291fa40a72d7b66684ca948e22ece12-2215x3322.jpg?fm=webp&q=90&w=588&h=441&rect=0,1939,2215,1383&fit=crop&fp-x=0.5&fp-y=0.79182742160515&rect=0,247,1080,931&fit=crop&fp-x=0.5&fp-y=0.5207954250065",
+    "link": "https://www.ascona-locarno.com/de/events/details/assos-collective-13-ride-to-lago-del-naret-and-san-carlo-val-bavona/10006503",
+    "lat": 46.1646995,
+    "lng": 8.7969707,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10000011",
     "cat": "event",
     "catLabel": "Event",
@@ -1535,6 +1552,23 @@
     "parent": ""
    },
    {
+    "id": "10387",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "S. Pellegrino Sapori Ticino 2026",
+    "dateText": "So, 13.09.–15.11.2026",
+    "sortKey": 1789293600000,
+    "loc": "Während der zwei Monate des Festivals finden mehrere Abendessen an einigen der besten Orte im Kanton Tessin statt.",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c67051a1e3a2a0121be262d11eb01cdba2e8680-2481x1754.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/s-pellegrino-sapori-ticino-2026/10387",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10084",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -1898,23 +1932,6 @@
   ],
   "orselina": [
    {
-    "id": "10006448",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Jazz al Parco",
-    "dateText": "Mi, 01.07.2026",
-    "sortKey": 1782932400000,
-    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
-    "venue": "Park",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/jazz-al-parco/10006448",
-    "lat": 46.1774606,
-    "lng": 8.7972003,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10921",
     "cat": "sport",
     "catLabel": "Sport",
@@ -2040,8 +2057,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Mi, 01.07.–11.07.2026",
-    "sortKey": 1782907200000,
+    "dateText": "Do, 02.07.–11.07.2026",
+    "sortKey": 1782993600000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
