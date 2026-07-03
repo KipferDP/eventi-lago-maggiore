@@ -1,5 +1,5 @@
 {
- "updated": "02.07.2026 09:25",
+ "updated": "03.07.2026 08:56",
  "events": {
   "ascona": [
    {
@@ -17,23 +17,6 @@
     "lat": 46.1537368,
     "lng": 8.7689245,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10006088",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Apero in zibrett",
-    "dateText": "Do, 02.07.–03.09.2026",
-    "sortKey": 1783008000000,
-    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
-    "lat": 46.1482016,
-    "lng": 8.778376,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -67,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
     "lat": 46.1585094,
     "lng": 8.762817,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006088",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Apero in zibrett",
+    "dateText": "Do, 09.07.–03.09.2026",
+    "sortKey": 1783612800000,
+    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
+    "lat": 46.1482016,
+    "lng": 8.778376,
     "isTop": false,
     "parent": ""
    },
@@ -1936,8 +1936,8 @@
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Yoga im Orselina Park",
-    "dateText": "Do, 02.07.–27.08.2026",
-    "sortKey": 1782975600000,
+    "dateText": "Di, 07.07.–27.08.2026",
+    "sortKey": 1783407600000,
     "loc": "Parco di Orselina - Via Caselle 6, Orselina",
     "venue": "Park",
     "keyVenue": true,
@@ -2057,8 +2057,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Do, 02.07.–11.07.2026",
-    "sortKey": 1782993600000,
+    "dateText": "Fr, 03.07.–11.07.2026",
+    "sortKey": 1783080000000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
