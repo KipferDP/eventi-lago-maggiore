@@ -1,5 +1,5 @@
 {
- "updated": "04.07.2026 08:41",
+ "updated": "05.07.2026 09:19",
  "events": {
   "ascona": [
    {
@@ -648,23 +648,6 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10006271",
-    "cat": "festival",
-    "catLabel": "Festival",
-    "title": "Yamorè Open Air",
-    "dateText": "Sa, 04.07.2026",
-    "sortKey": 1783173600000,
-    "loc": "Lake View - Via Gioacchino Respini 17, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/523415f90dabe10721114f970b97ae947649f6d3-3375x4219.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yamore-open-air/10006271",
-    "lat": 46.157378404537,
-    "lng": 8.8024333119392,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -1894,23 +1877,6 @@
   ],
   "minusio": [
    {
-    "id": "10006478",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Seefeste",
-    "dateText": "Do, 02.07.–05.07.2026",
-    "sortKey": 1783006200000,
-    "loc": "Via alla Riva 22 - Portigon, Minusio",
-    "venue": "Seepromenade",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fa9dfda5b4b1f5912a50a8d3b390f79769ff98d6-1274x1822.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/seefeste/10006478",
-    "lat": 46.1721516,
-    "lng": 8.8128987,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10383",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -2091,8 +2057,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Sa, 04.07.–11.07.2026",
-    "sortKey": 1783166400000,
+    "dateText": "Mo, 06.07.–11.07.2026",
+    "sortKey": 1783339200000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
