@@ -1,5 +1,5 @@
 {
- "updated": "05.07.2026 09:19",
+ "updated": "06.07.2026 10:14",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10081",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Trekking Schmugglerpfad",
-    "dateText": "So, 05.07.–03.10.2026",
-    "sortKey": 1783227600000,
-    "loc": "Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e160c3b13fb49827db8d5dd2845c5b7b6d3a9d58-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
-    "lat": 46.1537368,
-    "lng": 8.7689245,
     "isTop": false,
     "parent": ""
    },
@@ -67,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10081",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Trekking Schmugglerpfad",
+    "dateText": "Sa, 11.07.–03.10.2026",
+    "sortKey": 1783746000000,
+    "loc": "Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e160c3b13fb49827db8d5dd2845c5b7b6d3a9d58-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
+    "lat": 46.1537368,
+    "lng": 8.7689245,
     "isTop": false,
     "parent": ""
    },
@@ -561,6 +561,23 @@
     "lat": 46.1537183,
     "lng": 8.7692132,
     "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10042",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "JazzAscona 2026",
+    "dateText": "Do, 24.06.–03.07.2027",
+    "sortKey": 1813827600000,
+    "loc": "Lungolago, Ascona",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6454420afd6a32478e7259b50aa1733a792d01ee-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/jazzascona-2026/10042",
+    "lat": 46.1537368,
+    "lng": 8.7689245,
+    "isTop": true,
     "parent": ""
    }
   ],
@@ -1233,7 +1250,7 @@
     "cat": "festival",
     "catLabel": "Festival",
     "title": "Tribünen-Schiff für das Feuerwerksspektakel Luci e Ombre",
-    "dateText": "Sa, 25.07.–26.07.2026",
+    "dateText": "Sa, 25.07.2026",
     "sortKey": 1785003600000,
     "loc": "Locarno (lago) Debarcadero - Via Giuseppe Motta 1, Locarno",
     "venue": "",
