@@ -1,5 +1,5 @@
 {
- "updated": "07.07.2026 09:32",
+ "updated": "08.07.2026 08:23",
  "events": {
   "ascona": [
    {
@@ -1949,23 +1949,6 @@
   ],
   "orselina": [
    {
-    "id": "10921",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Yoga im Orselina Park",
-    "dateText": "Di, 07.07.–27.08.2026",
-    "sortKey": 1783407600000,
-    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
-    "venue": "Park",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0c18c8da4fdb2d94545a96a84d17771b87374570-4128x3096.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yoga-im-orselina-park/10921",
-    "lat": 46.1774606,
-    "lng": 8.7972003,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10006520",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1977,6 +1960,23 @@
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9d067bdd3a038112bcb96714c06296083cca67bb-2400x1597.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/blues-im-park/10006520",
+    "lat": 46.1774606,
+    "lng": 8.7972003,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10921",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Yoga im Orselina Park",
+    "dateText": "Do, 09.07.–27.08.2026",
+    "sortKey": 1783580400000,
+    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
+    "venue": "Park",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0c18c8da4fdb2d94545a96a84d17771b87374570-4128x3096.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-im-orselina-park/10921",
     "lat": 46.1774606,
     "lng": 8.7972003,
     "isTop": false,
@@ -2091,8 +2091,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Di, 07.07.–11.07.2026",
-    "sortKey": 1783425600000,
+    "dateText": "Mi, 08.07.–11.07.2026",
+    "sortKey": 1783512000000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
