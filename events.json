@@ -1,5 +1,5 @@
 {
- "updated": "08.07.2026 08:23",
+ "updated": "09.07.2026 09:31",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10922",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Yoga am Monte Verità",
-    "dateText": "Mi, 08.07.–26.08.2026",
-    "sortKey": 1783528200000,
-    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
-    "lat": 46.1585094,
-    "lng": 8.762817,
     "isTop": false,
     "parent": ""
    },
@@ -84,6 +67,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/vernissage-festina-lente-lisa-lurati-karim-forlin/10006442",
     "lat": 46.154708,
     "lng": 8.768589,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10922",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Yoga am Monte Verità",
+    "dateText": "Mi, 15.07.–26.08.2026",
+    "sortKey": 1784133000000,
+    "loc": "Fondazione Monte Verità - Strada Collina 84, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/50af48b99556401da4752d3b46d2d903fe178cb5-1600x900.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/yoga-am-monte-verita/10922",
+    "lat": 46.1585094,
+    "lng": 8.762817,
     "isTop": false,
     "parent": ""
    },
@@ -1858,6 +1858,23 @@
     "parent": ""
    },
    {
+    "id": "10007282",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Muse (Tribute) Resistance",
+    "dateText": "Mi, 16.12.2026",
+    "sortKey": 1797450300000,
+    "loc": "Kursaal Teatro di Locarno - Largo Zorzi 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9e3c5450613d5c685f134258584266bbb2f84cb5-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/muse-tribute-resistance/10007282",
+    "lat": 46.1697158,
+    "lng": 8.7989273,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "12394",
     "cat": "event",
     "catLabel": "Event",
@@ -1948,23 +1965,6 @@
    }
   ],
   "orselina": [
-   {
-    "id": "10006520",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Blues im Park",
-    "dateText": "Mi, 08.07.2026",
-    "sortKey": 1783537200000,
-    "loc": "Parco di Orselina - Via Caselle 6, Orselina",
-    "venue": "Park",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9d067bdd3a038112bcb96714c06296083cca67bb-2400x1597.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/blues-im-park/10006520",
-    "lat": 46.1774606,
-    "lng": 8.7972003,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10921",
     "cat": "sport",
@@ -2091,8 +2091,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "A occhi nudi - Angelita Bonetti in mostra alla Galleria Menouno",
-    "dateText": "Mi, 08.07.–11.07.2026",
-    "sortKey": 1783512000000,
+    "dateText": "Do, 09.07.–11.07.2026",
+    "sortKey": 1783598400000,
     "loc": "Piazza Stazione 2, Muralto",
     "venue": "Bahnhof",
     "keyVenue": true,
