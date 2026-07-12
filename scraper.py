@@ -10,7 +10,7 @@ Aufruf:  python3 scraper.py            (Sprache de)
          python3 scraper.py --lang it
 """
 import requests, json, argparse, sys
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 
 try:
     from zoneinfo import ZoneInfo
@@ -140,6 +140,120 @@ def category(ev):
     return DEFAULT_CAT
 
 
+# ---------------------------------------------------------------------------
+# Bagno Pubblico Ascona (BaPu) – eigene Events, die die Ticino-API NICHT liefert.
+# Quelle: bapu_events.json (von Hand gepflegt). Wird in Ascona eingemischt.
+# ---------------------------------------------------------------------------
+BAPU_FILE = "bapu_events.json"
+BAPU_LABELS = {
+    "musik": "Musik", "sport": "Sport", "kulinarik": "Kulinarik", "kino": "Kino",
+    "wellness": "Wellness", "kinder": "Kinder", "kurs": "Kurs",
+    "festival": "Festival", "kultur": "Kultur", "event": "Event",
+}
+WD_INDEX = {"Mo": 0, "Di": 1, "Mi": 2, "Do": 3, "Fr": 4, "Sa": 5, "So": 6}
+
+
+def _parse_iso(s):
+    return date(*map(int, s.split("-")))
+
+
+def _to_ms(d):
+    if TZ:
+        dt = datetime(d.year, d.month, d.day, tzinfo=TZ)
+    else:
+        dt = datetime(d.year, d.month, d.day)
+    return int(dt.timestamp() * 1000)
+
+
+def _next_occurrence(day_idxs, start, until):
+    """Naechstes Vorkommen ab 'start' (heute) an einem der Wochentage, spaetestens 'until'."""
+    horizon = (until - start).days if until else 13
+    for i in range(0, max(horizon, 0) + 1):
+        d = start + timedelta(days=i)
+        if d.weekday() in day_idxs:
+            return d
+    return start
+
+
+def add_bapu(out):
+    try:
+        with open(BAPU_FILE, encoding="utf-8") as f:
+            cfg = json.load(f)
+    except FileNotFoundError:
+        print("-> BaPu: keine bapu_events.json gefunden, uebersprungen", file=sys.stderr)
+        return
+    except Exception as e:
+        print(f"-> BaPu uebersprungen (Fehler: {e})", file=sys.stderr)
+        return
+
+    v = cfg.get("venue", {})
+    city = v.get("city", "Ascona")
+    loc = ", ".join(x for x in [v.get("street"), city] if x) or city
+    lat, lng = v.get("lat"), v.get("lng")
+    link = v.get("link", "")
+    today = date.today()
+    added = 0
+    n = 0
+
+    def emit(cat, title, note, sortkey_date, datetext):
+        nonlocal added, n
+        label = BAPU_LABELS.get(cat, cat.capitalize())
+        full = title if not note else f"{title} – {note}"
+        out.setdefault(CITIES[city], out.get("ascona", []))
+        out[CITIES[city]].append({
+            "id": f"bapu-{n}",
+            "cat": cat,
+            "catLabel": label,
+            "title": full,
+            "dateText": datetext,
+            "sortKey": _to_ms(sortkey_date),
+            "loc": loc,
+            "venue": "",
+            "keyVenue": False,
+            "image": "",
+            "link": link,
+            "lat": lat,
+            "lng": lng,
+            "isTop": False,
+            "parent": "",
+        })
+        n += 1
+        added += 1
+
+    # Einzel-Events (nur noch kommende, wie die API-Logik)
+    for e in cfg.get("single", []):
+        try:
+            d = _parse_iso(e["date"])
+        except Exception:
+            continue
+        if d < today:
+            continue
+        time = (e.get("time") or "").strip()
+        if e.get("dateOverride"):
+            dt = e["dateOverride"]
+        else:
+            dt = fmt_date(d) + (f" · {time}" if time else "")
+        emit(e.get("cat", "event"), e["title"], e.get("note", ""), d, dt)
+
+    # Wiederkehrende Angebote (eine Karte je Serie, solange noch aktiv)
+    for r in cfg.get("recurring", []):
+        until = _parse_iso(r["until"]) if r.get("until") else None
+        if until and until < today:
+            continue
+        days = [WD_INDEX[x] for x in r.get("days", []) if x in WD_INDEX]
+        sk = _next_occurrence(days, today, until) if days else today
+        day_txt = "/".join(r.get("days", [])) if r.get("days") else "woechentlich"
+        time = (r.get("time") or "").strip()
+        parts = [f"jeden {day_txt}" if r.get("days") else "woechentlich"]
+        if time:
+            parts.append(time)
+        if until:
+            parts.append(f"bis {until.strftime('%d.%m.')}")
+        emit(r.get("cat", "event"), r["title"], r.get("note", ""), sk, " · ".join(parts))
+
+    print(f"-> BaPu: {added} Events in {city} eingemischt", file=sys.stderr)
+
+
 def build(lang="de"):
     url = API.format(lang=lang)
     print(f"-> hole {url}", file=sys.stderr)
@@ -202,6 +316,9 @@ def build(lang="de"):
         for e in out[c]:
             e.pop("_start", None); e.pop("_end", None); e.pop("_street", None)
         out[c].sort(key=lambda e: e["sortKey"])
+    # BaPu-Events (nicht in der Ticino-API) einmischen und Ascona neu sortieren
+    add_bapu(out)
+    out["ascona"].sort(key=lambda e: e["sortKey"])
     summary = ", ".join(f"{name} {len(out[slug])}" for name, slug in CITIES.items())
     print(f"-> {summary}", file=sys.stderr)
     return out

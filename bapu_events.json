@@ -1,0 +1,40 @@
+{
+  "_hinweis": "Von Hand gepflegte Events des Bagno Pubblico Ascona (BaPu). Diese Events liefert die Ticino-Turismo-API NICHT. scraper.py liest diese Datei via add_bapu() und mischt die noch kommenden Events in den Ort Ascona ein. Neue Events einfach unten in 'single' bzw. 'recurring' ergaenzen.",
+  "_quelle": "https://bapu-ascona.ch/eventi (Stand 2026-07-12)",
+  "venue": {
+    "name": "Bagno Pubblico Ascona (BaPu)",
+    "street": "Via Fenaro 9",
+    "city": "Ascona",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "link": "https://bapu-ascona.ch/eventi"
+  },
+  "single": [
+    { "date": "2026-07-16", "time": "18:30", "title": "Trevor plays AC/DC", "cat": "musik", "note": "AC/DC-Tribute – Apero in Zibrett" },
+    { "date": "2026-07-17", "time": "18:00", "title": "Pilatesflow e Fiori", "cat": "sport", "note": "Pilates + Blumen-Workshop" },
+    { "date": "2026-07-23", "time": "18:30", "title": "Crispy Jam", "cat": "musik", "note": "Soul / Funk / R&B – Apero in Zibrett" },
+    { "date": "2026-07-30", "time": "18:30", "title": "Baraccone Express", "cat": "musik", "note": "Weltmusik – Apero in Zibrett" },
+    { "date": "2026-08-01", "time": "12:00", "title": "Grigliata zum 1. August", "cat": "kulinarik", "note": "Grillplatte zum Nationalfeiertag" },
+    { "date": "2026-08-06", "time": "18:30", "title": "The Roots Collective", "cat": "musik", "note": "Reggae – Apero in Zibrett" },
+    { "date": "2026-08-13", "time": "18:30", "title": "The Cookies", "cat": "musik", "note": "Rock/Pop-Trio – Apero in Zibrett" },
+    { "date": "2026-08-15", "time": "", "title": "Carnevale Estivo", "cat": "festival", "note": "Sommer-Karneval mit Wasserthema", "dateOverride": "im August (genaues Datum folgt)" },
+    { "date": "2026-08-20", "time": "18:30", "title": "The Chessmate", "cat": "musik", "note": "Rockabilly – Apero in Zibrett" },
+    { "date": "2026-08-27", "time": "18:30", "title": "Charlie Roe", "cat": "musik", "note": "Indie Rock/Pop – Apero in Zibrett" },
+    { "date": "2026-08-29", "time": "19:00", "title": "Kino am Strand: Zurueck in die Zukunft", "cat": "kino", "note": "Ritorno al Futuro (1985)" },
+    { "date": "2026-08-29", "time": "", "title": "Segelregatta zum Schuljahresende", "cat": "sport", "note": "Regata di fine scuola – ganztags" },
+    { "date": "2026-09-03", "time": "18:30", "title": "Bat Battiston", "cat": "musik", "note": "Apero in Zibrett" },
+    { "date": "2026-09-05", "time": "19:00", "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug", "cat": "kino", "note": "Indiana Jones e l'ultima crociata" },
+    { "date": "2026-09-10", "time": "18:30", "title": "Toothless Kisses", "cat": "musik", "note": "Irish Folk – Apero in Zibrett" }
+  ],
+  "recurring": [
+    { "title": "Yoga Outdoor mit Brenno", "cat": "wellness", "days": ["Mi"], "time": "09:30–10:30", "until": "2026-09-25", "note": "Yoga im Freien" },
+    { "title": "Yoga Outdoor mit Karla", "cat": "wellness", "days": ["Fr"], "time": "09:30–10:30", "until": "2026-09-25", "note": "Yoga im Freien" },
+    { "title": "Full Body Workout mit Schutz", "cat": "sport", "days": ["Sa"], "time": "08:00", "until": "2026-09-30", "note": "bis Saisonende" },
+    { "title": "Segelkurse fuer Jugendliche", "cat": "sport", "days": [], "time": "", "until": "2026-08-28", "note": "Yacht Club Ascona, woechentlich" },
+    { "title": "Pilatesflow", "cat": "sport", "days": ["Di"], "time": "18:00", "until": "2026-07-28", "note": "" },
+    { "title": "Lantana Flow", "cat": "sport", "days": ["Di"], "time": "19:00", "until": "2026-07-28", "note": "" },
+    { "title": "Gitarrenkurse mit Moises", "cat": "kurs", "days": ["Mo", "Di"], "time": "", "until": "2026-09-30", "note": "Gitarrenunterricht" },
+    { "title": "Pantomime- und Jonglierschule mit Orit", "cat": "kinder", "days": ["Mo", "Di", "Mi"], "time": "18:00", "until": "2026-08-31", "note": "fuer Kinder" },
+    { "title": "Frisiersalon am Strand mit Gianni", "cat": "event", "days": ["Mi"], "time": "", "until": "2026-09-30", "note": "Coiffeur am Strand, Mittwochnachmittag" }
+  ]
+}
