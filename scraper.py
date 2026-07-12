@@ -195,7 +195,7 @@ def add_bapu(out):
     added = 0
     n = 0
 
-    def emit(cat, title, note, sortkey_date, datetext):
+    def emit(cat, title, note, sortkey_date, datetext, ev_link=None):
         nonlocal added, n
         label = BAPU_LABELS.get(cat, cat.capitalize())
         full = title if not note else f"{title} – {note}"
@@ -211,7 +211,7 @@ def add_bapu(out):
             "venue": "",
             "keyVenue": False,
             "image": "",
-            "link": link,
+            "link": ev_link or link,
             "lat": lat,
             "lng": lng,
             "isTop": False,
@@ -233,7 +233,7 @@ def add_bapu(out):
             dt = e["dateOverride"]
         else:
             dt = fmt_date(d) + (f" · {time}" if time else "")
-        emit(e.get("cat", "event"), e["title"], e.get("note", ""), d, dt)
+        emit(e.get("cat", "event"), e["title"], e.get("note", ""), d, dt, e.get("link"))
 
     # Wiederkehrende Angebote (eine Karte je Serie, solange noch aktiv)
     for r in cfg.get("recurring", []):
@@ -249,7 +249,7 @@ def add_bapu(out):
             parts.append(time)
         if until:
             parts.append(f"bis {until.strftime('%d.%m.')}")
-        emit(r.get("cat", "event"), r["title"], r.get("note", ""), sk, " · ".join(parts))
+        emit(r.get("cat", "event"), r["title"], r.get("note", ""), sk, " · ".join(parts), r.get("link"))
 
     print(f"-> BaPu: {added} Events in {city} eingemischt", file=sys.stderr)
 
