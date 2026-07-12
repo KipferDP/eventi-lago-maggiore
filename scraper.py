@@ -188,7 +188,7 @@ def add_bapu(out):
 
     v = cfg.get("venue", {})
     city = v.get("city", "Ascona")
-    loc = ", ".join(x for x in [v.get("street"), city] if x) or city
+    loc = ", ".join(x for x in [v.get("name"), v.get("street"), city] if x) or city
     lat, lng = v.get("lat"), v.get("lng")
     link = v.get("link", "")
     today = date.today()
