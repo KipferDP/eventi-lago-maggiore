@@ -1,5 +1,5 @@
 {
- "updated": "16.07.2026 08:11",
+ "updated": "17.07.2026 08:09",
  "events": {
   "ascona": [
    {
@@ -21,57 +21,6 @@
    },
    {
     "id": "bapu-0",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Trevor plays AC/DC – AC/DC-Tribute – Apero in Zibrett",
-    "dateText": "Do, 16.07.2026 · 18:30",
-    "sortKey": 1784152800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-18",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
-    "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1784152800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ycas.ch/scuolavela",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006088",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Apero in zibrett",
-    "dateText": "Do, 16.07.–03.09.2026",
-    "sortKey": 1784217600000,
-    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
-    "lat": 46.1482016,
-    "lng": 8.778376,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-1",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Pilatesflow e Fiori – Pilates + Blumen-Workshop",
@@ -88,7 +37,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-16",
+    "id": "bapu-15",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -99,6 +48,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-17",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
+    "dateText": "woechentlich · bis 28.08.",
+    "sortKey": 1784239200000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ycas.ch/scuolavela",
     "lat": 46.148144,
     "lng": 8.779204,
     "isTop": false,
@@ -122,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-17",
+    "id": "bapu-16",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
@@ -156,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-21",
+    "id": "bapu-20",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -173,7 +139,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-22",
+    "id": "bapu-21",
     "cat": "kinder",
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
@@ -190,7 +156,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-19",
+    "id": "bapu-18",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Pilatesflow",
@@ -207,7 +173,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-20",
+    "id": "bapu-19",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Lantana Flow",
@@ -241,7 +207,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-15",
+    "id": "bapu-14",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -258,7 +224,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-23",
+    "id": "bapu-22",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -292,7 +258,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Crispy Jam – Soul / Funk / R&B – Apero in Zibrett",
@@ -305,6 +271,23 @@
     "link": "https://bapu-ascona.ch/eventi",
     "lat": 46.148144,
     "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006088",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Apero in zibrett",
+    "dateText": "Do, 23.07.–03.09.2026",
+    "sortKey": 1784822400000,
+    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
+    "lat": 46.1482016,
+    "lng": 8.778376,
     "isTop": false,
     "parent": ""
    },
@@ -411,7 +394,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Baraccone Express – Weltmusik – Apero in Zibrett",
@@ -445,7 +428,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
     "title": "Grigliata zum 1. August – Grillplatte zum Nationalfeiertag",
@@ -513,7 +496,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Roots Collective – Reggae – Apero in Zibrett",
@@ -564,7 +547,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Cookies – Rock/Pop-Trio – Apero in Zibrett",
@@ -581,7 +564,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-7",
+    "id": "bapu-6",
     "cat": "festival",
     "catLabel": "Festival",
     "title": "Carnevale Estivo – Sommer-Karneval mit Wasserthema",
@@ -598,7 +581,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-8",
+    "id": "bapu-7",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Chessmate – Rockabilly – Apero in Zibrett",
@@ -632,7 +615,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-9",
+    "id": "bapu-8",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Charlie Roe – Indie Rock/Pop – Apero in Zibrett",
@@ -649,7 +632,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-10",
+    "id": "bapu-9",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Zurueck in die Zukunft – Ritorno al Futuro (1985)",
@@ -666,7 +649,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-11",
+    "id": "bapu-10",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelregatta zum Schuljahresende – Regata di fine scuola – ganztags",
@@ -700,7 +683,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-12",
+    "id": "bapu-11",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Bat Battiston – Apero in Zibrett",
@@ -734,7 +717,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-13",
+    "id": "bapu-12",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
@@ -751,7 +734,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-14",
+    "id": "bapu-13",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -1110,40 +1093,6 @@
     "parent": ""
    },
    {
-    "id": "12036",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Max Pezzali + Noemi",
-    "dateText": "Do, 16.07.2026",
-    "sortKey": 1784196000000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/max-pezzali-noemi/12036",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": "Moon+Stars 2026"
-   },
-   {
-    "id": "10000059",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Noemi",
-    "dateText": "Do, 16.07.2026",
-    "sortKey": 1784196000000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/noemi/10000059",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": "Moon+Stars 2026"
-   },
-   {
     "id": "12037",
     "cat": "event",
     "catLabel": "Event",
@@ -1293,6 +1242,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/festival-ticino-musica/10238",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10007851",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Sofar Sounds Ticino",
+    "dateText": "Sa, 18.07.2026",
+    "sortKey": 1784399400000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fb6a3cec166d81fd6c985d14ad44ba1808f26d0e-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/sofar-sounds-ticino/10007851",
+    "lat": 46.1668905,
+    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
@@ -1620,6 +1586,23 @@
     "parent": ""
    },
    {
+    "id": "10007848",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Karls Ritter kämpfen um die Liebe Angelicas. Sizilianische Marionetten.",
+    "dateText": "Sa, 29.08.2026",
+    "sortKey": 1788030000000,
+    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c2705a101b158ab62f64247d0402fd8982644f33-736x491.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/karls-ritter-kaempfen-um-die-liebe-angelicas-sizilianische-marionetten/10007848",
+    "lat": 46.1684184,
+    "lng": 8.7933135,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10003828",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1651,6 +1634,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10007843",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "25 Öko-Spiele laden alle zum Mitmachen ein. Worte sind überflüssig. Zwei intime, wortlose Vorstellungen für jeweils einen Zuschauer.",
+    "dateText": "Sa, 05.09.2026",
+    "sortKey": 1788613200000,
+    "loc": "Piazza Pedrazzini, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/af087f619066b7120bea88eaf7297a94d3e78a1b-745x531.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/25-oeko-spiele-laden-alle-zum-mitmachen-ein-worte-sind-ueberfluessig-zwei-intime-wortlose-vorstellungen-fuer-jeweils-einen-zuschauer/10007843",
+    "lat": 46.167188118074,
+    "lng": 8.799056919574,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -2047,6 +2047,40 @@
   ],
   "minusio": [
    {
+    "id": "10007850",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Berühmte Stummfilmszenen, zum Leben erweckt in fesselndem Schattentheater. Ohne Worte.",
+    "dateText": "Fr, 21.08.2026",
+    "sortKey": 1787338800000,
+    "loc": "Portigon, Via Rivapiana 43, Minusio",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/854e8b6109f6b51a22f2c0e747f18d2e31d9ba65-825x467.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/beruehmte-stummfilmszenen-zum-leben-erweckt-in-fesselndem-schattentheater-ohne-worte/10007850",
+    "lat": 46.1730105,
+    "lng": 8.8188434,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10007844",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Exzentrische Köchinnen haben Spaß daran, mit Küchenutensilien und Zutaten Märchen zu erzählen.",
+    "dateText": "So, 23.08.2026",
+    "sortKey": 1787500800000,
+    "loc": "Portigon, Via Rivapiana 43, Minusio",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7ae2ed738549d0390600debb4a15e42cfd88c9f4-461x464.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/exzentrische-koechinnen-haben-spass-daran-mit-kuechenutensilien-und-zutaten-maerchen-zu-erzaehlen/10007844",
+    "lat": 46.1730105,
+    "lng": 8.8188434,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10383",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -2089,8 +2123,8 @@
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Yoga im Orselina Park",
-    "dateText": "Do, 16.07.–27.08.2026",
-    "sortKey": 1784185200000,
+    "dateText": "Di, 21.07.–27.08.2026",
+    "sortKey": 1784617200000,
     "loc": "Parco di Orselina - Via al Parco 12, Orselina",
     "venue": "Park",
     "keyVenue": true,
@@ -2171,6 +2205,23 @@
    }
   ],
   "muralto": [
+   {
+    "id": "10007842",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Die unmögliche Liebesgeschichte zwischen einem Drachen und einem Zugvogel",
+    "dateText": "Mi, 19.08.2026",
+    "sortKey": 1787166000000,
+    "loc": "zona Burbaglio Lungolago, Muralto",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/735e97e5a84f8c2e756059799d7b32cfd39090fd-724x546.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/die-unmoegliche-liebesgeschichte-zwischen-einem-drachen-und-einem-zugvogel/10007842",
+    "lat": 46.171379881544,
+    "lng": 8.80725055933,
+    "isTop": false,
+    "parent": ""
+   },
    {
     "id": "10006257",
     "cat": "kulinarik",
