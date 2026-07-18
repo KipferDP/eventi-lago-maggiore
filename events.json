@@ -1,5 +1,5 @@
 {
- "updated": "17.07.2026 08:09",
+ "updated": "18.07.2026 07:59",
  "events": {
   "ascona": [
    {
@@ -16,57 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-0",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Pilatesflow e Fiori – Pilates + Blumen-Workshop",
-    "dateText": "Fr, 17.07.2026 · 18:00",
-    "sortKey": 1784239200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-15",
-    "cat": "wellness",
-    "catLabel": "Wellness",
-    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
-    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1784239200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-17",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
-    "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1784239200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ycas.ch/scuolavela",
-    "lat": 46.148144,
-    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -88,7 +37,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-16",
+    "id": "bapu-15",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
@@ -99,6 +48,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://bapu-ascona.ch/eventi",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-16",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
+    "dateText": "woechentlich · bis 28.08.",
+    "sortKey": 1784325600000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ycas.ch/scuolavela",
     "lat": 46.148144,
     "lng": 8.779204,
     "isTop": false,
@@ -122,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-20",
+    "id": "bapu-19",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -139,7 +105,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-21",
+    "id": "bapu-20",
     "cat": "kinder",
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
@@ -156,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-18",
+    "id": "bapu-17",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Pilatesflow",
@@ -173,7 +139,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-19",
+    "id": "bapu-18",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Lantana Flow",
@@ -207,7 +173,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-14",
+    "id": "bapu-13",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -224,7 +190,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-22",
+    "id": "bapu-21",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -258,7 +224,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Crispy Jam – Soul / Funk / R&B – Apero in Zibrett",
@@ -288,6 +254,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-14",
+    "cat": "wellness",
+    "catLabel": "Wellness",
+    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
+    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
+    "sortKey": 1784844000000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -394,7 +377,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Baraccone Express – Weltmusik – Apero in Zibrett",
@@ -428,7 +411,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
     "title": "Grigliata zum 1. August – Grillplatte zum Nationalfeiertag",
@@ -496,7 +479,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Roots Collective – Reggae – Apero in Zibrett",
@@ -547,7 +530,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Cookies – Rock/Pop-Trio – Apero in Zibrett",
@@ -564,7 +547,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "festival",
     "catLabel": "Festival",
     "title": "Carnevale Estivo – Sommer-Karneval mit Wasserthema",
@@ -581,7 +564,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-7",
+    "id": "bapu-6",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Chessmate – Rockabilly – Apero in Zibrett",
@@ -615,7 +598,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-8",
+    "id": "bapu-7",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Charlie Roe – Indie Rock/Pop – Apero in Zibrett",
@@ -632,7 +615,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-9",
+    "id": "bapu-8",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Zurueck in die Zukunft – Ritorno al Futuro (1985)",
@@ -649,7 +632,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-10",
+    "id": "bapu-9",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelregatta zum Schuljahresende – Regata di fine scuola – ganztags",
@@ -683,7 +666,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-11",
+    "id": "bapu-10",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Bat Battiston – Apero in Zibrett",
@@ -717,7 +700,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-12",
+    "id": "bapu-11",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
@@ -734,7 +717,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-13",
+    "id": "bapu-12",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -1093,63 +1076,12 @@
     "parent": ""
    },
    {
-    "id": "12037",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Alan Walker + Rita Ora + The Kolors",
-    "dateText": "Fr, 17.07.2026",
-    "sortKey": 1784282400000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/alan-walker-rita-ora-the-kolors/12037",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": "Moon+Stars 2026"
-   },
-   {
-    "id": "12418",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Rita Ora",
-    "dateText": "Fr, 17.07.2026",
-    "sortKey": 1784282400000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/rita-ora/12418",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": "Moon+Stars 2026"
-   },
-   {
-    "id": "10003729",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "The Kolors",
-    "dateText": "Fr, 17.07.2026",
-    "sortKey": 1784282400000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/the-kolors/10003729",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": "Moon+Stars 2026"
-   },
-   {
     "id": "10007015",
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "VANESSA SEUFFERT ART PHOTO GRAPHY - Fotokunstausstellung «Edizione Ticino» macht Licht zur Sprache",
-    "dateText": "Fr, 17.07.–15.08.2026",
-    "sortKey": 1784296800000,
+    "dateText": "Sa, 18.07.–15.08.2026",
+    "sortKey": 1784365200000,
     "loc": "Via Bartolomeo Varenna 47, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -1442,7 +1374,7 @@
     "loc": "Rotonda Piazza Castello, Locarno",
     "venue": "",
     "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/483f2d36c5518246ea613a7baca1b9cac5d0f7cc-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b05810a425b827a98791d831fe715547b2b553af-5247x3495.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/rotonda-by-la-mobiliare/10249",
     "lat": 46.1668534,
     "lng": 8.7933165,
