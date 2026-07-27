@@ -1,5 +1,5 @@
 {
- "updated": "26.07.2026 08:31",
+ "updated": "27.07.2026 08:56",
  "events": {
   "ascona": [
    {
@@ -25,7 +25,7 @@
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1785016800000,
+    "sortKey": 1785103200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -33,23 +33,6 @@
     "link": "https://www.ycas.ch/scuolavela",
     "lat": 46.148144,
     "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006311",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Musica da camera con pianoforte - Ticino Musica Festival",
-    "dateText": "So, 26.07.–29.07.2026",
-    "sortKey": 1785090600000,
-    "loc": "Viale Monte Verità 80, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/674ccc9bbff877adb26994af4c43f478525784ff-5870x3906.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte-ticino-musica-festival/10006311",
-    "lat": 46.1599336,
-    "lng": 8.7734914,
     "isTop": false,
     "parent": ""
    },
@@ -135,6 +118,23 @@
     "link": "https://bapu-ascona.ch/eventi",
     "lat": 46.148144,
     "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10006311",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Musica da camera con pianoforte - Ticino Musica Festival",
+    "dateText": "Di, 28.07.–29.07.2026",
+    "sortKey": 1785263400000,
+    "loc": "Viale Monte Verità 80, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/674ccc9bbff877adb26994af4c43f478525784ff-5870x3906.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/musica-da-camera-con-pianoforte-ticino-musica-festival/10006311",
+    "lat": 46.1599336,
+    "lng": 8.7734914,
     "isTop": false,
     "parent": ""
    },
