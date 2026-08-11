@@ -1,5 +1,5 @@
 {
- "updated": "10.08.2026 07:18",
+ "updated": "11.08.2026 07:00",
  "events": {
   "ascona": [
    {
@@ -25,7 +25,7 @@
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1786312800000,
+    "sortKey": 1786399200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -42,7 +42,7 @@
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1786312800000,
+    "sortKey": 1786399200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -59,7 +59,7 @@
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
     "dateText": "jeden Mo/Di/Mi · 18:00 · bis 31.08.",
-    "sortKey": 1786312800000,
+    "sortKey": 1786399200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -702,6 +702,23 @@
     "parent": ""
    },
    {
+    "id": "10008260",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Il Ticino di « Becaària » in mostra",
+    "dateText": "Fr, 24.07.–05.10.2026",
+    "sortKey": 1784869200000,
+    "loc": "Tea Room - Pasticceria Marnin, Piazza San'Antonio, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9b29071fb7c08fc3d63dc0b1c0f4fa9ce7a64dce-480x640.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/il-ticino-di-becaaria-in-mostra/10008260",
+    "lat": 46.169851258252,
+    "lng": 8.7917324794651,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10249",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -851,6 +868,40 @@
     "link": "https://www.ascona-locarno.com/de/events/details/film-per-famiglie-in-piazza-grande/10007952",
     "lat": 46.1696052,
     "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008259",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Cine-Dinner x Graffiskate",
+    "dateText": "Fr, 21.08.2026",
+    "sortKey": 1787333400000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8102e78ac251d701da8138684193db2de91d085b-1600x977.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/cine-dinner-x-graffiskate/10008259",
+    "lat": 46.1668905,
+    "lng": 8.798261,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008256",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Alice im Wunderland - Summer Musical Intensive",
+    "dateText": "Mo, 24.08.–28.08.2026",
+    "sortKey": 1787556600000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/db4e480bb9e3311073971b15ae554ad1e3528df5-1200x1699.jpg?fm=webp&q=90&w=588&h=441&rect=0,0,1200,775&fit=crop&fp-x=0.5&fp-y=0.22804469038799&rect=0,0,1200,775&fit=crop&fp-x=0.5&fp-y=0.22804469038799",
+    "link": "https://www.ascona-locarno.com/de/events/details/alice-im-wunderland-summer-musical-intensive/10008256",
+    "lat": 46.1668905,
+    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
