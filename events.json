@@ -1,5 +1,5 @@
 {
- "updated": "15.08.2026 06:22",
+ "updated": "16.08.2026 06:28",
  "events": {
   "ascona": [
    {
@@ -20,46 +20,12 @@
     "parent": ""
    },
    {
-    "id": "bapu-0",
-    "cat": "festival",
-    "catLabel": "Festival",
-    "title": "Carnevale Estivo – Sommer-Karneval mit Wasserthema",
-    "dateText": "im August (genaues Datum folgt)",
-    "sortKey": 1786744800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "bapu-10",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Full Body Workout mit Schutz – bis Saisonende",
-    "dateText": "jeden Sa · 08:00 · bis 30.09.",
-    "sortKey": 1786744800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-11",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1786744800000,
+    "sortKey": 1786831200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -71,7 +37,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-12",
+    "id": "bapu-11",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -88,7 +54,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-13",
+    "id": "bapu-12",
     "cat": "kinder",
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
@@ -105,7 +71,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-8",
+    "id": "bapu-7",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -122,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-14",
+    "id": "bapu-13",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -156,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "The Chessmate – Rockabilly – Apero in Zibrett",
@@ -190,7 +156,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-9",
+    "id": "bapu-8",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -201,6 +167,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-9",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Full Body Workout mit Schutz – bis Saisonende",
+    "dateText": "jeden Sa · 08:00 · bis 30.09.",
+    "sortKey": 1787349600000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
     "lat": 46.148144,
     "lng": 8.779204,
     "isTop": false,
@@ -224,7 +207,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Charlie Roe – Indie Rock/Pop – Apero in Zibrett",
@@ -241,7 +224,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Zurueck in die Zukunft – Ritorno al Futuro (1985)",
@@ -258,7 +241,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelregatta zum Schuljahresende – Regata di fine scuola – ganztags",
@@ -292,7 +275,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Bat Battiston – Apero in Zibrett",
@@ -343,7 +326,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
@@ -360,7 +343,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-7",
+    "id": "bapu-6",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -685,74 +668,6 @@
     "parent": ""
    },
    {
-    "id": "10056",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno Film Festival 2026",
-    "dateText": "Mi, 05.08.–15.08.2026",
-    "sortKey": 1785924000000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7a3fc4362cf332b7209d4ab2a704c60983e488df-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-film-festival-2026/10056",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10003874",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Il Bistrot Teatro Paravento",
-    "dateText": "Mi, 05.08.–15.08.2026",
-    "sortKey": 1785924000000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/326a862299064dbb740331b545dc4103a74ec415-4624x2604.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "11001",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Gratis Busdienst Locarno–Gambarogno",
-    "dateText": "Mi, 05.08.–15.08.2026",
-    "sortKey": 1785924000000,
-    "loc": "Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d0a4ea162a4ce20ce1e103bfe44335d5903df952-5590x3727.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/gratis-busdienst-locarno-gambarogno/11001",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008020",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Web Genesis – L'escape room gratuita sulla storia del Web",
-    "dateText": "Mi, 05.08.–15.08.2026",
-    "sortKey": 1785940200000,
-    "loc": "Largo Franco Zorzi, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c3fb707bc8fe058689dc5634737e654b2f8bbdae-2880x1620.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/web-genesis-lescape-room-gratuita-sulla-storia-del-web/10008020",
-    "lat": 46.1698704,
-    "lng": 8.79865,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10007935",
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
@@ -783,23 +698,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/das-verwunschene-schloss/10347",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007015",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "VANESSA SEUFFERT ART PHOTO GRAPHY - Fotokunstausstellung «Edizione Ticino» macht Licht zur Sprache",
-    "dateText": "Sa, 15.08.2026",
-    "sortKey": 1786780800000,
-    "loc": "Via Bartolomeo Varenna 47, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c9879ff98bdb53b0b8938c2df035f7c6e546196d-2560x1760.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/vanessa-seuffert-art-photo-graphy-fotokunstausstellung-edizione-ticino-macht-licht-zur-sprache/10007015",
-    "lat": 46.1670695,
-    "lng": 8.7829988,
     "isTop": false,
     "parent": ""
    },
