@@ -1,5 +1,5 @@
 {
- "updated": "16.08.2026 06:28",
+ "updated": "17.08.2026 06:33",
  "events": {
   "ascona": [
    {
@@ -25,7 +25,7 @@
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1786831200000,
+    "sortKey": 1786917600000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -696,23 +696,6 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/43041f49f1e989ef392eb1f1da99b835ef82d72a-1024x768.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/das-verwunschene-schloss/10347",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007952",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Film per famiglie in Piazza Grande",
-    "dateText": "So, 16.08.2026",
-    "sortKey": 1786907700000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/81ed6f6e8697718092ff8ce5a5d88bfad2a52473-875x1241.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/film-per-famiglie-in-piazza-grande/10007952",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
