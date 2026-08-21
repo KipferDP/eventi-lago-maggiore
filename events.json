@@ -1,5 +1,5 @@
 {
- "updated": "20.08.2026 06:29",
+ "updated": "21.08.2026 06:30",
  "events": {
   "ascona": [
    {
@@ -20,58 +20,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-0",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "The Chessmate – Rockabilly – Apero in Zibrett",
-    "dateText": "Do, 20.08.2026 · 18:30",
-    "sortKey": 1787176800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-10",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
-    "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1787176800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ycas.ch/scuolavela",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006088",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Apero in zibrett",
-    "dateText": "Do, 20.08.–03.09.2026",
-    "sortKey": 1787241600000,
-    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
-    "lat": 46.1482016,
-    "lng": 8.778376,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-8",
+    "id": "bapu-7",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -89,6 +38,23 @@
    },
    {
     "id": "bapu-9",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
+    "dateText": "woechentlich · bis 28.08.",
+    "sortKey": 1787263200000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ycas.ch/scuolavela",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-8",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
@@ -122,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-11",
+    "id": "bapu-10",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -139,7 +105,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-12",
+    "id": "bapu-11",
     "cat": "kinder",
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
@@ -156,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-7",
+    "id": "bapu-6",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -173,7 +139,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-13",
+    "id": "bapu-12",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -207,7 +173,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Charlie Roe – Indie Rock/Pop – Apero in Zibrett",
@@ -224,7 +190,24 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "10006088",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Apero in zibrett",
+    "dateText": "Do, 27.08.–03.09.2026",
+    "sortKey": 1787846400000,
+    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
+    "lat": 46.1482016,
+    "lng": 8.778376,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-1",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Zurueck in die Zukunft – Ritorno al Futuro (1985)",
@@ -241,7 +224,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelregatta zum Schuljahresende – Regata di fine scuola – ganztags",
@@ -275,7 +258,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Bat Battiston – Apero in Zibrett",
@@ -326,7 +309,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
@@ -360,7 +343,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -1386,6 +1369,23 @@
   ],
   "tenero": [
    {
+    "id": "10008423",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "A Tenero l’estate si chiude a ritmo di Western Swing, grill e birra locale",
+    "dateText": "Do, 27.08.–28.08.2026",
+    "sortKey": 1787850000000,
+    "loc": "Via Brughiera 19, Tenero",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/dbdc1dd140ae168a4be24caff2cde88ba0f8fb21-1140x667.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/a-tenero-lestate-si-chiude-a-ritmo-di-western-swing-grill-e-birra-locale/10008423",
+    "lat": 46.1794542,
+    "lng": 8.8567762,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10263",
     "cat": "sport",
     "catLabel": "Sport",
@@ -1409,30 +1409,13 @@
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Yoga im Orselina Park",
-    "dateText": "Do, 20.08.–27.08.2026",
-    "sortKey": 1787209200000,
+    "dateText": "Di, 25.08.–27.08.2026",
+    "sortKey": 1787641200000,
     "loc": "Parco di Orselina - Via al Parco 12, Orselina",
     "venue": "Park",
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0c18c8da4fdb2d94545a96a84d17771b87374570-4128x3096.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/yoga-im-orselina-park/10921",
-    "lat": 46.1774606,
-    "lng": 8.7972003,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008041",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Cinema al Parco di Orselina - terza serata",
-    "dateText": "Do, 20.08.2026",
-    "sortKey": 1787252400000,
-    "loc": "Parco di Orselina - Via al Parco 12, Orselina",
-    "venue": "Park",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4f572e93f3f92d653ef7ed42d893909be692144c-452x640.jpg?fm=webp&q=90&w=588&h=441&rect=0,0,452,336&fit=crop&fp-x=0.5&fp-y=0.26241907151591&rect=0,0,452,336&fit=crop&fp-x=0.5&fp-y=0.26241907151591",
-    "link": "https://www.ascona-locarno.com/de/events/details/cinema-al-parco-di-orselina-terza-serata/10008041",
     "lat": 46.1774606,
     "lng": 8.7972003,
     "isTop": false,
@@ -1522,6 +1505,40 @@
     "link": "https://www.ascona-locarno.com/de/events/details/das-brot-der-centovalli/10008383",
     "lat": 46.1723688,
     "lng": 8.8002507,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008402",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Sagra della Castagna",
+    "dateText": "So, 04.10.2026",
+    "sortKey": 1791104400000,
+    "loc": "Viale Verbano, Muralto",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c50fe50c42e136cef6f30844986f9b01f022af22-1131x583.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/sagra-della-castagna/10008402",
+    "lat": 46.171553387972,
+    "lng": 8.8062749084595,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008403",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Birra Formaggio Miele ... al Lago",
+    "dateText": "So, 18.10.2026",
+    "sortKey": 1792314000000,
+    "loc": "Viale Verbano, Muralto",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/001c41cf00a3210626f9fdb180773deda61c8b98-1641x1231.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/birra-formaggio-miele-al-lago/10008403",
+    "lat": 46.171553387972,
+    "lng": 8.8062749084595,
     "isTop": false,
     "parent": ""
    }
