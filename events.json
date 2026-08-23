@@ -1,5 +1,5 @@
 {
- "updated": "22.08.2026 06:25",
+ "updated": "23.08.2026 06:29",
  "events": {
   "ascona": [
    {
@@ -20,29 +20,12 @@
     "parent": ""
    },
    {
-    "id": "bapu-8",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Full Body Workout mit Schutz – bis Saisonende",
-    "dateText": "jeden Sa · 08:00 · bis 30.09.",
-    "sortKey": 1787349600000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "bapu-9",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1787349600000,
+    "sortKey": 1787436000000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -50,23 +33,6 @@
     "link": "https://www.ycas.ch/scuolavela",
     "lat": 46.148144,
     "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10358",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Ascona Rock Night",
-    "dateText": "Sa, 22.08.2026",
-    "sortKey": 1787412600000,
-    "loc": "Piazza/Borgo Ascona",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/164e8b48cb734e68742811848c1f61a010e7e457-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ascona-rock-night/10358",
-    "lat": 46.155619249761,
-    "lng": 8.7672454226929,
     "isTop": false,
     "parent": ""
    },
@@ -235,6 +201,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://www.ycas.ch/scuolavela",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-8",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Full Body Workout mit Schutz – bis Saisonende",
+    "dateText": "jeden Sa · 08:00 · bis 30.09.",
+    "sortKey": 1787954400000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
     "lat": 46.148144,
     "lng": 8.779204,
     "isTop": false,
@@ -1559,23 +1542,6 @@
    }
   ],
   "muralto": [
-   {
-    "id": "10006257",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Nostalgiezug: Krimidinner",
-    "dateText": "Sa, 22.08.2026",
-    "sortKey": 1787413500000,
-    "loc": "Piazza Stazione 3, Muralto",
-    "venue": "Bahnhof",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d07596d44de0755c4b53f6b8d6a0b91b3b9795bc-6000x4000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/nostalgiezug-krimidinner/10006257",
-    "lat": 46.1723688,
-    "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10008382",
     "cat": "tradition",
