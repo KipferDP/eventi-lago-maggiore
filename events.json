@@ -1,5 +1,5 @@
 {
- "updated": "23.08.2026 06:29",
+ "updated": "24.08.2026 06:37",
  "events": {
   "ascona": [
    {
@@ -25,7 +25,7 @@
     "catLabel": "Sport",
     "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
     "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1787436000000,
+    "sortKey": 1787522400000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -1417,23 +1417,6 @@
    }
   ],
   "minusio": [
-   {
-    "id": "10007844",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Exzentrische Köchinnen haben Spaß daran, mit Küchenutensilien und Zutaten Märchen zu erzählen.",
-    "dateText": "So, 23.08.2026",
-    "sortKey": 1787500800000,
-    "loc": "Portigon, Via Rivapiana 43, Minusio",
-    "venue": "Seepromenade",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7ae2ed738549d0390600debb4a15e42cfd88c9f4-461x464.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/exzentrische-koechinnen-haben-spass-daran-mit-kuechenutensilien-und-zutaten-maerchen-zu-erzaehlen/10007844",
-    "lat": 46.1730105,
-    "lng": 8.8188434,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10383",
     "cat": "kulinarik",
