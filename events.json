@@ -1,5 +1,5 @@
 {
- "updated": "28.08.2026 17:49",
+ "updated": "29.08.2026 12:37",
  "events": {
   "ascona": [
    {
@@ -16,40 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-6",
-    "cat": "wellness",
-    "catLabel": "Wellness",
-    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
-    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1787868000000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-8",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Segelkurse fuer Jugendliche – Yacht Club Ascona, woechentlich",
-    "dateText": "woechentlich · bis 28.08.",
-    "sortKey": 1787868000000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ycas.ch/scuolavela",
-    "lat": 46.148144,
-    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -122,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-9",
+    "id": "bapu-8",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -139,7 +105,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-10",
+    "id": "bapu-9",
     "cat": "kinder",
     "catLabel": "Kinder",
     "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
@@ -173,7 +139,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-11",
+    "id": "bapu-10",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -237,6 +203,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
     "lat": 46.1482016,
     "lng": 8.778376,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-6",
+    "cat": "wellness",
+    "catLabel": "Wellness",
+    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
+    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
+    "sortKey": 1788472800000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -647,23 +630,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/piazza-nostra-auch-wir-sind-das-festival-stimmen-zur-geschichte-des-locarno-film-festival/10007935",
     "lat": 46.1687695,
     "lng": 8.7934454,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008256",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Alice im Wunderland - Summer Musical Intensive",
-    "dateText": "Mo, 24.08.–28.08.2026",
-    "sortKey": 1787556600000,
-    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/db4e480bb9e3311073971b15ae554ad1e3528df5-1200x1699.jpg?fm=webp&q=90&w=588&h=441&rect=0,0,1200,775&fit=crop&fp-x=0.5&fp-y=0.22804469038799&rect=0,0,1200,775&fit=crop&fp-x=0.5&fp-y=0.22804469038799",
-    "link": "https://www.ascona-locarno.com/de/events/details/alice-im-wunderland-summer-musical-intensive/10008256",
-    "lat": 46.1668905,
-    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
