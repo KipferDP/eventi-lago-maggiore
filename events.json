@@ -1,5 +1,5 @@
 {
- "updated": "30.08.2026 11:38",
+ "updated": "31.08.2026 12:19",
  "events": {
   "ascona": [
    {
@@ -579,23 +579,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/piazza-nostra-auch-wir-sind-das-festival-stimmen-zur-geschichte-des-locarno-film-festival/10007935",
     "lat": 46.1687695,
     "lng": 8.7934454,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007941",
-    "cat": "markt",
-    "catLabel": "Markt",
-    "title": "Mercato SECOND HAND",
-    "dateText": "So, 30.08.2026",
-    "sortKey": 1788076800000,
-    "loc": "Via cittadella 7, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/26573164604721d96512c45cf2559a761b7cfdcf-2315x3140.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/mercato-second-hand/10007941",
-    "lat": 46.1701872,
-    "lng": 8.7943462,
     "isTop": false,
     "parent": ""
    },
