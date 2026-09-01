@@ -1,5 +1,5 @@
 {
- "updated": "31.08.2026 12:19",
+ "updated": "01.09.2026 11:03",
  "events": {
   "ascona": [
    {
@@ -25,24 +25,7 @@
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1788127200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-7",
-    "cat": "kinder",
-    "catLabel": "Kinder",
-    "title": "Pantomime- und Jonglierschule mit Orit – fuer Kinder",
-    "dateText": "jeden Mo/Di/Mi · 18:00 · bis 31.08.",
-    "sortKey": 1788127200000,
+    "sortKey": 1788213600000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -71,7 +54,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-8",
+    "id": "bapu-7",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -173,6 +156,23 @@
     "parent": ""
    },
    {
+    "id": "10008571",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "DJ SET by Hidden Hands - Delta Beach Lounge",
+    "dateText": "Fr, 04.09.–05.09.2026",
+    "sortKey": 1788537600000,
+    "loc": "Via Lido 82, Ascona",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bea7e912c85773cbfbf3eff82169c90c01a3b879-1080x1350.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/dj-set-by-hidden-hands-delta-beach-lounge/10008571",
+    "lat": 46.1476223,
+    "lng": 8.7814106,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "bapu-1",
     "cat": "kino",
     "catLabel": "Kino",
@@ -224,6 +224,23 @@
     "parent": ""
    },
    {
+    "id": "10008570",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "My kind of song - Delta Beach Lounge",
+    "dateText": "Sa, 05.09.2026",
+    "sortKey": 1788624000000,
+    "loc": "Delta Beach Lounge Ascona - Via Lido 82, Ascona",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7c4428c1bc4bb155d9d2660c5815346873156991-1200x628.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/my-kind-of-song-delta-beach-lounge/10008570",
+    "lat": 46.1476223,
+    "lng": 8.7814106,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "bapu-2",
     "cat": "musik",
     "catLabel": "Musik",
@@ -255,6 +272,23 @@
     "lat": 46.160757543463,
     "lng": 8.781336007843,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10008564",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Back to the Future Dinner Party",
+    "dateText": "Fr, 11.09.2026",
+    "sortKey": 1789146000000,
+    "loc": "Seven Toc Toc - Via Moscia 2, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1598736536016d463d7639196c3c865ca06c676c-2000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/back-to-the-future-dinner-party/10008564",
+    "lat": 46.154771,
+    "lng": 8.766267,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -830,7 +864,7 @@
     "loc": "Piazza Grande, Locarno",
     "venue": "Piazza",
     "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/36be4d52c16950fbb715db5ed60c5ff0bb43167d-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0cd950b32beb722d8a62d137f71f76ed191b099b-1024x768.png?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/festa-dei-popoli/10421",
     "lat": 46.1696052,
     "lng": 8.7960181,
@@ -1331,6 +1365,23 @@
     "parent": ""
    },
    {
+    "id": "10245",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Internationales Theaterfestival “Il Teatro in festa”",
+    "dateText": "Mo, 26.07.–01.08.2027",
+    "sortKey": 1816624800000,
+    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/87e83a5bd93b06ffea8aecc65517cb657f2ad756-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/internationales-theaterfestival-il-teatro-in-festa/10245",
+    "lat": 46.170974418983,
+    "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10056",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1345,6 +1396,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10003874",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Il Bistrot Teatro Paravento",
+    "dateText": "Mi, 04.08.–14.08.2027",
+    "sortKey": 1817373600000,
+    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/326a862299064dbb740331b545dc4103a74ec415-4624x2604.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
+    "lat": 46.170974418983,
+    "lng": 8.7955228220902,
+    "isTop": false,
     "parent": ""
    }
   ],
