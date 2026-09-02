@@ -1,5 +1,5 @@
 {
- "updated": "01.09.2026 11:03",
+ "updated": "02.09.2026 10:16",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-6",
-    "cat": "kurs",
-    "catLabel": "Kurs",
-    "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
-    "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1788213600000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -237,6 +220,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/my-kind-of-song-delta-beach-lounge/10008570",
     "lat": 46.1476223,
     "lng": 8.7814106,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-6",
+    "cat": "kurs",
+    "catLabel": "Kurs",
+    "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
+    "dateText": "jeden Mo/Di · bis 30.09.",
+    "sortKey": 1788732000000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
+    "lat": 46.148144,
+    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -732,6 +732,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/johannes-michel/12311",
     "lat": 46.1698002,
     "lng": 8.7913474,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008583",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Wellness Day",
+    "dateText": "Sa, 12.09.2026",
+    "sortKey": 1789203600000,
+    "loc": "Parco della Pace - Via Respini, Locarno",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/18cd069b107f3e15278d62ff37ade509eacb5f0a-1024x768.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/wellness-day/10008583",
+    "lat": 46.1598102,
+    "lng": 8.8030603,
     "isTop": false,
     "parent": ""
    },
