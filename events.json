@@ -1,5 +1,5 @@
 {
- "updated": "02.09.2026 10:16",
+ "updated": "03.09.2026 10:26",
  "events": {
   "ascona": [
    {
@@ -16,40 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-3",
-    "cat": "wellness",
-    "catLabel": "Wellness",
-    "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
-    "dateText": "jeden Mi · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1788300000000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-7",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
-    "dateText": "jeden Mi · bis 30.09.",
-    "sortKey": 1788300000000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -241,6 +207,40 @@
     "parent": ""
    },
    {
+    "id": "bapu-3",
+    "cat": "wellness",
+    "catLabel": "Wellness",
+    "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
+    "dateText": "jeden Mi · 09:30–10:30 · bis 25.09.",
+    "sortKey": 1788904800000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-7",
+    "cat": "event",
+    "catLabel": "Event",
+    "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
+    "dateText": "jeden Mi · bis 30.09.",
+    "sortKey": 1788904800000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "bapu-2",
     "cat": "musik",
     "catLabel": "Musik",
@@ -288,6 +288,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/back-to-the-future-dinner-party/10008564",
     "lat": 46.154771,
     "lng": 8.766267,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008575",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Ein Abend mit Michael Maar: Von literarischen Geheimnissen, berühmten Gästen Asconas und grossen Schweizer Autoren",
+    "dateText": "Mo, 14.09.2026",
+    "sortKey": 1789403400000,
+    "loc": "Casa Serodine - Piazza San Pietro, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/42962e22517674e2af7b9dc74b2106bd7c0c24f6-1491x1055.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ein-abend-mit-michael-maar-von-literarischen-geheimnissen-beruehmten-gaesten-asconas-und-grossen-schweizer-autoren/10008575",
+    "lat": 46.1547159,
+    "lng": 8.7678272,
     "isTop": false,
     "parent": ""
    },
@@ -496,6 +513,23 @@
     "parent": ""
    },
    {
+    "id": "10008595",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "ARTIGIANI IN BORGO",
+    "dateText": "Sa, 05.12.2026",
+    "sortKey": 1796464800000,
+    "loc": "Borgo di Ascona, Ascona",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/95de1fb147051786ceb6931c6375157aa91522bd-1283x1752.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/artigiani-in-borgo/10008595",
+    "lat": 46.1561054,
+    "lng": 8.7678927,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10401",
     "cat": "sport",
     "catLabel": "Sport",
@@ -613,23 +647,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/piazza-nostra-auch-wir-sind-das-festival-stimmen-zur-geschichte-des-locarno-film-festival/10007935",
     "lat": 46.1687695,
     "lng": 8.7934454,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10003828",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Festival Warm Up Concert: Tra Mondi – Zwischen Welten | Anteprima Cornèr Banca",
-    "dateText": "Mi, 02.09.2026",
-    "sortKey": 1788372000000,
-    "loc": "Piazza S. Francesco 19, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2ee0198ff0d011fb6432da5df02dfa42a603822b-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/festival-warm-up-concert-tra-mondi-zwischen-welten-anteprima-corner-banca/10003828",
-    "lat": 46.1678609,
-    "lng": 8.7917756,
     "isTop": false,
     "parent": ""
    },
@@ -753,6 +770,23 @@
     "parent": ""
    },
    {
+    "id": "10008592",
+    "cat": "festival",
+    "catLabel": "Festival",
+    "title": "¡Fiesta Latina!",
+    "dateText": "Sa, 12.09.2026",
+    "sortKey": 1789225200000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ea1c096c3e3be9de146e106932445f936ecf4416-1131x1600.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/fiesta-latina/10008592",
+    "lat": 46.1668905,
+    "lng": 8.798261,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10387",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -801,6 +835,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10008589",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Kosmisches Klangbad",
+    "dateText": "Di, 15.09.2026",
+    "sortKey": 1789489800000,
+    "loc": "Via della Gallinazza 10, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/751f5b825415fd3785c10caf89c04a36eb8bb82f-1439x1075.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/kosmisches-klangbad/10008589",
+    "lat": 46.170239062177,
+    "lng": 8.7962347883259,
+    "isTop": false,
     "parent": ""
    },
    {
