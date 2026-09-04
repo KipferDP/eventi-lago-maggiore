@@ -1,5 +1,5 @@
 {
- "updated": "03.09.2026 10:26",
+ "updated": "04.09.2026 10:22",
  "events": {
   "ascona": [
    {
@@ -20,58 +20,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-0",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Bat Battiston – Apero in Zibrett",
-    "dateText": "Do, 03.09.2026 · 18:30",
-    "sortKey": 1788386400000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007911",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Ascona History Travel Tour",
-    "dateText": "Do, 03.09.–29.10.2026",
-    "sortKey": 1788422700000,
-    "loc": "Viale Papio 5, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/03cd852ebd4418279406ffe7359b8622dbc3fbf0-9177x6118.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
-    "lat": 46.1563359,
-    "lng": 8.7703369,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006088",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Apero in zibrett",
-    "dateText": "Do, 03.09.2026",
-    "sortKey": 1788451200000,
-    "loc": "Bagno Pubblico Ascona - Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9e4f071e40b6aa038d985a1a6494248e33b62b5-1079x1045.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/apero-in-zibrett/10006088",
-    "lat": 46.1482016,
-    "lng": 8.778376,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -122,7 +71,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "kino",
     "catLabel": "Kino",
     "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
@@ -139,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
@@ -190,7 +139,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -207,7 +156,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -224,7 +173,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-7",
+    "id": "bapu-6",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -241,7 +190,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -305,6 +254,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ein-abend-mit-michael-maar-von-literarischen-geheimnissen-beruehmten-gaesten-asconas-und-grossen-schweizer-autoren/10008575",
     "lat": 46.1547159,
     "lng": 8.7678272,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10007911",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Ascona History Travel Tour",
+    "dateText": "Do, 17.09.–29.10.2026",
+    "sortKey": 1789632300000,
+    "loc": "Viale Papio 5, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/03cd852ebd4418279406ffe7359b8622dbc3fbf0-9177x6118.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
+    "lat": 46.1563359,
+    "lng": 8.7703369,
     "isTop": false,
     "parent": ""
    },
