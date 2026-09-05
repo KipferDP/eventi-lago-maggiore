@@ -1,5 +1,5 @@
 {
- "updated": "04.09.2026 10:22",
+ "updated": "05.09.2026 09:57",
  "events": {
   "ascona": [
    {
@@ -20,23 +20,6 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
-    "cat": "wellness",
-    "catLabel": "Wellness",
-    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
-    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1788472800000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10071",
     "cat": "sport",
     "catLabel": "Sport",
@@ -51,23 +34,6 @@
     "lat": 46.160757543463,
     "lng": 8.781336007843,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10008571",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "DJ SET by Hidden Hands - Delta Beach Lounge",
-    "dateText": "Fr, 04.09.–05.09.2026",
-    "sortKey": 1788537600000,
-    "loc": "Via Lido 82, Ascona",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bea7e912c85773cbfbf3eff82169c90c01a3b879-1080x1350.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/dj-set-by-hidden-hands-delta-beach-lounge/10008571",
-    "lat": 46.1476223,
-    "lng": 8.7814106,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -224,6 +190,23 @@
     "parent": ""
    },
    {
+    "id": "bapu-3",
+    "cat": "wellness",
+    "catLabel": "Wellness",
+    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
+    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
+    "sortKey": 1789077600000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008564",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -326,6 +309,23 @@
     "parent": ""
    },
    {
+    "id": "10008605",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Stanza 719",
+    "dateText": "Sa, 19.09.2026",
+    "sortKey": 1789842600000,
+    "loc": "Via Muraccio 21, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d17b92a9208ebe1be448745518b0405b6f9e3f0c-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/stanza-719/10008605",
+    "lat": 46.154329416533,
+    "lng": 8.7749739,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008017",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -356,6 +356,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/monte-verita-musik-literatur-san-gottardo/10005826",
     "lat": 46.1585851,
     "lng": 8.7628859,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008576",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Eine literarische Reise rund um den Lago Maggiore",
+    "dateText": "Do, 24.09.2026",
+    "sortKey": 1790267400000,
+    "loc": "Casa Serodine - Piazza San Pietro, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/43a99a9e2ce835bc60c086f65d698daec049b5a4-1491x1055.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/eine-literarische-reise-rund-um-den-lago-maggiore/10008576",
+    "lat": 46.1547159,
+    "lng": 8.7678272,
     "isTop": false,
     "parent": ""
    },
@@ -1291,6 +1308,23 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/66dc6c6f1e887d7ad858b169e710e730804f7279-485x1000.jpg?fm=webp&q=90&w=588&h=441&rect=0,649,485,351&fit=crop&fp-x=0.5&fp-y=0.82454458995768&rect=0,649,485,351&fit=crop&fp-x=0.5&fp-y=0.82454458995768",
     "link": "https://www.ascona-locarno.com/de/events/details/operazione-san-gennaro/10008497",
+    "lat": 46.170974418983,
+    "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008579",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "“Bello Sarebbe”… ovvero insolite parole d’auguri",
+    "dateText": "Fr, 27.11.2026",
+    "sortKey": 1795802400000,
+    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/51cfed9bd06b8e8b1457b0d0fe8fc0a121c9e5f0-1597x995.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/bello-sarebbe-ovvero-insolite-parole-dauguri/10008579",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false,
