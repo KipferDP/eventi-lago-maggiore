@@ -1,5 +1,5 @@
 {
- "updated": "05.09.2026 09:57",
+ "updated": "06.09.2026 10:15",
  "events": {
   "ascona": [
    {
@@ -37,75 +37,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-0",
-    "cat": "kino",
-    "catLabel": "Kino",
-    "title": "Kino am Strand: Indiana Jones und der letzte Kreuzzug – Indiana Jones e l'ultima crociata",
-    "dateText": "Sa, 05.09.2026 · 19:00",
-    "sortKey": 1788559200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "bapu-4",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Full Body Workout mit Schutz – bis Saisonende",
-    "dateText": "jeden Sa · 08:00 · bis 30.09.",
-    "sortKey": 1788559200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008372",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Vernissage della Mostra «Parallax",
-    "dateText": "Sa, 05.09.2026",
-    "sortKey": 1788616800000,
-    "loc": "via beato pietro berno 14, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2b3e84242093365a8b5c8ecceea01ddfc3c759be-3661x2267.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/vernissage-della-mostra-parallax/10008372",
-    "lat": 46.154708,
-    "lng": 8.768589,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008570",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "My kind of song - Delta Beach Lounge",
-    "dateText": "Sa, 05.09.2026",
-    "sortKey": 1788624000000,
-    "loc": "Delta Beach Lounge Ascona - Via Lido 82, Ascona",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7c4428c1bc4bb155d9d2660c5815346873156991-1200x628.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/my-kind-of-song-delta-beach-lounge/10008570",
-    "lat": 46.1476223,
-    "lng": 8.7814106,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-5",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -122,7 +54,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -139,7 +71,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-6",
+    "id": "bapu-5",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -156,7 +88,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "musik",
     "catLabel": "Musik",
     "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
@@ -190,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -220,6 +152,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/back-to-the-future-dinner-party/10008564",
     "lat": 46.154771,
     "lng": 8.766267,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-3",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Full Body Workout mit Schutz – bis Saisonende",
+    "dateText": "jeden Sa · 08:00 · bis 30.09.",
+    "sortKey": 1789164000000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
+    "lat": 46.148144,
+    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -634,23 +583,6 @@
     "parent": ""
    },
    {
-    "id": "10073",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Triathlon Locarno",
-    "dateText": "Sa, 05.09.–06.09.2026",
-    "sortKey": 1788588000000,
-    "loc": "Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4ee36967a1b4c720d52584cdf96f82c8e7528c3-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/triathlon-locarno/10073",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": true,
-    "parent": ""
-   },
-   {
     "id": "10008374",
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
@@ -668,20 +600,20 @@
     "parent": ""
    },
    {
-    "id": "10007843",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "25 Öko-Spiele laden alle zum Mitmachen ein. Worte sind überflüssig. Zwei intime, wortlose Vorstellungen für jeweils einen Zuschauer.",
-    "dateText": "Sa, 05.09.2026",
-    "sortKey": 1788613200000,
-    "loc": "Piazza Pedrazzini, Locarno",
+    "id": "10073",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Triathlon Locarno",
+    "dateText": "So, 06.09.2026",
+    "sortKey": 1788667200000,
+    "loc": "Locarno",
     "venue": "",
     "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/af087f619066b7120bea88eaf7297a94d3e78a1b-745x531.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/25-oeko-spiele-laden-alle-zum-mitmachen-ein-worte-sind-ueberfluessig-zwei-intime-wortlose-vorstellungen-fuer-jeweils-einen-zuschauer/10007843",
-    "lat": 46.167188118074,
-    "lng": 8.799056919574,
-    "isTop": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4ee36967a1b4c720d52584cdf96f82c8e7528c3-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/triathlon-locarno/10073",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": true,
     "parent": ""
    },
    {
