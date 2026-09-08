@@ -1,5 +1,5 @@
 {
- "updated": "07.09.2026 10:48",
+ "updated": "08.09.2026 10:28",
  "events": {
   "ascona": [
    {
@@ -25,7 +25,7 @@
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1788732000000,
+    "sortKey": 1788818400000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -360,6 +360,23 @@
     "parent": ""
    },
    {
+    "id": "10008623",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "OKTOBERFEST",
+    "dateText": "Sa, 03.10.–10.10.2026",
+    "sortKey": 1791045000000,
+    "loc": "Contrada Fontanelle 3, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8b1508fd1b463d12e6fa0311907d5e14505842fe-6706x4471.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/oktoberfest/10008623",
+    "lat": 46.1551757,
+    "lng": 8.7662962,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "11417",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -549,23 +566,6 @@
     "parent": ""
    },
    {
-    "id": "10008374",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Sa, 05.09.–06.01.2027",
-    "sortKey": 1788607800000,
-    "loc": "Via A. Ciseri 3, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
-    "lat": 46.169257090664,
-    "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "12311",
     "cat": "event",
     "catLabel": "Event",
@@ -579,6 +579,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/johannes-michel/12311",
     "lat": 46.1698002,
     "lng": 8.7913474,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008374",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
+    "dateText": "Mi, 09.09.–06.01.2027",
+    "sortKey": 1788953400000,
+    "loc": "Via A. Ciseri 3, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
+    "lat": 46.169257090664,
+    "lng": 8.7999410558198,
     "isTop": false,
     "parent": ""
    },
@@ -647,6 +664,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/in-pericolo-europaeische-tage-des-denkmals/10008426",
     "lat": 46.172777,
     "lng": 8.770584,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008614",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Bande in Piazza 2026",
+    "dateText": "Mo, 14.09.–20.09.2026",
+    "sortKey": 1789410600000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/10e0282d2fc15da149f93dc86f81961e0c3a2e30-4032x3024.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/bande-in-piazza-2026/10008614",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
     "isTop": false,
     "parent": ""
    },
@@ -892,14 +926,14 @@
     "id": "10003734",
     "cat": "event",
     "catLabel": "Event",
-    "title": "Roberto Olzer",
+    "title": "Roberto Olzer & Marco Santilli",
     "dateText": "Mi, 30.09.2026",
     "sortKey": 1790757000000,
     "loc": "Collegiata S. Antonio Abate - Via Sant'Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/roberto-olzer/10003734",
+    "link": "https://www.ascona-locarno.com/de/events/details/roberto-olzer-marco-santilli/10003734",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false,
@@ -1229,6 +1263,23 @@
     "parent": ""
    },
    {
+    "id": "10008633",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "“Miserere”",
+    "dateText": "Sa, 28.11.2026",
+    "sortKey": 1795888800000,
+    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3d44837ef5241fbfae642b9f2f8d2a6189d03832-2048x1365.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/miserere/10008633",
+    "lat": 46.170974418983,
+    "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "12202",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1294,6 +1345,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10007",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Concerti delle Camelie",
+    "dateText": "Fr, 12.03.–16.04.2027",
+    "sortKey": 1804879800000,
+    "loc": "Sala Sopracenerina - Piazza Grande 5, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a992faf730f1ed2e2345aeecf2484b62bf50d650-1280x851.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/concerti-delle-camelie-1/10007",
+    "lat": 46.1692229,
+    "lng": 8.797325,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -1440,23 +1508,6 @@
    }
   ],
   "muralto": [
-   {
-    "id": "10008382",
-    "cat": "tradition",
-    "catLabel": "Tradition",
-    "title": "Von Locarno zum Internationalen Schornsteinfegertreffen",
-    "dateText": "Fr, 04.09.–07.09.2026",
-    "sortKey": 1788508260000,
-    "loc": "Piazza Stazione 3, Muralto",
-    "venue": "Bahnhof",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c5a3a911b3b6ccc681f412901d0bad97ea6b4adb-1537x1023.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/von-locarno-zum-internationalen-schornsteinfegertreffen/10008382",
-    "lat": 46.1723688,
-    "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10008383",
     "cat": "kulinarik",
