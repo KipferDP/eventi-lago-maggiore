@@ -1,5 +1,5 @@
 {
- "updated": "10.09.2026 10:33",
+ "updated": "11.09.2026 10:27",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-0",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Toothless Kisses – Irish Folk – Apero in Zibrett",
-    "dateText": "Do, 10.09.2026 · 18:30",
-    "sortKey": 1788991200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
     "isTop": false,
     "parent": ""
    },
@@ -54,7 +37,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-2",
+    "id": "bapu-1",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Karla – Yoga im Freien",
@@ -71,24 +54,7 @@
     "parent": ""
    },
    {
-    "id": "10008564",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Back to the Future Dinner Party",
-    "dateText": "Fr, 11.09.2026",
-    "sortKey": 1789146000000,
-    "loc": "Seven Toc Toc - Via Moscia 2, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1598736536016d463d7639196c3c865ca06c676c-2000x3000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/back-to-the-future-dinner-party/10008564",
-    "lat": 46.154771,
-    "lng": 8.766267,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-3",
+    "id": "bapu-2",
     "cat": "sport",
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
@@ -105,7 +71,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-4",
+    "id": "bapu-3",
     "cat": "kurs",
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
@@ -139,7 +105,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-1",
+    "id": "bapu-0",
     "cat": "wellness",
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
@@ -156,7 +122,7 @@
     "parent": ""
    },
    {
-    "id": "bapu-5",
+    "id": "bapu-4",
     "cat": "event",
     "catLabel": "Event",
     "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
@@ -957,6 +923,23 @@
     "parent": ""
    },
    {
+    "id": "11627",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Locarno e Valli Art Weekend",
+    "dateText": "Fr, 09.10.–11.10.2026",
+    "sortKey": 1791540000000,
+    "loc": "Locarno und Täler",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c9b97cc158f973d464c1dde5d44ee55c8de13ba2-1200x628.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-e-valli-art-weekend/11627",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008436",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -988,6 +971,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10008653",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "4 STAGIONI CON ANTON VIOLINIST & FRIENDS",
+    "dateText": "Sa, 10.10.2026",
+    "sortKey": 1791657000000,
+    "loc": "Largo Franco Zorzi 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0a299a2b81158358cb1d473364ba5eb75293b066-2880x1800.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/4-stagioni-con-anton-violinist-friends/10008653",
+    "lat": 46.169394790152,
+    "lng": 8.7991099547699,
+    "isTop": false,
     "parent": ""
    },
    {
