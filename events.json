@@ -1,5 +1,5 @@
 {
- "updated": "13.09.2026 10:40",
+ "updated": "14.09.2026 11:26",
  "events": {
   "ascona": [
    {
@@ -17,23 +17,6 @@
     "lat": 46.156198118737,
     "lng": 8.768430382209,
     "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10080",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "CSI Ascona",
-    "dateText": "Do, 10.09.–13.09.2026",
-    "sortKey": 1789034400000,
-    "loc": "Sedime Aeroporto, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8bf693fbb3a4791f994922db242cedf0c7c753f1-1138x853.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/csi-ascona/10080",
-    "lat": 46.160757543463,
-    "lng": 8.781336007843,
-    "isTop": true,
     "parent": ""
    },
    {
@@ -532,40 +515,6 @@
     "parent": ""
    },
    {
-    "id": "10008374",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 09.09.–06.01.2027",
-    "sortKey": 1788953400000,
-    "loc": "Via A. Ciseri 3, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
-    "lat": 46.169257090664,
-    "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008667",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno romana - Rievocazione storica al Castello Visconteo di Locarno",
-    "dateText": "So, 13.09.2026",
-    "sortKey": 1789286400000,
-    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/56d3b7a250e600e0099157ba0e84d6790699578e-1500x1000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-romana-rievocazione-storica-al-castello-visconteo-di-locarno/10008667",
-    "lat": 46.1684184,
-    "lng": 8.7933135,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10387",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -579,23 +528,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/s-pellegrino-sapori-ticino-2026/10387",
     "lat": 46.1696052,
     "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008426",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "„In Pericolo?“ – Europäische Tage des Denkmals",
-    "dateText": "So, 13.09.2026",
-    "sortKey": 1789304400000,
-    "loc": "Via alle vigne 44, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/714eac0fd66563eaef3a4c5a51c9296480aa0ef7-3543x2362.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/in-pericolo-europaeische-tage-des-denkmals/10008426",
-    "lat": 46.172777,
-    "lng": 8.770584,
     "isTop": false,
     "parent": ""
    },
@@ -681,6 +613,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/stephan-rahn/12313",
     "lat": 46.1698002,
     "lng": 8.7913474,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008374",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
+    "dateText": "Mi, 16.09.–06.01.2027",
+    "sortKey": 1789558200000,
+    "loc": "Via A. Ciseri 3, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
+    "lat": 46.169257090664,
+    "lng": 8.7999410558198,
     "isTop": false,
     "parent": ""
    },
@@ -1161,6 +1110,23 @@
     "parent": ""
    },
    {
+    "id": "10008672",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "MALTE MARTEN - Healing Frequencies Tour",
+    "dateText": "Sa, 14.11.2026",
+    "sortKey": 1794681000000,
+    "loc": "Kursaal Teatro di Locarno - Largo Zorzi 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4dcb658ee02c57bf826a6581220b2f8a9bc0cd3-1600x1141.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/malte-marten-healing-frequencies-tour/10008672",
+    "lat": 46.1697158,
+    "lng": 8.7989273,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10074",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1469,25 +1435,7 @@
     "parent": ""
    }
   ],
-  "tenero": [
-   {
-    "id": "10263",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Sportissima",
-    "dateText": "So, 13.09.2026",
-    "sortKey": 1789284600000,
-    "loc": "Via alle Brere 10, Tenero",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/611b13fee2749ef6471137b38dd89a8fd0f6c092-2816x2112.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/sportissima/10263",
-    "lat": 46.1733565,
-    "lng": 8.8560791,
-    "isTop": false,
-    "parent": ""
-   }
-  ],
+  "tenero": [],
   "orselina": [
    {
     "id": "10262",
