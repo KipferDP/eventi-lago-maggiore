@@ -1,5 +1,5 @@
 {
- "updated": "18.09.2026 10:38",
+ "updated": "19.09.2026 10:25",
  "events": {
   "ascona": [
    {
@@ -34,23 +34,6 @@
     "lat": 46.148153097038,
     "lng": 8.7791007757187,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "bapu-1",
-    "cat": "wellness",
-    "catLabel": "Wellness",
-    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
-    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1789682400000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -224,6 +207,23 @@
     "parent": ""
    },
    {
+    "id": "bapu-1",
+    "cat": "wellness",
+    "catLabel": "Wellness",
+    "title": "Yoga Outdoor mit Karla – Yoga im Freien",
+    "dateText": "jeden Fr · 09:30–10:30 · bis 25.09.",
+    "sortKey": 1790287200000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://omyogacommunity.ch/",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10006422",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -275,6 +275,23 @@
     "parent": ""
    },
    {
+    "id": "10008735",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "DEGUSTAZIONE DI VINI CON ARTISTA ELEONORA MEIER",
+    "dateText": "Do, 01.10.2026",
+    "sortKey": 1790863200000,
+    "loc": "Galleria Sacchetti - via Beato P. Berno 14, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2679170f8935609ace00ed064d5b1611c76ff153-5000x3750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/degustazione-di-vini-con-artista-eleonora-meier/10008735",
+    "lat": 46.154708,
+    "lng": 8.768589,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008725",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -284,10 +301,10 @@
     "loc": "Via Lido 82, Ascona",
     "venue": "Lido",
     "keyVenue": true,
-    "image": "",
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/81c95bbbbb7e4dffde51cc94b4534f1e49eb8271-1024x768.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/wine-dine-con-tenuta-san-guido-delta-beach-lounge-ascona/10008725",
-    "lat": 0,
-    "lng": 0,
+    "lat": 46.1476006,
+    "lng": 8.7814158,
     "isTop": false,
     "parent": ""
    },
@@ -600,40 +617,6 @@
     "parent": ""
    },
    {
-    "id": "10008616",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Der Garten der Gerechten in Locarno",
-    "dateText": "Fr, 18.09.2026",
-    "sortKey": 1789743600000,
-    "loc": "Parco della Pace - Via Respini, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/74c224c3aef2b9a9f97d468086c0bff52d9b32c7-4608x3072.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/der-garten-der-gerechten-in-locarno/10008616",
-    "lat": 46.1598102,
-    "lng": 8.8030603,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008614",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Bande in Piazza Grande a Locarno",
-    "dateText": "Fr, 18.09.–20.09.2026",
-    "sortKey": 1789750800000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/10e0282d2fc15da149f93dc86f81961e0c3a2e30-4032x3024.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/bande-in-piazza-grande-a-locarno/10008614",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "12371",
     "cat": "sport",
     "catLabel": "Sport",
@@ -681,6 +664,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/die-musik-von-der-herr-der-ringe-eine-hommage-an-howard-shore-mit-dem-mystery-ensemble/10007795",
     "lat": 46.169394790152,
     "lng": 8.7991099547699,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008614",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Bande in Piazza Grande a Locarno",
+    "dateText": "Sa, 19.09.–20.09.2026",
+    "sortKey": 1789840800000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/10e0282d2fc15da149f93dc86f81961e0c3a2e30-4032x3024.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/bande-in-piazza-grande-a-locarno/10008614",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
     "isTop": false,
     "parent": ""
    },
@@ -1140,6 +1140,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/espo-verbano-1/12373",
     "lat": 46.1641605,
     "lng": 8.7887892,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008737",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "TRAIL RUNNING WEEKEND ASCONA-LOCARNO",
+    "dateText": "Sa, 14.11.–15.11.2026",
+    "sortKey": 1794654000000,
+    "loc": "Viale Verbano 29, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/trail-running-weekend-ascona-locarno/10008737",
+    "lat": 46.17167,
+    "lng": 8.805111,
     "isTop": false,
     "parent": ""
    },
