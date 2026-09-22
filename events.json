@@ -1,5 +1,5 @@
 {
- "updated": "21.09.2026 11:29",
+ "updated": "22.09.2026 10:56",
  "events": {
   "ascona": [
    {
@@ -42,7 +42,7 @@
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1789941600000,
+    "sortKey": 1790028000000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -218,8 +218,8 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9ee7e951c4554e16d52f878bc3e60b456727def7-1254x1254.png?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/ki-in-der-literatur-gefahr-werkzeug-oder-laengst-teil-des-schreibens/10008738",
-    "lat": 0,
-    "lng": 0,
+    "lat": 46.1548245,
+    "lng": 8.7678535,
     "isTop": false,
     "parent": ""
    },
@@ -292,6 +292,23 @@
     "parent": ""
    },
    {
+    "id": "10008739",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Ein Koffer voller Geschichten – Charlotte Bara, Ascona und ein europäisches Netzwerk",
+    "dateText": "Do, 08.10.2026",
+    "sortKey": 1791477000000,
+    "loc": "Piazza San Pietro 6, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bb6e5c408c89e82f9a9acc592191c81583592283-1254x1254.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ein-koffer-voller-geschichten-charlotte-bara-ascona-und-ein-europaeisches-netzwerk/10008739",
+    "lat": 46.1548245,
+    "lng": 8.7678535,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "11417",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -343,6 +360,23 @@
     "parent": ""
    },
    {
+    "id": "11477",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Ascona Music Festival",
+    "dateText": "Di, 20.10.–20.12.2026",
+    "sortKey": 1792490400000,
+    "loc": "Chiesa di Santa Maria della Misericordia, Collegio Papio - Via delle Cappelle 1, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c91e5a06b03474aff370f6d1f2700fb9a2e76a2d-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-music-festival/11477",
+    "lat": 46.1552882,
+    "lng": 8.7711284,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10396",
     "cat": "musik",
     "catLabel": "Musik",
@@ -390,6 +424,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/artigiani-in-borgo/10008595",
     "lat": 46.1561054,
     "lng": 8.7678927,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "11878",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Weihnachtskonzert - Calicantus Chor",
+    "dateText": "Sa, 19.12.2026",
+    "sortKey": 1797699600000,
+    "loc": "Chiesa di Santa Maria della Misericordia, Collegio Papio - Via delle Cappelle 1, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1335fd734642e8e7863b34a1c8d38b4c377adf39-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/weihnachtskonzert-calicantus-chor/11878",
+    "lat": 46.1552882,
+    "lng": 8.7711284,
     "isTop": false,
     "parent": ""
    },
@@ -453,7 +504,7 @@
     "title": "Locarno Organ Festival 2026",
     "dateText": "So, 12.04.–26.12.2026",
     "sortKey": 1775988000000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0fd645368b7bd717ac8fbdac1a7190e5be748a4a-515x619.png?fm=webp&q=90&w=588&h=441",
@@ -504,7 +555,7 @@
     "title": "S. Pellegrino Sapori Ticino 2026",
     "dateText": "So, 13.09.–15.11.2026",
     "sortKey": 1789293600000,
-    "loc": "Während der zwei Monate des Festivals finden mehrere Abendessen an einigen der besten Orte im Kanton Tessin statt.",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c67051a1e3a2a0121be262d11eb01cdba2e8680-2481x1754.jpg?fm=webp&q=90&w=588&h=441",
@@ -521,7 +572,7 @@
     "title": "Gastronomischer Herbst Lago Maggiore e Valli",
     "dateText": "Di, 15.09.–27.10.2026",
     "sortKey": 1789466400000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/61c9812edfea3c4677997fa763bcb45d4c348735-1024x768.jpg?fm=webp&q=90&w=588&h=441",
@@ -657,7 +708,7 @@
     "title": "Internationales Festival Voci Audaci",
     "dateText": "So, 27.09.–21.11.2026",
     "sortKey": 1790503200000,
-    "loc": "Region und Täler des Lago Maggiore",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/85e282d758c07412b2ce953623521fe56cc4ce73-1024x768.jpg?fm=webp&q=90&w=588&h=441",
@@ -674,7 +725,7 @@
     "title": "Kastanienfeste am Lago Maggiore",
     "dateText": "So, 27.09.–07.11.2026",
     "sortKey": 1790503200000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1fce22a91a0dc4478d3a53869fe74d54d887719c-1920x1280.jpg?fm=webp&q=90&w=588&h=441",
@@ -682,7 +733,7 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
-    "parent": ""
+    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
    },
    {
     "id": "10003734",
@@ -742,7 +793,7 @@
     "title": "Locarno e Valli Art Weekend",
     "dateText": "Fr, 09.10.–11.10.2026",
     "sortKey": 1791540000000,
-    "loc": "Locarno und Täler",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b72d5833949fc27488890b23046d5d980c430211-1200x628.jpg?fm=webp&q=90&w=588&h=441",
@@ -750,7 +801,7 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
-    "parent": ""
+    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
    },
    {
     "id": "10008436",
@@ -878,7 +929,7 @@
     "title": "Tessiner Herbstzauber: Hike & Bike zwischen Palmen, Graten und Gipfeln",
     "dateText": "Sa, 24.10.–25.10.2026",
     "sortKey": 1792825200000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c22c9b4f04f5f1ed5ebe44d9e0bbb29b60caf8a-1125x750.jpg?fm=webp&q=90&w=588&h=441",
@@ -886,7 +937,7 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
-    "parent": ""
+    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
    },
    {
     "id": "10008440",
@@ -912,7 +963,7 @@
     "title": "Festival La donna crea",
     "dateText": "So, 25.10.–28.11.2026",
     "sortKey": 1792926000000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ae7b2f4d0e86050e412297b0e049d782e4255544-1024x768.jpg?fm=webp&q=90&w=588&h=441",
@@ -920,7 +971,7 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
-    "parent": ""
+    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
    },
    {
     "id": "10008441",
@@ -1229,6 +1280,23 @@
     "parent": ""
    },
    {
+    "id": "11540",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Weihnachtsmarkt Locarno, Altstadt",
+    "dateText": "Di, 08.12.2026",
+    "sortKey": 1796720400000,
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/weihnachtsmarkt-locarno-altstadt/11540",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008691",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1242,6 +1310,40 @@
     "link": "https://www.ascona-locarno.com/de/events/details/don-chisciotte-senza-mancia/10008691",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10003741",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Weihnachtsmarkt in Solduno",
+    "dateText": "So, 13.12.2026",
+    "sortKey": 1797156000000,
+    "loc": "Piazza Solduno, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/weihnachtsmarkt-in-solduno/10003741",
+    "lat": 46.1702071,
+    "lng": 8.7782122,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "11590",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Weihnachtskonzert mit Luceat - Locarno",
+    "dateText": "So, 13.12.2026",
+    "sortKey": 1797177600000,
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/aca10bb28840a878b167fe831e21e9fd9d6c81db-2142x1342.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/weihnachtskonzert-mit-luceat-locarno/11590",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
     "isTop": false,
     "parent": ""
    },
@@ -1456,7 +1558,7 @@
     "title": "Triathlon Locarno",
     "dateText": "Sa, 04.09.–05.09.2027",
     "sortKey": 1820052000000,
-    "loc": "Locarno",
+    "loc": "Collegiata S. Antonio Abate, Via S. Antonio 1, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4ee36967a1b4c720d52584cdf96f82c8e7528c3-1024x768.jpg?fm=webp&q=90&w=588&h=441",
@@ -1486,7 +1588,25 @@
     "parent": ""
    }
   ],
-  "tenero": [],
+  "tenero": [
+   {
+    "id": "11544",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Weihnachtsmarkt Tenero",
+    "dateText": "Sa, 05.12.2026",
+    "sortKey": 1796468400000,
+    "loc": "Tenero",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/weihnachtsmarkt-tenero/11544",
+    "lat": 46.180848539858,
+    "lng": 8.8503596761658,
+    "isTop": false,
+    "parent": ""
+   }
+  ],
   "orselina": [
    {
     "id": "10008695",
