@@ -1,5 +1,5 @@
 {
- "updated": "23.09.2026 10:58",
+ "updated": "24.09.2026 10:54",
  "events": {
   "ascona": [
    {
@@ -42,29 +42,12 @@
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
     "dateText": "jeden Mi · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1790114400000,
+    "sortKey": 1790200800000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
     "image": "",
     "link": "https://omyogacommunity.ch/",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-4",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
-    "dateText": "jeden Mi · bis 30.09.",
-    "sortKey": 1790114400000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
     "lat": 46.148144,
     "lng": 8.779204,
     "isTop": false,
@@ -162,6 +145,23 @@
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
     "sortKey": 1790546400000,
+    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://bapu-ascona.ch/eventi",
+    "lat": 46.148144,
+    "lng": 8.779204,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "bapu-4",
+    "cat": "event",
+    "catLabel": "Event",
+    "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
+    "dateText": "jeden Mi · bis 30.09.",
+    "sortKey": 1790719200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -580,23 +580,6 @@
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "12315",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Stefano Molardi",
-    "dateText": "Mi, 23.09.2026",
-    "sortKey": 1790152200000,
-    "loc": "Chiesa San Giovanni Battista - Via Vallemaggia 60, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/stefano-molardi/12315",
-    "lat": 46.1699706,
-    "lng": 8.7799705,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -1678,23 +1661,6 @@
    }
   ],
   "muralto": [
-   {
-    "id": "10008693",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "A Muralto “La Via Lattea 22 – In cammino con Rilke”",
-    "dateText": "Mi, 23.09.2026",
-    "sortKey": 1790182800000,
-    "loc": "Palazzo dei Congressi, Via Municipio 2, Muralto",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b1ccff1a4228993be9c514ed495045dee59d1380-1200x800.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/a-muralto-la-via-lattea-22-in-cammino-con-rilke/10008693",
-    "lat": 46.1728518,
-    "lng": 8.8058156,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10008698",
     "cat": "kultur",
