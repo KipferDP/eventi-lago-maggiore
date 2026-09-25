@@ -1,5 +1,5 @@
 {
- "updated": "24.09.2026 10:54",
+ "updated": "25.09.2026 11:15",
  "events": {
   "ascona": [
    {
@@ -42,7 +42,7 @@
     "catLabel": "Wellness",
     "title": "Yoga Outdoor mit Brenno – Yoga im Freien",
     "dateText": "jeden Mi · 09:30–10:30 · bis 25.09.",
-    "sortKey": 1790200800000,
+    "sortKey": 1790287200000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -50,23 +50,6 @@
     "link": "https://omyogacommunity.ch/",
     "lat": 46.148144,
     "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008576",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Eine literarische Reise rund um den Lago Maggiore",
-    "dateText": "Do, 24.09.2026",
-    "sortKey": 1790267400000,
-    "loc": "Casa Serodine - Piazza San Pietro, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/43a99a9e2ce835bc60c086f65d698daec049b5a4-1491x1055.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/eine-literarische-reise-rund-um-den-lago-maggiore/10008576",
-    "lat": 46.1547159,
-    "lng": 8.7678272,
     "isTop": false,
     "parent": ""
    },
