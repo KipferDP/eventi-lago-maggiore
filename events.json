@@ -1,5 +1,5 @@
 {
- "updated": "28.09.2026 12:22",
+ "updated": "29.09.2026 12:17",
  "events": {
   "ascona": [
    {
@@ -42,7 +42,7 @@
     "catLabel": "Sport",
     "title": "Full Body Workout mit Schutz – bis Saisonende",
     "dateText": "jeden Sa · 08:00 · bis 30.09.",
-    "sortKey": 1790546400000,
+    "sortKey": 1790632800000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -59,7 +59,7 @@
     "catLabel": "Kurs",
     "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
     "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1790546400000,
+    "sortKey": 1790632800000,
     "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
     "venue": "",
     "keyVenue": false,
@@ -698,6 +698,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/felici-di-volare/10008436",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008803",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "The Black Horse + Theday Tonight - CAMBUSINDIE MUSIC FESTIVAL",
+    "dateText": "Fr, 09.10.2026",
+    "sortKey": 1791568800000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/34a6545082d322564c5acc4b670e8c554e723f08-1138x1610.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/the-black-horse-theday-tonight-cambusindie-music-festival/10008803",
+    "lat": 46.1668905,
+    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
@@ -1658,6 +1675,23 @@
   ],
   "tenero": [
    {
+    "id": "10008805",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Festa del 50° GTSC",
+    "dateText": "Sa, 17.10.2026",
+    "sortKey": 1792224000000,
+    "loc": "Tenero",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3195748969afea0cf66cd80d23d4ceac1697cdc8-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/festa-del-50-gtsc/10008805",
+    "lat": 46.1810923,
+    "lng": 8.848283,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "11544",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -1760,6 +1794,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/birra-formaggio-miele-al-lago/10008403",
     "lat": 46.171553387972,
     "lng": 8.8062749084595,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008747",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Luceat: Concerto di Natale",
+    "dateText": "Sa, 05.12.2026",
+    "sortKey": 1796497200000,
+    "loc": "Piazza San Vittore 1a, Muralto",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fa357e6be276765d678cf019e38743df307a5086-6000x4000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/luceat-concerto-di-natale/10008747",
+    "lat": 46.1725567,
+    "lng": 8.8053795,
     "isTop": false,
     "parent": ""
    },
