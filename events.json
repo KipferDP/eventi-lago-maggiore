@@ -1,5 +1,5 @@
 {
- "updated": "30.09.2026 12:10",
+ "updated": "01.10.2026 12:37",
  "events": {
   "ascona": [
    {
@@ -34,57 +34,6 @@
     "lat": 46.1552882,
     "lng": 8.7711284,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "bapu-0",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Full Body Workout mit Schutz – bis Saisonende",
-    "dateText": "jeden Sa · 08:00 · bis 30.09.",
-    "sortKey": 1790719200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-1",
-    "cat": "kurs",
-    "catLabel": "Kurs",
-    "title": "Gitarrenkurse mit Moises – Gitarrenunterricht",
-    "dateText": "jeden Mo/Di · bis 30.09.",
-    "sortKey": 1790719200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "bapu-2",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Frisiersalon am Strand mit Gianni – Coiffeur am Strand, Mittwochnachmittag",
-    "dateText": "jeden Mi · bis 30.09.",
-    "sortKey": 1790719200000,
-    "loc": "Bagno Pubblico Ascona (BaPu), Via Fenaro 9, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://bapu-ascona.ch/eventi",
-    "lat": 46.148144,
-    "lng": 8.779204,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -526,23 +475,6 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/85e282d758c07412b2ce953623521fe56cc4ce73-1024x768.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
-    "lat": 46.1698002,
-    "lng": 8.7913474,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10003734",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Roberto Olzer & Marco Santilli",
-    "dateText": "Mi, 30.09.2026",
-    "sortKey": 1790757000000,
-    "loc": "Collegiata S. Antonio Abate - Via Sant'Antonio 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/roberto-olzer-marco-santilli/10003734",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false,
