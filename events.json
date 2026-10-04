@@ -1,5 +1,5 @@
 {
- "updated": "03.10.2026 11:35",
+ "updated": "04.10.2026 12:21",
  "events": {
   "ascona": [
    {
@@ -33,40 +33,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/classicascona-nr-81-by-fondazione-settimane-musicali-ascona/10024",
     "lat": 46.1552882,
     "lng": 8.7711284,
-    "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10081",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Trekking Schmugglerpfad",
-    "dateText": "Sa, 03.10.2026",
-    "sortKey": 1791003600000,
-    "loc": "Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e160c3b13fb49827db8d5dd2845c5b7b6d3a9d58-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/trekking-schmugglerpfad/10081",
-    "lat": 46.1537368,
-    "lng": 8.7689245,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10086",
-    "cat": "tradition",
-    "catLabel": "Tradition",
-    "title": "Herbstfest Ascona",
-    "dateText": "Sa, 03.10.2026",
-    "sortKey": 1791014400000,
-    "loc": "Lungolago, Ascona",
-    "venue": "Seepromenade",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/86807babefe2ebfd03cf758992bd0db9a796bf5b-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/herbstfest-ascona/10086",
-    "lat": 46.1537368,
-    "lng": 8.7689245,
     "isTop": true,
     "parent": ""
    },
