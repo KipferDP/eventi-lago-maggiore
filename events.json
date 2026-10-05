@@ -1,5 +1,5 @@
 {
- "updated": "04.10.2026 12:21",
+ "updated": "05.10.2026 13:03",
  "events": {
   "ascona": [
    {
@@ -379,40 +379,6 @@
     "parent": ""
    },
    {
-    "id": "10008374",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 30.09.–06.01.2027",
-    "sortKey": 1790767800000,
-    "loc": "Via A. Ciseri 3, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
-    "lat": 46.169257090664,
-    "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008679",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Gianni Morandi - C'era un Ragazzo",
-    "dateText": "So, 04.10.2026",
-    "sortKey": 1791136800000,
-    "loc": "Palexpo Locarno / FEVI - Via Alla Peschiera 9, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/35659365dcbf90c7ff82103a7d630326f206e342-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/gianni-morandi-cera-un-ragazzo/10008679",
-    "lat": 46.1641605,
-    "lng": 8.7887892,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10195",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -443,6 +409,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/marina-jahn/12316",
     "lat": 46.1698002,
     "lng": 8.7913474,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008374",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
+    "dateText": "Mi, 07.10.–06.01.2027",
+    "sortKey": 1791372600000,
+    "loc": "Via A. Ciseri 3, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
+    "lat": 46.169257090664,
+    "lng": 8.7999410558198,
     "isTop": false,
     "parent": ""
    },
@@ -1660,23 +1643,6 @@
   ],
   "orselina": [
    {
-    "id": "10008695",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Konzertmesse zum 800. Todestag des hl. Franziskus: Mozarts Requiem",
-    "dateText": "So, 04.10.2026",
-    "sortKey": 1791126000000,
-    "loc": "Chiesa Madonna del Sasso, Via Santuario 2, Orselina",
-    "venue": "Sasso",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5d7c62ddac8d89b98eff9e0b9d7943aa196749a0-922x698.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/konzertmesse-zum-800-todestag-des-hl-franziskus-mozarts-requiem/10008695",
-    "lat": 46.1753136,
-    "lng": 8.7935694,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10262",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -1695,23 +1661,6 @@
    }
   ],
   "muralto": [
-   {
-    "id": "10008383",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Das Brot der Centovalli",
-    "dateText": "So, 04.10.2026",
-    "sortKey": 1791103500000,
-    "loc": "Piazza Stazione 3, Muralto",
-    "venue": "Bahnhof",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6502622bc94cb7e4fabed95c73fdfe238bc6e0d7-1537x1023.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/das-brot-der-centovalli/10008383",
-    "lat": 46.1723688,
-    "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10008698",
     "cat": "kultur",
@@ -1775,6 +1724,23 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fa357e6be276765d678cf019e38743df307a5086-6000x4000.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/luceat-concerto-di-natale/10008747",
+    "lat": 46.1725567,
+    "lng": 8.8053795,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008870",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Concerto Lirico di Natale",
+    "dateText": "Di, 08.12.2026",
+    "sortKey": 1796745600000,
+    "loc": "Piazza San Vittore 1a, Muralto",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5e3a7810157b122d29e86692b9b1356d53a243ae-642x443.png?fm=webp&q=90&w=588&h=441&rect=0,0,642,443&fit=crop&fp-x=0.5&fp-y=0.5&rect=0,0,642,443&fit=crop&fp-x=0.5&fp-y=0.5",
+    "link": "https://www.ascona-locarno.com/de/events/details/concerto-lirico-di-natale/10008870",
     "lat": 46.1725567,
     "lng": 8.8053795,
     "isTop": false,
