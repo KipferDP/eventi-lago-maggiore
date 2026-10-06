@@ -1,5 +1,5 @@
 {
- "updated": "05.10.2026 13:03",
+ "updated": "06.10.2026 12:56",
  "events": {
   "ascona": [
    {
@@ -224,6 +224,40 @@
     "parent": ""
    },
    {
+    "id": "10423",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Neujahrskonzert",
+    "dateText": "Fr, 01.01.2027",
+    "sortKey": 1798815600000,
+    "loc": "Chiesa di Santa Maria della Misericordia, Collegio Papio - Via delle Cappelle 1, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b256f1f3ef8fcfc3a40437287e73b125289c5821-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/neujahrskonzert/10423",
+    "lat": 46.1552882,
+    "lng": 8.7711284,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10429",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "La Tavolata di Ascona",
+    "dateText": "So, 03.01.2027",
+    "sortKey": 1798970400000,
+    "loc": "Lungolago, Ascona",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/81a5b6e2148580d14672a62cf0bb431eb6a50485-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/la-tavolata-di-ascona/10429",
+    "lat": 46.1537368,
+    "lng": 8.7689245,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10042",
     "cat": "musik",
     "catLabel": "Musik",
@@ -273,23 +307,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/locarno-organ-festival-2026/10092",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008260",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Il Ticino di « Becaària » in mostra",
-    "dateText": "Fr, 24.07.–05.10.2026",
-    "sortKey": 1784869200000,
-    "loc": "Tea Room - Pasticceria Marnin, Piazza San'Antonio, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9b29071fb7c08fc3d63dc0b1c0f4fa9ce7a64dce-480x640.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/il-ticino-di-becaaria-in-mostra/10008260",
-    "lat": 46.169851258252,
-    "lng": 8.7917324794651,
     "isTop": false,
     "parent": ""
    },
@@ -375,23 +392,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
     "lat": 46.1698002,
     "lng": 8.7913474,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10195",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno Time Travel Tour",
-    "dateText": "Di, 06.10.–20.10.2026",
-    "sortKey": 1791274500000,
-    "loc": "Casinò Locarno - Largo Franco Zorzi 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d7658b8cbc8c544117165f26bb8b57e8c1bb1dde-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
-    "lat": 46.1696279,
-    "lng": 8.7990235,
     "isTop": false,
     "parent": ""
    },
@@ -613,6 +613,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/frequenze-libere-doppelkonzert-alice-trost-philip-samartzis-michael-vorfeld/10008818",
     "lat": 46.1669289,
     "lng": 8.7985276,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10195",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Locarno Time Travel Tour",
+    "dateText": "Di, 20.10.2026",
+    "sortKey": 1792484100000,
+    "loc": "Casinò Locarno - Largo Franco Zorzi 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d7658b8cbc8c544117165f26bb8b57e8c1bb1dde-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
+    "lat": 46.1696279,
+    "lng": 8.7990235,
     "isTop": false,
     "parent": ""
    },
@@ -1656,6 +1673,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/colori-dautunno-cardada-in-festa/10262",
     "lat": 46.1759191,
     "lng": 8.791937828,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008878",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Orfeo Mandozzi und seine Cello-Meisterklasse: von Bach bis Ravel",
+    "dateText": "Sa, 17.10.2026",
+    "sortKey": 1792256400000,
+    "loc": "Via Santuario 2, Orselina",
+    "venue": "Sasso",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/55ec73231b5137bde6209fccad45899bc09916e4-4032x3024.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/orfeo-mandozzi-und-seine-cello-meisterklasse-von-bach-bis-ravel/10008878",
+    "lat": 46.1751991,
+    "lng": 8.7939696,
     "isTop": false,
     "parent": ""
    }
