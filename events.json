@@ -1,5 +1,5 @@
 {
- "updated": "06.10.2026 12:56",
+ "updated": "07.10.2026 12:45",
  "events": {
   "ascona": [
    {
@@ -535,7 +535,7 @@
     "id": "10008861",
     "cat": "kultur",
     "catLabel": "Kultur",
-    "title": "Fané Descangallada -  Tango, Storie di Donne",
+    "title": "“Fanè Descangallada – Tango, Storie di Donne”",
     "dateText": "Sa, 10.10.2026",
     "sortKey": 1791657000000,
     "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
@@ -909,14 +909,14 @@
     "id": "10008494",
     "cat": "kultur",
     "catLabel": "Kultur",
-    "title": "Meghadootam",
+    "title": "MEGHADOOTAM – Die Botenwolke",
     "dateText": "Sa, 21.11.2026",
     "sortKey": 1795284000000,
     "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
     "venue": "",
     "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/95dbf672f11e795dbb452cc658bb5bc8d24b43ba-900x600.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/meghadootam/10008494",
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/0ffc9ce14c129ce5e55e3846636d003d7c9d1034-5760x3840.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/meghadootam-die-botenwolke/10008494",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false,
@@ -1263,6 +1263,23 @@
     "parent": ""
    },
    {
+    "id": "11646",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Die Stranociada",
+    "dateText": "Do, 21.01.–24.02.2027",
+    "sortKey": 1800529200000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ac0f5abc15903a9c93dafa91aec4e2c6a3111fdb-2048x1366.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/die-stranociada/11646",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10006248",
     "cat": "sport",
     "catLabel": "Sport",
@@ -1328,6 +1345,23 @@
     "lat": 46.1641605,
     "lng": 8.7887892,
     "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10046",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "SlowUp Tessin",
+    "dateText": "So, 18.04.2027",
+    "sortKey": 1808035200000,
+    "loc": "Locarno - Bellinzona, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cd90d8d96a510ac20ee4003f63f046da13e7c76c-4714x3143.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/slowup-tessin/10046",
+    "lat": 46.1669988,
+    "lng": 8.7942643,
+    "isTop": true,
     "parent": ""
    },
    {
