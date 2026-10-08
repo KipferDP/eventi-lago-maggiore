@@ -1,5 +1,5 @@
 {
- "updated": "07.10.2026 12:45",
+ "updated": "08.10.2026 13:04",
  "events": {
   "ascona": [
    {
@@ -390,23 +390,6 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/85e282d758c07412b2ce953623521fe56cc4ce73-1024x768.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
-    "lat": 46.1698002,
-    "lng": 8.7913474,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "12316",
-    "cat": "event",
-    "catLabel": "Event",
-    "title": "Marina Jahn",
-    "dateText": "Mi, 07.10.2026",
-    "sortKey": 1791361800000,
-    "loc": "Collegiata S. Antonio Abate - Via Sant'Antonio 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/marina-jahn/12316",
     "lat": 46.1698002,
     "lng": 8.7913474,
     "isTop": false,
@@ -1021,6 +1004,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/miserere/10008633",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008892",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Intrecci. Due cori, un viaggio musicale verso il Natale",
+    "dateText": "Sa, 28.11.2026",
+    "sortKey": 1795892400000,
+    "loc": "Via Sant'Antonio 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a3e1ec569412c7551284d1383bb5b20cd44319ff-2000x1333.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/intrecci-due-cori-un-viaggio-musicale-verso-il-natale/10008892",
+    "lat": 46.1695516,
+    "lng": 8.7918571,
     "isTop": false,
     "parent": ""
    },
