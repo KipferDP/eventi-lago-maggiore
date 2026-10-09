@@ -1,5 +1,5 @@
 {
- "updated": "08.10.2026 13:04",
+ "updated": "09.10.2026 13:03",
  "events": {
   "ascona": [
    {
@@ -34,23 +34,6 @@
     "lat": 46.1552882,
     "lng": 8.7711284,
     "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10008739",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Ein Koffer voller Geschichten – Charlotte Bara, Ascona und ein europäisches Netzwerk",
-    "dateText": "Do, 08.10.2026",
-    "sortKey": 1791477000000,
-    "loc": "Piazza San Pietro 6, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bb6e5c408c89e82f9a9acc592191c81583592283-1254x1254.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ein-koffer-voller-geschichten-charlotte-bara-ascona-und-ein-europaeisches-netzwerk/10008739",
-    "lat": 46.1548245,
-    "lng": 8.7678535,
-    "isTop": false,
     "parent": ""
    },
    {
@@ -749,6 +732,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/manifica-presenza/10008442",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008896",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
+    "dateText": "Sa, 31.10.–09.01.2027",
+    "sortKey": 1793462400000,
+    "loc": "Via Sant'Antonio 11, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
+    "lat": 46.1693954,
+    "lng": 8.7924222,
     "isTop": false,
     "parent": ""
    },
@@ -1730,23 +1730,6 @@
   ],
   "muralto": [
    {
-    "id": "10008698",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Duftreise",
-    "dateText": "Do, 08.10.–26.11.2026",
-    "sortKey": 1791453600000,
-    "loc": "Piazza Stazione 3, Muralto",
-    "venue": "Bahnhof",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cd33e322ded93c03047f50447fc81a80a5ffec06-1536x1024.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/duftreise/10008698",
-    "lat": 46.1723688,
-    "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008403",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -1781,17 +1764,34 @@
     "parent": ""
    },
    {
+    "id": "10008698",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Duftreise",
+    "dateText": "Do, 19.11.–26.11.2026",
+    "sortKey": 1795086000000,
+    "loc": "Piazza Stazione 3, Muralto",
+    "venue": "Bahnhof",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cd33e322ded93c03047f50447fc81a80a5ffec06-1536x1024.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/duftreise/10008698",
+    "lat": 46.1723688,
+    "lng": 8.8002507,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008747",
     "cat": "musik",
     "catLabel": "Musik",
-    "title": "Luceat: Concerto di Natale",
+    "title": "Concerto di Natale con Luceat - Muralto",
     "dateText": "Sa, 05.12.2026",
     "sortKey": 1796497200000,
     "loc": "Piazza San Vittore 1a, Muralto",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fa357e6be276765d678cf019e38743df307a5086-6000x4000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/luceat-concerto-di-natale/10008747",
+    "link": "https://www.ascona-locarno.com/de/events/details/concerto-di-natale-con-luceat-muralto/10008747",
     "lat": 46.1725567,
     "lng": 8.8053795,
     "isTop": false,
