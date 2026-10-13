@@ -1,5 +1,5 @@
 {
- "updated": "12.10.2026 13:31",
+ "updated": "13.10.2026 13:19",
  "events": {
   "ascona": [
    {
@@ -481,6 +481,23 @@
     "parent": ""
    },
    {
+    "id": "10008929",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Houstones + Trust Your Instinct",
+    "dateText": "Sa, 24.10.2026",
+    "sortKey": 1792866600000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e0d762fef47a641cfdb6bbc14714eef14d486188-2000x2000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/houstones-trust-your-instinct/10008929",
+    "lat": 46.1668905,
+    "lng": 8.798261,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10057",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -555,13 +572,13 @@
     "title": "Incanta l'attimo - Tropico del Cancer e Duo Sada",
     "dateText": "Sa, 31.10.2026",
     "sortKey": 1793457000000,
-    "loc": "Locarno",
+    "loc": "Via Valle Maggia 16F, Locarno",
     "venue": "",
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1aa4916ceb36484e50d3c2d24fd2ac38b7d3edc7-1999x1333.png?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/incanta-lattimo-tropico-del-cancer-e-duo-sada/10008909",
-    "lat": 0,
-    "lng": 0,
+    "lat": 46.169878875854,
+    "lng": 8.788155913353,
     "isTop": false,
     "parent": ""
    },
