@@ -1,5 +1,5 @@
 {
- "updated": "13.10.2026 13:19",
+ "updated": "14.10.2026 11:11",
  "events": {
   "ascona": [
    {
@@ -186,6 +186,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/jazzascona-2027/10042",
     "lat": 46.1537368,
     "lng": 8.7689245,
+    "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10024",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "classicAscona (Nr. 82 by Fondazione Settimane Musicali Ascona)",
+    "dateText": "Do, 16.09.–09.10.2027",
+    "sortKey": 1821088800000,
+    "loc": "Chiesa di Santa Maria della Misericordia, Collegio Papio - Via delle Cappelle 1, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/99057359ce0240c2316cb2d9b744b4fc70885b69-3000x2250.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/classicascona-nr-82-by-fondazione-settimane-musicali-ascona/10024",
+    "lat": 46.1552882,
+    "lng": 8.7711284,
     "isTop": true,
     "parent": ""
    }
@@ -1616,6 +1633,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/triathlon-locarno/10073",
     "lat": 46.1612732,
     "lng": 8.8033237,
+    "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10077",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Ascona-Locarno Run",
+    "dateText": "Sa, 09.10.–10.10.2027",
+    "sortKey": 1823061600000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8306cd45ac0f58f43dee5add105185714d382c26-1280x853.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-locarno-run/10077",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
     "isTop": true,
     "parent": ""
    }
