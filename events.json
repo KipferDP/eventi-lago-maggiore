@@ -1,5 +1,5 @@
 {
- "updated": "14.10.2026 11:11",
+ "updated": "15.10.2026 10:44",
  "events": {
   "ascona": [
    {
@@ -50,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/pro-am-comune-di-ascona-otlmv/10394",
     "lat": 46.149037604415,
     "lng": 8.7826681137085,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008936",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "50° Anniversario del Terremoto nel Friuli 1976",
+    "dateText": "Sa, 17.10.–18.10.2026",
+    "sortKey": 1792238400000,
+    "loc": "Collegio Papio, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/742112745e5e53d43d038d4bb2232e30d0b329f6-4687x7023.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/50-anniversario-del-terremoto-nel-friuli-1976/10008936",
+    "lat": 46.15701,
+    "lng": 8.76625,
     "isTop": false,
     "parent": ""
    },
@@ -562,6 +579,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/il-mattatore/10008441",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008952",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Notte delle streghe al Castello Visconteo di Locarno - terza edizione",
+    "dateText": "Fr, 30.10.–31.10.2026",
+    "sortKey": 1793381400000,
+    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ecc4cd99f76da360335e5aaa32b6ec382f3a31b9-5863x3909.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/notte-delle-streghe-al-castello-visconteo-di-locarno-terza-edizione/10008952",
+    "lat": 46.1684184,
+    "lng": 8.7933135,
     "isTop": false,
     "parent": ""
    },
@@ -1747,19 +1781,19 @@
   ],
   "muralto": [
    {
-    "id": "10008403",
-    "cat": "tradition",
-    "catLabel": "Tradition",
-    "title": "Birra Formaggio Miele ... al Lago",
+    "id": "10008890",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Il Piccolo Principe -spettacolo teatrale per bambini e famiglie-",
     "dateText": "So, 18.10.2026",
-    "sortKey": 1792314000000,
-    "loc": "Viale Verbano 41, Muralto",
-    "venue": "Seepromenade",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/001c41cf00a3210626f9fdb180773deda61c8b98-1641x1231.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/birra-formaggio-miele-al-lago/10008403",
-    "lat": 46.171553387972,
-    "lng": 8.8062749084595,
+    "sortKey": 1792330200000,
+    "loc": "Sala Congressi - Via Municipio 2, Muralto",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3e1ae6a470bf07e216051df54d241d70446517f8-1024x1536.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/il-piccolo-principe-spettacolo-teatrale-per-bambini-e-famiglie/10008890",
+    "lat": 46.1728535,
+    "lng": 8.8057769,
     "isTop": false,
     "parent": ""
    },
