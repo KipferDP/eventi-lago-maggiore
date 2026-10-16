@@ -1,5 +1,5 @@
 {
- "updated": "15.10.2026 10:44",
+ "updated": "16.10.2026 10:39",
  "events": {
   "ascona": [
    {
@@ -16,23 +16,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/boris-donde-rinascimento-diva-art-collection-fondazione-majid-ascona/10006511",
     "lat": 46.156198118737,
     "lng": 8.768430382209,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007911",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Ascona History Travel Tour",
-    "dateText": "Do, 15.10.–29.10.2026",
-    "sortKey": 1792051200000,
-    "loc": "Viale Papio 5, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/03cd852ebd4418279406ffe7359b8622dbc3fbf0-9177x6118.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
-    "lat": 46.1563359,
-    "lng": 8.7703369,
     "isTop": false,
     "parent": ""
    },
@@ -84,6 +67,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-music-festival/11477",
     "lat": 46.1552882,
     "lng": 8.7711284,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10007911",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Ascona History Travel Tour",
+    "dateText": "Do, 29.10.2026",
+    "sortKey": 1793264400000,
+    "loc": "Viale Papio 5, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/03cd852ebd4418279406ffe7359b8622dbc3fbf0-9177x6118.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
+    "lat": 46.1563359,
+    "lng": 8.7703369,
     "isTop": false,
     "parent": ""
    },
@@ -358,23 +358,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
     "lat": 46.169257090664,
     "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008437",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Palestinesi sono i tuoi occhi”",
-    "dateText": "Do, 15.10.2026",
-    "sortKey": 1792083600000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6a3ad9315e1d47d08665f143a5d8e8fe880b3a96-1241x1755.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/palestinesi-sono-i-tuoi-occhi/10008437",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
     "isTop": false,
     "parent": ""
    },
