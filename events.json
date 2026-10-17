@@ -1,5 +1,5 @@
 {
- "updated": "16.10.2026 10:39",
+ "updated": "17.10.2026 10:10",
  "events": {
   "ascona": [
    {
@@ -566,6 +566,23 @@
     "parent": ""
    },
    {
+    "id": "10008978",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Monteforno",
+    "dateText": "Mi, 28.10.–29.10.2026",
+    "sortKey": 1793215800000,
+    "loc": "Largo Zorzi 1, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/monteforno/10008978",
+    "lat": 46.169867464955,
+    "lng": 8.7989858341217,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008952",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -596,6 +613,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/manifica-presenza/10008442",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008979",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Pentoloni e pozioni magiche - Una storia di streghe e un laboratorio creativo al Castello Visconteo",
+    "dateText": "Sa, 31.10.2026",
+    "sortKey": 1793455200000,
+    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/pentoloni-e-pozioni-magiche-una-storia-di-streghe-e-un-laboratorio-creativo-al-castello-visconteo/10008979",
+    "lat": 46.1684184,
+    "lng": 8.7933135,
     "isTop": false,
     "parent": ""
    },
@@ -1764,6 +1798,23 @@
   ],
   "muralto": [
    {
+    "id": "10008984",
+    "cat": "natur",
+    "catLabel": "Natur",
+    "title": "Foliage-Zug",
+    "dateText": "Sa, 10.10.–15.11.2026",
+    "sortKey": 1791626400000,
+    "loc": "Piazza Stazione 3, Muralto",
+    "venue": "Bahnhof",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/60ff00beb3e563330fb5722f7d1b28d88e2ff16c-4836x3224.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/foliage-zug/10008984",
+    "lat": 46.1723688,
+    "lng": 8.8002507,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008890",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1809,6 +1860,23 @@
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cd33e322ded93c03047f50447fc81a80a5ffec06-1536x1024.png?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/duftreise/10008698",
+    "lat": 46.1723688,
+    "lng": 8.8002507,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008983",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Duftzug",
+    "dateText": "So, 22.11.2026",
+    "sortKey": 1795354200000,
+    "loc": "Piazza Stazione 3, Muralto",
+    "venue": "Bahnhof",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5c7359e8cee9793a01d37791dc7fc04bdcf09228-2667x1500.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/duftzug/10008983",
     "lat": 46.1723688,
     "lng": 8.8002507,
     "isTop": false,
