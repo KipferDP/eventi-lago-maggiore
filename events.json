@@ -1,5 +1,5 @@
 {
- "updated": "19.10.2026 11:28",
+ "updated": "20.10.2026 11:02",
  "events": {
   "ascona": [
    {
@@ -50,6 +50,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
     "lat": 46.1563359,
     "lng": 8.7703369,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008991",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "“Musicisti & Corpi in Movimento” del Maestro Alvaro Stoppa",
+    "dateText": "So, 01.11.–29.11.2026",
+    "sortKey": 1793523600000,
+    "loc": "Via Borgo 7, Ascona",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a93086dc034b3a7e54a5961b3dc9cd68df5639f2-1716x2120.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/musicisti-corpi-in-movimento-del-maestro-alvaro-stoppa/10008991",
+    "lat": 46.1562008,
+    "lng": 8.7684305,
     "isTop": false,
     "parent": ""
    },
