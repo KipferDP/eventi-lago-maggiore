@@ -1,5 +1,5 @@
 {
- "updated": "20.10.2026 11:02",
+ "updated": "21.10.2026 11:01",
  "events": {
   "ascona": [
    {
@@ -152,6 +152,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/neujahrskonzert/10423",
     "lat": 46.1552882,
     "lng": 8.7711284,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10424",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Feuerwerk in Ascona am 1. Januar",
+    "dateText": "Fr, 01.01.2027",
+    "sortKey": 1798824600000,
+    "loc": "Lungolago, Ascona",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/907604c5b6ed0e70e122b2a9138a9d7272309270-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/feuerwerk-in-ascona-am-1-januar/10424",
+    "lat": 46.1537368,
+    "lng": 8.7689245,
     "isTop": false,
     "parent": ""
    },
@@ -324,23 +341,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/internationales-festival-voci-audaci/10384",
     "lat": 46.1612732,
     "lng": 8.8033237,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10195",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno Time Travel Tour",
-    "dateText": "Di, 20.10.2026",
-    "sortKey": 1792484100000,
-    "loc": "Casinò Locarno - Largo Franco Zorzi 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d7658b8cbc8c544117165f26bb8b57e8c1bb1dde-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-time-travel-tour/10195",
-    "lat": 46.1696279,
-    "lng": 8.7990235,
     "isTop": false,
     "parent": ""
    },
@@ -1681,13 +1681,13 @@
     "title": "Weihnachtsmarkt Tenero",
     "dateText": "Sa, 05.12.2026",
     "sortKey": 1796468400000,
-    "loc": "Tenero",
+    "loc": "Piazza Canevascini, Tenero",
     "venue": "",
     "keyVenue": false,
     "image": "",
     "link": "https://www.ascona-locarno.com/de/events/details/weihnachtsmarkt-tenero/11544",
-    "lat": 46.180848539858,
-    "lng": 8.8503596761658,
+    "lat": 46.1812207,
+    "lng": 8.8510675,
     "isTop": false,
     "parent": ""
    }
