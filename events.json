@@ -1,5 +1,5 @@
 {
- "updated": "22.10.2026 11:03",
+ "updated": "23.10.2026 10:58",
  "events": {
   "ascona": [
    {
@@ -37,6 +37,23 @@
     "parent": ""
    },
    {
+    "id": "10009036",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "La Via Lattea 22 -  In cammino con Rilke: Only/Mitsou",
+    "dateText": "So, 25.10.2026",
+    "sortKey": 1792941300000,
+    "loc": "Teatro San Materno - Via Losone 3, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ee6e2d1a6d9406dbdf33601d91dbea0184bd52a3-6016x4016.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/la-via-lattea-22-in-cammino-con-rilke-only-mitsou/10009036",
+    "lat": 46.161196,
+    "lng": 8.773822,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10007911",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -50,6 +67,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
     "lat": 46.1563359,
     "lng": 8.7703369,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009033",
+    "cat": "festival",
+    "catLabel": "Festival",
+    "title": "HALLOWEEN PARTY - Delta Beach Lounge",
+    "dateText": "Sa, 31.10.2026",
+    "sortKey": 1793469600000,
+    "loc": "Via Lido 82, Ascona",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1d95053f5aab39efc623508e72d28a60514bf21d-1080x1350.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/halloween-party-delta-beach-lounge/10009033",
+    "lat": 46.1476223,
+    "lng": 8.7814106,
     "isTop": false,
     "parent": ""
    },
@@ -1708,23 +1742,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/foliage-zug/10008984",
     "lat": 46.1723688,
     "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008814",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Solitudini Connesse",
-    "dateText": "Do, 22.10.2026",
-    "sortKey": 1792684800000,
-    "loc": "Palazzo dei Congressi, Via Municipio 2, Muralto",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/205a4820e6b190bcd6a18a87fc2f8117e7a0d07f-1138x508.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/solitudini-connesse/10008814",
-    "lat": 46.1728518,
-    "lng": 8.8058156,
     "isTop": false,
     "parent": ""
    },
