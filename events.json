@@ -1,5 +1,5 @@
 {
- "updated": "23.10.2026 10:58",
+ "updated": "24.10.2026 10:32",
  "events": {
   "ascona": [
    {
@@ -122,6 +122,23 @@
     "parent": ""
    },
    {
+    "id": "10009045",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Kirk Fletcher Blues Trio @Jazz Cat Club",
+    "dateText": "Mo, 09.11.2026",
+    "sortKey": 1794252600000,
+    "loc": "Teatro del Gatto - Via Muraccio 21, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3b73510ba8af874ffc6400625c3ac763fc8c52e3-696x522.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/kirk-fletcher-blues-trio-jazz-cat-club/10009045",
+    "lat": 46.1543982,
+    "lng": 8.7749676,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "11539",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -135,6 +152,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kunsthandwerker-in-borgo-weihnachtsmarkt-in-ascona/11539",
     "lat": 46.1615793,
     "lng": 8.7750131,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009046",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Martha High - Funky Divas Revisited",
+    "dateText": "Mo, 07.12.2026",
+    "sortKey": 1796671800000,
+    "loc": "Teatro del Gatto - Via Muraccio 21, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/025750f147ebd2235b9f8a1f4fa60828025f0994-3600x2401.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/martha-high-funky-divas-revisited/10009046",
+    "lat": 46.1543982,
+    "lng": 8.7749676,
     "isTop": false,
     "parent": ""
    },
@@ -169,6 +203,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/corsa-da-natal/10401",
     "lat": 46.1537183,
     "lng": 8.7692132,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009049",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Roberta Gambarini & Tamir Hendelman @Jazz Cat Club",
+    "dateText": "Mo, 21.12.2026",
+    "sortKey": 1797881400000,
+    "loc": "Teatro del Gatto - Via Muraccio 21, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/001c647f4d30d6a3f79200e654d62ed185b17b18-1200x800.webp?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/roberta-gambarini-tamir-hendelman-jazz-cat-club/10009049",
+    "lat": 46.1543982,
+    "lng": 8.7749676,
     "isTop": false,
     "parent": ""
    },
@@ -220,6 +271,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/la-tavolata-di-ascona/10429",
     "lat": 46.1537368,
     "lng": 8.7689245,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009050",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "The Message with special guests Andrea Pozza & Andrea Andreoli",
+    "dateText": "Mo, 25.01.2027",
+    "sortKey": 1800905400000,
+    "loc": "Teatro del Gatto - Via Muraccio 21, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/218f3af9ecb319185efab2b191b9d0b9158fc881-1005x565.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/the-message-with-special-guests-andrea-pozza-andrea-andreoli/10009050",
+    "lat": 46.1543982,
+    "lng": 8.7749676,
     "isTop": false,
     "parent": ""
    },
@@ -392,23 +460,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
     "lat": 46.169257090664,
     "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008439",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Cantare è esistere”",
-    "dateText": "Fr, 23.10.2026",
-    "sortKey": 1792782000000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/261fa7a5695be59c7e270dd8150d78cfde17336c-1024x768.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/cantare-e-esistere/10008439",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
     "isTop": false,
     "parent": ""
    },
