@@ -1,5 +1,5 @@
 {
- "updated": "24.10.2026 10:32",
+ "updated": "25.10.2026 09:51",
  "events": {
   "ascona": [
    {
@@ -464,23 +464,6 @@
     "parent": ""
    },
    {
-    "id": "10063",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "RunThrough Trails Ascona-Locarno",
-    "dateText": "Sa, 24.10.2026",
-    "sortKey": 1792821600000,
-    "loc": "Largo Franco Zorzi, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/6d0a7d61e7298f08e59eb7664b2e181ae06a3932-3115x4672.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/runthrough-trails-ascona-locarno/10063",
-    "lat": 46.1698704,
-    "lng": 8.79865,
-    "isTop": true,
-    "parent": ""
-   },
-   {
     "id": "10006435",
     "cat": "natur",
     "catLabel": "Natur",
@@ -496,40 +479,6 @@
     "lng": 8.8033237,
     "isTop": false,
     "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
-   },
-   {
-    "id": "10008440",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Joseph II.”",
-    "dateText": "Sa, 24.10.2026",
-    "sortKey": 1792861200000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8b2859224edabbc124c7c18e66d65ba77996e414-2740x1541.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/joseph-ii/10008440",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008929",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Houstones + Trust Your Instinct",
-    "dateText": "Sa, 24.10.2026",
-    "sortKey": 1792866600000,
-    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/e0d762fef47a641cfdb6bbc14714eef14d486188-2000x2000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/houstones-trust-your-instinct/10008929",
-    "lat": 46.1668905,
-    "lng": 8.798261,
-    "isTop": false,
-    "parent": ""
    },
    {
     "id": "10057",
