@@ -1,5 +1,5 @@
 {
- "updated": "25.10.2026 09:51",
+ "updated": "26.10.2026 10:32",
  "events": {
   "ascona": [
    {
@@ -33,23 +33,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-music-festival/11477",
     "lat": 46.1552882,
     "lng": 8.7711284,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10009036",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "La Via Lattea 22 -  In cammino con Rilke: Only/Mitsou",
-    "dateText": "So, 25.10.2026",
-    "sortKey": 1792941300000,
-    "loc": "Teatro San Materno - Via Losone 3, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ee6e2d1a6d9406dbdf33601d91dbea0184bd52a3-6016x4016.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/la-via-lattea-22-in-cammino-con-rilke-only-mitsou/10009036",
-    "lat": 46.161196,
-    "lng": 8.773822,
     "isTop": false,
     "parent": ""
    },
@@ -447,40 +430,6 @@
     "parent": ""
    },
    {
-    "id": "10008374",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 21.10.–06.01.2027",
-    "sortKey": 1792582200000,
-    "loc": "Via A. Ciseri 3, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
-    "lat": 46.169257090664,
-    "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10006435",
-    "cat": "natur",
-    "catLabel": "Natur",
-    "title": "Tessiner Herbstzauber: Hike & Bike zwischen Palmen, Graten und Gipfeln",
-    "dateText": "Sa, 24.10.–25.10.2026",
-    "sortKey": 1792825200000,
-    "loc": "Via Gioacchino Respini 11, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c22c9b4f04f5f1ed5ebe44d9e0bbb29b60caf8a-1125x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/tessiner-herbstzauber-hike-bike-zwischen-palmen-graten-und-gipfeln/10006435",
-    "lat": 46.1612732,
-    "lng": 8.8033237,
-    "isTop": false,
-    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
-   },
-   {
     "id": "10057",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -498,19 +447,19 @@
     "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
    },
    {
-    "id": "10008816",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "FREQUENZE LIBERE – Konzert: “Velvele” – Merve Salgar & Anıl Eraslan",
-    "dateText": "So, 25.10.2026",
-    "sortKey": 1792945800000,
-    "loc": "Spazio Elle - Piazza G. Pedrazzini 12, Locarno",
+    "id": "10008374",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
+    "dateText": "Mi, 28.10.–06.01.2027",
+    "sortKey": 1793190600000,
+    "loc": "Via A. Ciseri 3, Locarno",
     "venue": "",
     "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/45f0e055da12860a76ba78c41e7aa406142e5a95-1024x768.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/frequenze-libere-konzert-velvele-merve-salgar-anil-eraslan/10008816",
-    "lat": 46.1669289,
-    "lng": 8.7985276,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/664b0201b2c3c80760f5fd64de131d0d0c7389da-2545x3028.tif?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
+    "lat": 46.169257090664,
+    "lng": 8.7999410558198,
     "isTop": false,
     "parent": ""
    },
@@ -1691,23 +1640,6 @@
    }
   ],
   "tenero": [
-   {
-    "id": "10008910",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Il nuovo vestito dell’Imperatrice",
-    "dateText": "So, 25.10.2026",
-    "sortKey": 1792944000000,
-    "loc": "Piazza della Chiesa, Tenero",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8fdf13d9dc0c359a9fdadd1d722fe4efde51a9ad-906x640.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/il-nuovo-vestito-dellimperatrice/10008910",
-    "lat": 46.1811472,
-    "lng": 8.8482397,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "11544",
     "cat": "tradition",
