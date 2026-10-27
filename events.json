@@ -1,5 +1,5 @@
 {
- "updated": "26.10.2026 10:32",
+ "updated": "27.10.2026 10:29",
  "events": {
   "ascona": [
    {
@@ -596,6 +596,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/voglio-tornare-negli-anni-90/10008683",
     "lat": 46.1641605,
     "lng": 8.7887892,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009047",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Incanta l'attimo - Riccardo Tesi e La Scürdara",
+    "dateText": "So, 01.11.2026",
+    "sortKey": 1793543400000,
+    "loc": "Via Valle Maggia 16F, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4005cb2dde806a2141489fc28d4c584f18a4356d-2000x1333.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/incanta-lattimo-riccardo-tesi-e-la-scuerdara/10009047",
+    "lat": 46.169878875854,
+    "lng": 8.788155913353,
     "isTop": false,
     "parent": ""
    },
