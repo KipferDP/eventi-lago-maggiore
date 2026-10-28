@@ -1,5 +1,5 @@
 {
- "updated": "27.10.2026 10:29",
+ "updated": "28.10.2026 11:14",
  "events": {
   "ascona": [
    {
@@ -118,6 +118,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kirk-fletcher-blues-trio-jazz-cat-club/10009045",
     "lat": 46.1543982,
     "lng": 8.7749676,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009068",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "WINE & DINE con Azienda Agricola Fontodi",
+    "dateText": "Do, 12.11.2026",
+    "sortKey": 1794506400000,
+    "loc": "Via Lido 82, Ascona",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9aa4877dc049050a288091edaebca30ec0409e9-1080x1350.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/wine-dine-con-azienda-agricola-fontodi/10009068",
+    "lat": 46.1476223,
+    "lng": 8.7814106,
     "isTop": false,
     "parent": ""
    },
@@ -379,23 +396,6 @@
     "parent": ""
    },
    {
-    "id": "10084",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Gastronomischer Herbst Lago Maggiore e Valli",
-    "dateText": "Di, 15.09.–27.10.2026",
-    "sortKey": 1789466400000,
-    "loc": "Via Gioacchino Respini 11, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/61c9812edfea3c4677997fa763bcb45d4c348735-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/gastronomischer-herbst-lago-maggiore-e-valli/10084",
-    "lat": 46.1612732,
-    "lng": 8.8033237,
-    "isTop": true,
-    "parent": ""
-   },
-   {
     "id": "11398",
     "cat": "tradition",
     "catLabel": "Tradition",
@@ -410,7 +410,7 @@
     "lat": 46.1612732,
     "lng": 8.8033237,
     "isTop": false,
-    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
+    "parent": ""
    },
    {
     "id": "10384",
@@ -430,6 +430,23 @@
     "parent": ""
    },
    {
+    "id": "10009059",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "Eredità in movimento. Un decennio di promozione artistica alla Fondazione Remo Rossi",
+    "dateText": "Mi, 07.10.–03.04.2027",
+    "sortKey": 1791367200000,
+    "loc": "Via Franchino Rusca 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/44e3e0005452b4a842ec335977e5d9687c97cb4f-4336x3346.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/eredita-in-movimento-un-decennio-di-promozione-artistica-alla-fondazione-remo-rossi/10009059",
+    "lat": 46.1679836,
+    "lng": 8.7938663,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10057",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -444,7 +461,7 @@
     "lat": 46.1612732,
     "lng": 8.8033237,
     "isTop": false,
-    "parent": "Gastronomischer Herbst Lago Maggiore e Valli"
+    "parent": ""
    },
    {
     "id": "10008374",
