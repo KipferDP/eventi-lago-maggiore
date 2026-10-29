@@ -1,5 +1,5 @@
 {
- "updated": "28.10.2026 11:14",
+ "updated": "29.10.2026 11:37",
  "events": {
   "ascona": [
    {
@@ -481,29 +481,12 @@
     "parent": ""
    },
    {
-    "id": "10008441",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Il mattatore”",
-    "dateText": "Mi, 28.10.2026",
-    "sortKey": 1793210400000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/72d5eb18d0f5cdf2d2fad4a9be2e27158915dc74-1000x1431.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/il-mattatore/10008441",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008912",
     "cat": "kultur",
     "catLabel": "Kultur",
     "title": "Monteforno",
-    "dateText": "Mi, 28.10.–29.10.2026",
-    "sortKey": 1793215800000,
+    "dateText": "Do, 29.10.2026",
+    "sortKey": 1793302200000,
     "loc": "Largo Zorzi 1, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -596,23 +579,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
     "lat": 46.1693954,
     "lng": 8.7924222,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008683",
-    "cat": "festival",
-    "catLabel": "Festival",
-    "title": "Voglio tornare negli anni '90",
-    "dateText": "Sa, 31.10.2026",
-    "sortKey": 1793476800000,
-    "loc": "Palexpo Locarno / FEVI - Via Alla Peschiera 9, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/275ec54ebcd6f882188c2980c482027f0a20fb12-1080x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/voglio-tornare-negli-anni-90/10008683",
-    "lat": 46.1641605,
-    "lng": 8.7887892,
     "isTop": false,
     "parent": ""
    },
@@ -808,7 +774,7 @@
     "cat": "tradition",
     "catLabel": "Tradition",
     "title": "Die Weihnachtsmärkte in der Region Ascona-Locarno",
-    "dateText": "So, 22.11.–19.12.2026",
+    "dateText": "So, 22.11.–20.12.2026",
     "sortKey": 1795345200000,
     "loc": "Locarno",
     "venue": "",
