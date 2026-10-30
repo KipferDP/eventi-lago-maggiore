@@ -1,5 +1,5 @@
 {
- "updated": "29.10.2026 11:37",
+ "updated": "30.10.2026 11:39",
  "events": {
   "ascona": [
    {
@@ -33,23 +33,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ascona-music-festival/11477",
     "lat": 46.1552882,
     "lng": 8.7711284,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10007911",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Ascona History Travel Tour",
-    "dateText": "Do, 29.10.2026",
-    "sortKey": 1793264400000,
-    "loc": "Viale Papio 5, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/03cd852ebd4418279406ffe7359b8622dbc3fbf0-9177x6118.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/ascona-history-travel-tour/10007911",
-    "lat": 46.1563359,
-    "lng": 8.7703369,
     "isTop": false,
     "parent": ""
    },
@@ -477,23 +460,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
     "lat": 46.169257090664,
     "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008912",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Monteforno",
-    "dateText": "Do, 29.10.2026",
-    "sortKey": 1793302200000,
-    "loc": "Largo Zorzi 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5f851669463e72e68d50a4b49bbb45329ccbb24b-750x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/monteforno-1/10008912",
-    "lat": 46.169867464955,
-    "lng": 8.7989858341217,
     "isTop": false,
     "parent": ""
    },
@@ -1640,6 +1606,23 @@
    }
   ],
   "tenero": [
+   {
+    "id": "10009077",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Festa per l'apertura del Sentiero delle Rive di Tenero",
+    "dateText": "Sa, 31.10.2026",
+    "sortKey": 1793440800000,
+    "loc": "Via Lido 4, Tenero",
+    "venue": "Lido",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/cfe9f3aef049d2bf6897bc592fe5fee3d73b80f4-832x624.webp?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/festa-per-lapertura-del-sentiero-delle-rive-di-tenero/10009077",
+    "lat": 46.1674372,
+    "lng": 8.8511118,
+    "isTop": false,
+    "parent": ""
+   },
    {
     "id": "11544",
     "cat": "tradition",
