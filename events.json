@@ -1,5 +1,5 @@
 {
- "updated": "30.10.2026 11:39",
+ "updated": "31.10.2026 11:05",
  "events": {
   "ascona": [
    {
@@ -464,40 +464,6 @@
     "parent": ""
    },
    {
-    "id": "10008952",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Notte delle streghe al Castello Visconteo di Locarno - terza edizione",
-    "dateText": "Fr, 30.10.–31.10.2026",
-    "sortKey": 1793381400000,
-    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ecc4cd99f76da360335e5aaa32b6ec382f3a31b9-5863x3909.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/notte-delle-streghe-al-castello-visconteo-di-locarno-terza-edizione/10008952",
-    "lat": 46.1684184,
-    "lng": 8.7933135,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008442",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Manifica presenza”",
-    "dateText": "Fr, 30.10.2026",
-    "sortKey": 1793383200000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2b4f0e8d0b773d3ecc4be5b077d7ee9976bd6eef-750x1059.png?fm=webp&q=90&w=588&h=441&rect=0,169,746,621&fit=crop&fp-x=0.49752944987577&fp-y=0.45266127828204&rect=0,169,746,621&fit=crop&fp-x=0.49752944987577&fp-y=0.45266127828204",
-    "link": "https://www.ascona-locarno.com/de/events/details/manifica-presenza/10008442",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008979",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -545,6 +511,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
     "lat": 46.1693954,
     "lng": 8.7924222,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008952",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Notte delle streghe al Castello Visconteo di Locarno - terza edizione",
+    "dateText": "Sa, 31.10.2026",
+    "sortKey": 1793467800000,
+    "loc": "Castello Visconteo - Via Bartolomeo Rusca 5, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ecc4cd99f76da360335e5aaa32b6ec382f3a31b9-5863x3909.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/notte-delle-streghe-al-castello-visconteo-di-locarno-terza-edizione/10008952",
+    "lat": 46.1684184,
+    "lng": 8.7933135,
     "isTop": false,
     "parent": ""
    },
