@@ -1,5 +1,5 @@
 {
- "updated": "01.11.2026 11:56",
+ "updated": "02.11.2026 12:54",
  "events": {
   "ascona": [
    {
@@ -277,23 +277,6 @@
   ],
   "locarno": [
    {
-    "id": "12482",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "Arp, Cahn, Magnelli, Taeuber-Arp. Kunst leben, Kunst geben",
-    "dateText": "So, 05.04.–01.11.2026",
-    "sortKey": 1775390400000,
-    "loc": "Via alle vigne 44, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/01237f6488e6e17a7adee6a76e7f3115618563e3-3543x2363.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/arp-cahn-magnelli-taeuber-arp-kunst-leben-kunst-geben/12482",
-    "lat": 46.172777,
-    "lng": 8.770584,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10092",
     "cat": "musik",
     "catLabel": "Musik",
@@ -417,8 +400,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 28.10.–06.01.2027",
-    "sortKey": 1793190600000,
+    "dateText": "Mi, 04.11.–06.01.2027",
+    "sortKey": 1793795400000,
     "loc": "Via A. Ciseri 3, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -426,23 +409,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
     "lat": 46.169257090664,
     "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10009047",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Incanta l'attimo - Riccardo Tesi e La Scürdara",
-    "dateText": "So, 01.11.2026",
-    "sortKey": 1793543400000,
-    "loc": "Via Valle Maggia 16F, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4005cb2dde806a2141489fc28d4c584f18a4356d-2000x1333.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/incanta-lattimo-riccardo-tesi-e-la-scuerdara/10009047",
-    "lat": 46.169878875854,
-    "lng": 8.788155913353,
     "isTop": false,
     "parent": ""
    },
