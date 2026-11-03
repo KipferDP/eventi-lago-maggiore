@@ -1,5 +1,5 @@
 {
- "updated": "02.11.2026 12:54",
+ "updated": "03.11.2026 12:30",
  "events": {
   "ascona": [
    {
@@ -1056,6 +1056,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10009083",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Rondò Veneziano The original of Maestro GIAN PIERO REVERBERI",
+    "dateText": "Fr, 05.03.2027",
+    "sortKey": 1804275900000,
+    "loc": "Via Peschiera 9, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/9d0db959efe0a975ef47c61bc9ba8a98cccf417c-1024x768.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/rondo-veneziano-the-original-of-maestro-gian-piero-reverberi/10009083",
+    "lat": 46.1636065,
+    "lng": 8.7882415,
+    "isTop": false,
     "parent": ""
    },
    {
