@@ -1,5 +1,5 @@
 {
- "updated": "05.11.2026 12:45",
+ "updated": "06.11.2026 12:42",
  "events": {
   "ascona": [
    {
@@ -494,6 +494,57 @@
     "lng": 8.7791007757187,
     "isTop": true,
     "parent": ""
+   },
+   {
+    "id": "10006422",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Musica e Shopping nel Borgo di Ascona",
+    "dateText": "So, 26.09.2027",
+    "sortKey": 1821967200000,
+    "loc": "Borgo di Ascona, Ascona",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/2d68dc40df0dabe38963384222086fd731e252d7-1055x1491.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/musica-e-shopping-nel-borgo-di-ascona/10006422",
+    "lat": 46.1561054,
+    "lng": 8.7678927,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10086",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Herbstfest Ascona",
+    "dateText": "Sa, 09.10.2027",
+    "sortKey": 1823068800000,
+    "loc": "Lungolago, Ascona",
+    "venue": "Seepromenade",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/86807babefe2ebfd03cf758992bd0db9a796bf5b-1024x768.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/herbstfest-ascona/10086",
+    "lat": 46.1537368,
+    "lng": 8.7689245,
+    "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "11417",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Kastanienfest Ascona",
+    "dateText": "Sa, 16.10.2027",
+    "sortKey": 1823673600000,
+    "loc": "Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/02eb43e956f931fcc0ca296003b98c8ed6701f78-1920x1280.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/kastanienfest-ascona/11417",
+    "lat": 46.1615793,
+    "lng": 8.7750131,
+    "isTop": true,
+    "parent": ""
    }
   ],
   "locarno": [
@@ -647,23 +698,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
     "lat": 46.1693954,
     "lng": 8.7924222,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10009103",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Sofar Sounds Ticino",
-    "dateText": "Do, 05.11.2026",
-    "sortKey": 1793907000000,
-    "loc": "Piazza G. Pedrazzini 12, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/18cfe36ba51ab7c38b489594c1f515735fbcb59d-1424x939.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/sofar-sounds-ticino/10009103",
-    "lat": 46.1668905,
-    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
@@ -1246,6 +1280,23 @@
     "parent": ""
    },
    {
+    "id": "11969",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Emozioni al chiar di luna",
+    "dateText": "Fr, 22.01.–20.02.2027",
+    "sortKey": 1800635400000,
+    "loc": "Cardada, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/3ff37306e95ed5a3004d57a2245660778df719dd-1499x1000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/emozioni-al-chiar-di-luna/11969",
+    "lat": 46.1935,
+    "lng": 8.78446,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008917",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1518,6 +1569,23 @@
     "parent": ""
    },
    {
+    "id": "10009116",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "James Blunt",
+    "dateText": "So, 18.07.2027",
+    "sortKey": 1815904800000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/james-blunt/10009116",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10008790",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1529,6 +1597,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://www.ascona-locarno.com/de/events/details/simply-red/10008790",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009117",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Mariah Carey",
+    "dateText": "Di, 20.07.2027",
+    "sortKey": 1816077600000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/mariah-carey/10009117",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
@@ -1739,6 +1824,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/weihnachtsmarkt-tenero/11544",
     "lat": 46.1812207,
     "lng": 8.8510675,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10263",
+    "cat": "sport",
+    "catLabel": "Sport",
+    "title": "Sportissima",
+    "dateText": "So, 12.09.2027",
+    "sortKey": 1820734200000,
+    "loc": "Via alle Brere 10, Tenero",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/611b13fee2749ef6471137b38dd89a8fd0f6c092-2816x2112.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/sportissima/10263",
+    "lat": 46.1733565,
+    "lng": 8.8560791,
     "isTop": false,
     "parent": ""
    }
