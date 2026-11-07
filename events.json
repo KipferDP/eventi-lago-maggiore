@@ -1,5 +1,5 @@
 {
- "updated": "06.11.2026 12:42",
+ "updated": "07.11.2026 11:49",
  "events": {
   "ascona": [
    {
@@ -689,8 +689,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
-    "dateText": "Do, 05.11.–09.01.2027",
-    "sortKey": 1793869200000,
+    "dateText": "Sa, 07.11.–09.01.2027",
+    "sortKey": 1794042000000,
     "loc": "Via Sant'Antonio 11, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -1910,6 +1910,23 @@
     "keyVenue": true,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/5c7359e8cee9793a01d37791dc7fc04bdcf09228-2667x1500.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/duftzug/10008983",
+    "lat": 46.1723688,
+    "lng": 8.8002507,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009123",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Tombola a bordo",
+    "dateText": "Sa, 28.11.2026",
+    "sortKey": 1795868100000,
+    "loc": "Piazza Stazione 3, Muralto",
+    "venue": "Bahnhof",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/354832d64693b4d594a2cb0bfe3fa4a5c3d36a5c-2371x1058.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/tombola-a-bordo/10009123",
     "lat": 46.1723688,
     "lng": 8.8002507,
     "isTop": false,
