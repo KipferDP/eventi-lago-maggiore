@@ -1,5 +1,5 @@
 {
- "updated": "07.11.2026 11:49",
+ "updated": "08.11.2026 11:57",
  "events": {
   "ascona": [
    {
@@ -600,23 +600,6 @@
     "parent": ""
    },
    {
-    "id": "11398",
-    "cat": "tradition",
-    "catLabel": "Tradition",
-    "title": "Kastanienfeste am Lago Maggiore",
-    "dateText": "So, 27.09.–07.11.2026",
-    "sortKey": 1790503200000,
-    "loc": "Via Gioacchino Respini 11, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1fce22a91a0dc4478d3a53869fe74d54d887719c-1920x1280.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/kastanienfeste-am-lago-maggiore/11398",
-    "lat": 46.1612732,
-    "lng": 8.8033237,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10384",
     "cat": "musik",
     "catLabel": "Musik",
@@ -685,23 +668,6 @@
     "parent": ""
    },
    {
-    "id": "10008896",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
-    "dateText": "Sa, 07.11.–09.01.2027",
-    "sortKey": 1794042000000,
-    "loc": "Via Sant'Antonio 11, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
-    "lat": 46.1693954,
-    "lng": 8.7924222,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008466",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -732,6 +698,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/frequenze-libere-doppelkonzert-francesco-giudici-solo-sonic-alchemy-feat-natalie-peters/10008817",
     "lat": 46.1669289,
     "lng": 8.7985276,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008896",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
+    "dateText": "Do, 12.11.–09.01.2027",
+    "sortKey": 1794474000000,
+    "loc": "Via Sant'Antonio 11, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
+    "lat": 46.1693954,
+    "lng": 8.7924222,
     "isTop": false,
     "parent": ""
    },
