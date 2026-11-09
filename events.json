@@ -1,5 +1,5 @@
 {
- "updated": "08.11.2026 11:57",
+ "updated": "09.11.2026 13:24",
  "events": {
   "ascona": [
    {
@@ -33,23 +33,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musicisti-corpi-in-movimento-del-maestro-alvaro-stoppa/10008991",
     "lat": 46.1562008,
     "lng": 8.7684305,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10396",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "International Classic Jazz Workshop",
-    "dateText": "Mo, 02.11.–08.11.2026",
-    "sortKey": 1793617200000,
-    "loc": "Hotel Ascona - Via Signor in Croce 1, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/84aa86dc634c91bd1f090d8b65c25a7474d7af17-1024x768.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/international-classic-jazz-workshop/10396",
-    "lat": 46.159331,
-    "lng": 8.7694342,
     "isTop": false,
     "parent": ""
    },
@@ -655,8 +638,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 04.11.–06.01.2027",
-    "sortKey": 1793795400000,
+    "dateText": "Mi, 11.11.–06.01.2027",
+    "sortKey": 1794400200000,
     "loc": "Via A. Ciseri 3, Locarno",
     "venue": "",
     "keyVenue": false,
