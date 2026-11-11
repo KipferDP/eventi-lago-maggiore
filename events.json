@@ -1,5 +1,5 @@
 {
- "updated": "10.11.2026 12:59",
+ "updated": "11.11.2026 12:37",
  "events": {
   "ascona": [
    {
@@ -54,6 +54,23 @@
     "parent": ""
    },
    {
+    "id": "10009136",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Toc Toc Trüffel Menü",
+    "dateText": "So, 22.11.2026",
+    "sortKey": 1795343400000,
+    "loc": "Seven Toc Toc - Via Moscia 2, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/47103b10300895b654ab00fce2fd8445cadb81e7-1125x646.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/toc-toc-trueffel-menue/10009136",
+    "lat": 46.154771,
+    "lng": 8.766267,
+    "isTop": false,
+    "parent": ""
+   },
+   {
     "id": "10009133",
     "cat": "musik",
     "catLabel": "Musik",
@@ -84,6 +101,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/zwischen-himmel-und-erde/10009127",
     "lat": 46.1599336,
     "lng": 8.7734914,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009137",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "La Tonnara - das Thunfisch-Erlebnis",
+    "dateText": "So, 29.11.2026",
+    "sortKey": 1795946400000,
+    "loc": "Seven Toc Toc - Via Moscia 2, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/33c52c1fea10a703ba5299c7c00508f5e8036b3b-1125x646.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/la-tonnara-das-thunfisch-erlebnis/10009137",
+    "lat": 46.154771,
+    "lng": 8.766267,
     "isTop": false,
     "parent": ""
    },
@@ -152,6 +186,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/corsa-da-natal/10401",
     "lat": 46.1537183,
     "lng": 8.7692132,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009138",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Austern, Champagner & Kaviar",
+    "dateText": "So, 20.12.2026",
+    "sortKey": 1797786000000,
+    "loc": "Seven Toc Toc - Via Moscia 2, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a5dd164ba51fb8beaa272f294804816331c56b03-1125x646.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/austern-champagner-kaviar/10009138",
+    "lat": 46.154771,
+    "lng": 8.766267,
     "isTop": false,
     "parent": ""
    },
@@ -1552,23 +1603,6 @@
     "parent": ""
    },
    {
-    "id": "10053",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Moon+Stars 2027",
-    "dateText": "Do, 15.07.–25.07.2027",
-    "sortKey": 1815645600000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a8d9e60bed65239329467592cd918f3ab3bc5f69-1350x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/moon-stars-2027/10053",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": true,
-    "parent": ""
-   },
-   {
     "id": "10008836",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1583,6 +1617,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10053",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Moon+Stars 2027",
+    "dateText": "Do, 15.07.–25.07.2027",
+    "sortKey": 1815645600000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a8d9e60bed65239329467592cd918f3ab3bc5f69-1350x1080.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/moon-stars-2027/10053",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": true,
     "parent": ""
    },
    {
@@ -1739,23 +1790,6 @@
     "parent": ""
    },
    {
-    "id": "10008794",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Die Fantastischen Vier",
-    "dateText": "So, 25.07.2027",
-    "sortKey": 1816509600000,
-    "loc": "Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/die-fantastischen-vier/10008794",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008837",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1767,6 +1801,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://www.ascona-locarno.com/de/events/details/stress/10008837",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008794",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Die Fantastischen Vier",
+    "dateText": "So, 25.07.2027",
+    "sortKey": 1816509600000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/die-fantastischen-vier/10008794",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
@@ -1790,23 +1841,6 @@
     "parent": ""
    },
    {
-    "id": "10056",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "Locarno Film Festival 2027",
-    "dateText": "Mi, 04.08.–14.08.2027",
-    "sortKey": 1817373600000,
-    "loc": "Piazza Grande, Locarno",
-    "venue": "Piazza",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7a3fc4362cf332b7209d4ab2a704c60983e488df-1000x750.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/locarno-film-festival-2027/10056",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": true,
-    "parent": ""
-   },
-   {
     "id": "10003874",
     "cat": "kulinarik",
     "catLabel": "Kulinarik",
@@ -1821,6 +1855,23 @@
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
     "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10056",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Locarno Film Festival 2027",
+    "dateText": "Mi, 04.08.–14.08.2027",
+    "sortKey": 1817373600000,
+    "loc": "Piazza Grande, Locarno",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7a3fc4362cf332b7209d4ab2a704c60983e488df-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/locarno-film-festival-2027/10056",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": true,
     "parent": ""
    },
    {
