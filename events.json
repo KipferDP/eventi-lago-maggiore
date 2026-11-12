@@ -1,5 +1,5 @@
 {
- "updated": "11.11.2026 12:37",
+ "updated": "12.11.2026 13:01",
  "events": {
   "ascona": [
    {
@@ -84,6 +84,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ennio-morricone-inseguendo-quel-suono/10009133",
     "lat": 46.154329416533,
     "lng": 8.7749739,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009142",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Proiezione film LE CHANTIER di Jean-Stéphane Bron",
+    "dateText": "Mi, 25.11.2026",
+    "sortKey": 1795634100000,
+    "loc": "Cinema Otello - Via Bartolomeo Papio 8, Ascona",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a926f782335b9e7820550e82bd53243ba91d7d49-3276x4096.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/proiezione-film-le-chantier-di-jean-stephane-bron/10009142",
+    "lat": 46.1561032,
+    "lng": 8.7701563,
     "isTop": false,
     "parent": ""
    },
@@ -719,40 +736,6 @@
     "parent": ""
    },
    {
-    "id": "10008466",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Signore & signori”",
-    "dateText": "Mi, 11.11.2026",
-    "sortKey": 1794420000000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d2555aee7b87f8fa32cb5dc48f2d8f2208ce780f-751x1080.png?fm=webp&q=90&w=588&h=441&rect=0,34,751,569&fit=crop&fp-x=0.5&fp-y=0.29521966373124&rect=0,34,751,569&fit=crop&fp-x=0.5&fp-y=0.29521966373124",
-    "link": "https://www.ascona-locarno.com/de/events/details/signore-signori/10008466",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008817",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "FREQUENZE LIBERE – Doppelkonzert: Francesco Giudici Solo / sOnic alchemy feat. Natalie Peters",
-    "dateText": "Mi, 11.11.2026",
-    "sortKey": 1794423600000,
-    "loc": "Spazio Elle - Piazza G. Pedrazzini 12, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/dc0329722878129185a78af73532f6917c3c2004-1024x768.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/frequenze-libere-doppelkonzert-francesco-giudici-solo-sonic-alchemy-feat-natalie-peters/10008817",
-    "lat": 46.1669289,
-    "lng": 8.7985276,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008896",
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
@@ -1021,6 +1004,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/operazione-san-gennaro/10008497",
     "lat": 46.170974418983,
     "lng": 8.7955228220902,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009144",
+    "cat": "kultur",
+    "catLabel": "Kultur",
+    "title": "Non se se leggerai questa lettera",
+    "dateText": "Do, 26.11.2026",
+    "sortKey": 1795721400000,
+    "loc": "Via Bossi 2, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/71fd2acb15f2a596d90bfda4af3e6f7dff958e9e-3016x1971.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/non-se-se-leggerai-questa-lettera/10009144",
+    "lat": 46.1692863,
+    "lng": 8.7943626,
     "isTop": false,
     "parent": ""
    },
@@ -1603,23 +1603,6 @@
     "parent": ""
    },
    {
-    "id": "10008836",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Gianna Nannini",
-    "dateText": "Do, 15.07.2027",
-    "sortKey": 1815645600000,
-    "loc": "Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/gianna-nannini/10008836",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10053",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1634,6 +1617,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10008836",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Gianna Nannini",
+    "dateText": "Do, 15.07.2027",
+    "sortKey": 1815645600000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/gianna-nannini/10008836",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -1790,23 +1790,6 @@
     "parent": ""
    },
    {
-    "id": "10008837",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Stress",
-    "dateText": "So, 25.07.2027",
-    "sortKey": 1816509600000,
-    "loc": "Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "",
-    "link": "https://www.ascona-locarno.com/de/events/details/stress/10008837",
-    "lat": 46.1696052,
-    "lng": 8.7960181,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008794",
     "cat": "musik",
     "catLabel": "Musik",
@@ -1818,6 +1801,23 @@
     "keyVenue": false,
     "image": "",
     "link": "https://www.ascona-locarno.com/de/events/details/die-fantastischen-vier/10008794",
+    "lat": 46.1696052,
+    "lng": 8.7960181,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10008837",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "Stress",
+    "dateText": "So, 25.07.2027",
+    "sortKey": 1816509600000,
+    "loc": "Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "",
+    "link": "https://www.ascona-locarno.com/de/events/details/stress/10008837",
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": false,
@@ -1841,23 +1841,6 @@
     "parent": ""
    },
    {
-    "id": "10003874",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "Il Bistrot Teatro Paravento",
-    "dateText": "Mi, 04.08.–14.08.2027",
-    "sortKey": 1817373600000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/326a862299064dbb740331b545dc4103a74ec415-4624x2604.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10056",
     "cat": "kultur",
     "catLabel": "Kultur",
@@ -1872,6 +1855,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10003874",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Il Bistrot Teatro Paravento",
+    "dateText": "Mi, 04.08.–14.08.2027",
+    "sortKey": 1817373600000,
+    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/326a862299064dbb740331b545dc4103a74ec415-4624x2604.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/il-bistrot-teatro-paravento/10003874",
+    "lat": 46.170974418983,
+    "lng": 8.7955228220902,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -1964,7 +1964,25 @@
     "parent": ""
    }
   ],
-  "orselina": [],
+  "orselina": [
+   {
+    "id": "10009141",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Fiaccolata e Aperitivo",
+    "dateText": "So, 20.12.2026",
+    "sortKey": 1797782400000,
+    "loc": "Via Brione 1, Orselina",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/d8fa14949b5e4c6b6e0fffcb39545df67541618c-1060x1590.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/fiaccolata-e-aperitivo/10009141",
+    "lat": 46.1802026,
+    "lng": 8.8016711,
+    "isTop": false,
+    "parent": ""
+   }
+  ],
   "muralto": [
    {
     "id": "10008984",
