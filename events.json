@@ -1,5 +1,5 @@
 {
- "updated": "12.11.2026 13:01",
+ "updated": "13.11.2026 12:45",
  "events": {
   "ascona": [
    {
@@ -33,23 +33,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musicisti-corpi-in-movimento-del-maestro-alvaro-stoppa/10008991",
     "lat": 46.1562008,
     "lng": 8.7684305,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10009068",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "WINE & DINE con Azienda Agricola Fontodi",
-    "dateText": "Do, 12.11.2026",
-    "sortKey": 1794506400000,
-    "loc": "Via Lido 82, Ascona",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/a9aa4877dc049050a288091edaebca30ec0409e9-1080x1350.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/wine-dine-con-azienda-agricola-fontodi/10009068",
-    "lat": 46.1476223,
-    "lng": 8.7814106,
     "isTop": false,
     "parent": ""
    },
@@ -774,8 +757,8 @@
     "cat": "kultur",
     "catLabel": "Kultur",
     "title": "L'illusione coniugale",
-    "dateText": "Do, 12.11.–13.11.2026",
-    "sortKey": 1794511800000,
+    "dateText": "Fr, 13.11.2026",
+    "sortKey": 1794598200000,
     "loc": "Largo Zorzi 1, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -1412,6 +1395,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/tre-variazioni-della-vita/10008917",
     "lat": 46.169867464955,
     "lng": 8.7989858341217,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10428",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Bandir gennaio",
+    "dateText": "So, 31.01.2027",
+    "sortKey": 1801410300000,
+    "loc": "Piazza Sant'Antonio, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4919509965b8b167efaccf069c308bfbdd8552cb-1000x750.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/bandir-gennaio/10428",
+    "lat": 46.169806,
+    "lng": 8.7917285,
     "isTop": false,
     "parent": ""
    },
@@ -2100,6 +2100,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/concerto-lirico-di-natale/10008870",
     "lat": 46.1725567,
     "lng": 8.8053795,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009163",
+    "cat": "kulinarik",
+    "catLabel": "Kulinarik",
+    "title": "Fondue express",
+    "dateText": "Sa, 12.12.2026",
+    "sortKey": 1797087600000,
+    "loc": "Piazza Stazione 3, Muralto",
+    "venue": "Bahnhof",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/970cd8a2f29b1c18ed48903ac393f2921cd1d62d-1672x941.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/fondue-express/10009163",
+    "lat": 46.1723688,
+    "lng": 8.8002507,
     "isTop": false,
     "parent": ""
    },
