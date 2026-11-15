@@ -1,5 +1,5 @@
 {
- "updated": "14.11.2026 12:07",
+ "updated": "15.11.2026 12:41",
  "events": {
   "ascona": [
    {
@@ -736,23 +736,6 @@
     "parent": ""
    },
    {
-    "id": "10008896",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
-    "dateText": "Sa, 14.11.–09.01.2027",
-    "sortKey": 1794646800000,
-    "loc": "Via Sant'Antonio 11, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
-    "lat": 46.1693954,
-    "lng": 8.7924222,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10008737",
     "cat": "sport",
     "catLabel": "Sport",
@@ -770,36 +753,19 @@
     "parent": ""
    },
    {
-    "id": "10008492",
-    "cat": "kultur",
-    "catLabel": "Kultur",
-    "title": "“Peccato che sia femmina”",
-    "dateText": "Sa, 14.11.2026",
-    "sortKey": 1794679200000,
-    "loc": "Teatro Paravento - Via Cappuccini 8, Locarno",
+    "id": "10008896",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
+    "dateText": "Do, 19.11.–09.01.2027",
+    "sortKey": 1795078800000,
+    "loc": "Via Sant'Antonio 11, Locarno",
     "venue": "",
     "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/fc4db3ba6a41af9e33bbcaa8e24a9312b269a894-1920x1080.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/peccato-che-sia-femmina/10008492",
-    "lat": 46.170974418983,
-    "lng": 8.7955228220902,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008672",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "MALTE MARTEN - Healing Frequencies Tour",
-    "dateText": "Sa, 14.11.2026",
-    "sortKey": 1794681000000,
-    "loc": "Kursaal Teatro di Locarno - Largo Zorzi 1, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/f4dcb658ee02c57bf826a6581220b2f8a9bc0cd3-1600x1141.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/malte-marten-healing-frequencies-tour/10008672",
-    "lat": 46.1697158,
-    "lng": 8.7989273,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
+    "lat": 46.1693954,
+    "lng": 8.7924222,
     "isTop": false,
     "parent": ""
    },
@@ -1998,23 +1964,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/foliage-zug/10008984",
     "lat": 46.1723688,
     "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10009113",
-    "cat": "musik",
-    "catLabel": "Musik",
-    "title": "Concerto d'autunno",
-    "dateText": "Sa, 14.11.2026",
-    "sortKey": 1794684600000,
-    "loc": "Collegiata San Vittore, Muralto",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/7da381146d7c60e4058308e0c16fa429b33b06d4-1024x768.png?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/concerto-dautunno/10009113",
-    "lat": 46.1728208,
-    "lng": 8.8050956,
     "isTop": false,
     "parent": ""
    },
