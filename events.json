@@ -1,5 +1,5 @@
 {
- "updated": "15.11.2026 12:41",
+ "updated": "16.11.2026 13:20",
  "events": {
   "ascona": [
    {
@@ -634,23 +634,6 @@
     "parent": ""
    },
    {
-    "id": "10387",
-    "cat": "kulinarik",
-    "catLabel": "Kulinarik",
-    "title": "S. Pellegrino Sapori Ticino 2026",
-    "dateText": "So, 13.09.–15.11.2026",
-    "sortKey": 1789293600000,
-    "loc": "Via Gioacchino Respini 11, Locarno",
-    "venue": "Lido",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/1c67051a1e3a2a0121be262d11eb01cdba2e8680-2481x1754.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/s-pellegrino-sapori-ticino-2026/10387",
-    "lat": 46.1612732,
-    "lng": 8.8033237,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10384",
     "cat": "musik",
     "catLabel": "Musik",
@@ -706,8 +689,8 @@
     "cat": "ausstellung",
     "catLabel": "Ausstellung",
     "title": "Ausstellung „Promenade. Das Maß der Umgebung“",
-    "dateText": "Mi, 11.11.–06.01.2027",
-    "sortKey": 1794400200000,
+    "dateText": "Mi, 18.11.–06.01.2027",
+    "sortKey": 1795005000000,
     "loc": "Via A. Ciseri 3, Locarno",
     "venue": "",
     "keyVenue": false,
@@ -715,40 +698,6 @@
     "link": "https://www.ascona-locarno.com/de/events/details/ausstellung-promenade-das-mass-der-umgebung/10008374",
     "lat": 46.169257090664,
     "lng": 8.7999410558198,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "12373",
-    "cat": "tradition",
-    "catLabel": "Tradition",
-    "title": "Espo Verbano",
-    "dateText": "Do, 12.11.–15.11.2026",
-    "sortKey": 1794481200000,
-    "loc": "Palexpo Locarno / FEVI - Via Alla Peschiera 9, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/4ddbe22c4cfd6cc5cf99edf2fa5f9b97a4f67ac2-1620x1080.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/espo-verbano-1/12373",
-    "lat": 46.1641605,
-    "lng": 8.7887892,
-    "isTop": false,
-    "parent": ""
-   },
-   {
-    "id": "10008737",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Trail Running Weekend Ascona-Locarno",
-    "dateText": "Sa, 14.11.–15.11.2026",
-    "sortKey": 1794654000000,
-    "loc": "Viale Verbano 29, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/ab3e8b9663e45c75d81df6a9ffd378a8d7877b48-8640x5760.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/trail-running-weekend-ascona-locarno/10008737",
-    "lat": 46.17167,
-    "lng": 8.805111,
     "isTop": false,
     "parent": ""
    },
@@ -800,6 +749,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/kindern-von-heute-die-welt-erzaehlen/10009124",
     "lat": 46.1708007,
     "lng": 8.7949828000001,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009171",
+    "cat": "musik",
+    "catLabel": "Musik",
+    "title": "60er-Jahre-Nacht",
+    "dateText": "Fr, 20.11.–21.11.2026",
+    "sortKey": 1795204800000,
+    "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/bd1e3f99c10b80b8df453b412f59a8e3daccd8d2-1138x1614.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/60er-jahre-nacht/10009171",
+    "lat": 46.1668905,
+    "lng": 8.798261,
     "isTop": false,
     "parent": ""
    },
@@ -1950,23 +1916,6 @@
    }
   ],
   "muralto": [
-   {
-    "id": "10008984",
-    "cat": "natur",
-    "catLabel": "Natur",
-    "title": "Foliage-Zug",
-    "dateText": "Sa, 10.10.–15.11.2026",
-    "sortKey": 1791626400000,
-    "loc": "Piazza Stazione 3, Muralto",
-    "venue": "Bahnhof",
-    "keyVenue": true,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/60ff00beb3e563330fb5722f7d1b28d88e2ff16c-4836x3224.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/foliage-zug/10008984",
-    "lat": 46.1723688,
-    "lng": 8.8002507,
-    "isTop": false,
-    "parent": ""
-   },
    {
     "id": "10008698",
     "cat": "kultur",
