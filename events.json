@@ -1,5 +1,5 @@
 {
- "updated": "17.11.2026 13:40",
+ "updated": "18.11.2026 13:31",
  "events": {
   "ascona": [
    {
@@ -33,6 +33,23 @@
     "link": "https://www.ascona-locarno.com/de/events/details/musicisti-corpi-in-movimento-del-maestro-alvaro-stoppa/10008991",
     "lat": 46.1562008,
     "lng": 8.7684305,
+    "isTop": false,
+    "parent": ""
+   },
+   {
+    "id": "10009174",
+    "cat": "tradition",
+    "catLabel": "Tradition",
+    "title": "Accendiamo il Natale! 20.11.2026",
+    "dateText": "Fr, 20.11.2026",
+    "sortKey": 1795193100000,
+    "loc": "Piazza G. Motta, Ascona",
+    "venue": "Piazza",
+    "keyVenue": true,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/c7700141be8b6d628072512cd3ce0c64542fccb5-871x595.png?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/accendiamo-il-natale-20112026/10009174",
+    "lat": 46.1539078,
+    "lng": 8.7688003,
     "isTop": false,
     "parent": ""
    },
@@ -490,23 +507,6 @@
     "keyVenue": false,
     "image": "https://cdn.sanity.io/images/z6ahwmgv/production/8bf693fbb3a4791f994922db242cedf0c7c753f1-1138x853.jpg?fm=webp&q=90&w=588&h=441",
     "link": "https://www.ascona-locarno.com/de/events/details/csi-ascona/10080",
-    "lat": 46.160757543463,
-    "lng": 8.781336007843,
-    "isTop": true,
-    "parent": ""
-   },
-   {
-    "id": "10071",
-    "cat": "sport",
-    "catLabel": "Sport",
-    "title": "Ascona Polo Cup",
-    "dateText": "Fr, 10.09.–12.09.2027",
-    "sortKey": 1820570400000,
-    "loc": "Sedime Aeroporto, Ascona",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/b4ae12e174fa93e4c0fc9bd4723e0830795576c0-3543x2362.jpg?fm=webp&q=90&w=588&h=441&rect=0,0,3543,2362&fit=crop&fp-x=0.5&fp-y=0.5",
-    "link": "https://www.ascona-locarno.com/de/events/details/ascona-polo-cup/10071",
     "lat": 46.160757543463,
     "lng": 8.781336007843,
     "isTop": true,
