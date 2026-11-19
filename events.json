@@ -1,5 +1,5 @@
 {
- "updated": "18.11.2026 13:31",
+ "updated": "19.11.2026 13:22",
  "events": {
   "ascona": [
    {
@@ -702,23 +702,6 @@
     "parent": ""
    },
    {
-    "id": "10008896",
-    "cat": "ausstellung",
-    "catLabel": "Ausstellung",
-    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
-    "dateText": "Do, 19.11.–09.01.2027",
-    "sortKey": 1795078800000,
-    "loc": "Via Sant'Antonio 11, Locarno",
-    "venue": "",
-    "keyVenue": false,
-    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
-    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
-    "lat": 46.1693954,
-    "lng": 8.7924222,
-    "isTop": false,
-    "parent": ""
-   },
-   {
     "id": "10074",
     "cat": "musik",
     "catLabel": "Musik",
@@ -733,6 +716,23 @@
     "lat": 46.1696052,
     "lng": 8.7960181,
     "isTop": true,
+    "parent": ""
+   },
+   {
+    "id": "10008896",
+    "cat": "ausstellung",
+    "catLabel": "Ausstellung",
+    "title": "\"Anima Mundi\": pittura e scultura in dialogo alla Tania Art Galerie",
+    "dateText": "Do, 19.11.–09.01.2027",
+    "sortKey": 1795078800000,
+    "loc": "Via Sant'Antonio 11, Locarno",
+    "venue": "",
+    "keyVenue": false,
+    "image": "https://cdn.sanity.io/images/z6ahwmgv/production/28da24acedd94fd4be2665ed95d45fe93d8311ac-4000x3000.jpg?fm=webp&q=90&w=588&h=441",
+    "link": "https://www.ascona-locarno.com/de/events/details/anima-mundi-pittura-e-scultura-in-dialogo-alla-tania-art-galerie/10008896",
+    "lat": 46.1693954,
+    "lng": 8.7924222,
+    "isTop": false,
     "parent": ""
    },
    {
@@ -757,7 +757,7 @@
     "cat": "musik",
     "catLabel": "Musik",
     "title": "60er-Jahre-Nacht",
-    "dateText": "Fr, 20.11.–21.11.2026",
+    "dateText": "Fr, 20.11.2026",
     "sortKey": 1795204800000,
     "loc": "Teatro Cambusa - Piazza G. Pedrazzini 12, Locarno",
     "venue": "",
