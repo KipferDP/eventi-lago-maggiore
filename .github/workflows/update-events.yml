@@ -1,46 +1,86 @@
-name: Events aktualisieren
+name: Events aktualisieren und App veröffentlichen
 
-# Läuft automatisch jeden Tag um 04:00 UTC (06:00 Schweizer Zeit)
-# und kann jederzeit von Hand gestartet werden (Actions -> Run workflow).
+# Täglich um 04:00 UTC (05:00 Winterzeit, 06:00 Sommerzeit in der Schweiz),
+# von Hand (Actions -> Run workflow) und bei jeder Änderung am Code.
 on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
-    paths-ignore:
-      - "data.js"
-      - "events.json"
 
 permissions:
-  contents: write
+  contents: write   # neue events.json speichern
+  pages: write      # auf GitHub Pages veröffentlichen
+  id-token: write   # Nachweis für die Pages-Veröffentlichung
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Repo auschecken
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
+      # Bei Code-Änderungen (push) genügen die gespeicherten Daten -> schneller online.
       - name: Python einrichten
-        uses: actions/setup-python@v5
+        if: github.event_name != 'push'
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
-      - name: Abhängigkeiten installieren
-        run: pip install requests
+      - name: Events holen (Datensammler)
+        if: github.event_name != 'push'
+        run: |
+          pip install -r requirements.txt
+          python -m unittest test_quellen || { echo "::warning::Prüfungen der Quellen fehlgeschlagen – alte Daten bleiben."; exit 0; }
+          python scraper.py || echo "::warning::Datensammler fehlgeschlagen – die App zeigt die zuletzt gespeicherten Daten."
 
-      - name: Events holen (Scraper)
-        run: python scraper.py --lang de
-
-      - name: Änderungen committen (falls vorhanden)
+      - name: Neue Daten speichern (falls geändert)
+        if: github.event_name != 'push'
         run: |
           git config user.name "events-bot"
           git config user.email "events-bot@users.noreply.github.com"
-          git add data.js events.json
+          git add app/public/events.json
           if git diff --staged --quiet; then
-            echo "Keine Änderungen – nichts zu committen."
+            echo "Keine Änderungen."
           else
             git commit -m "Events aktualisiert (automatisch)"
             git push
           fi
+
+      - name: Node einrichten
+        uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+
+      - name: App prüfen und bauen
+        working-directory: app
+        run: |
+          npm ci
+          npm test
+          npm run build
+
+      - name: Pages vorbereiten
+        uses: actions/configure-pages@v6
+
+      - name: Fertige App hochladen
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: app/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v5

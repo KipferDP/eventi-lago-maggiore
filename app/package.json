@@ -1,0 +1,21 @@
+{
+  "name": "eventi-lago-maggiore",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Event-Agenda für Ascona, Locarno, Minusio, Tenero, Orselina und Muralto (React, Vite).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/lib/*.test.js"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.3.0",
+    "vite": "8.3.8"
+  }
+}

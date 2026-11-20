@@ -1,9 +1,9 @@
 {
   "name": "Eventi Lago Maggiore",
   "short_name": "Eventi",
-  "description": "Events in Ascona und Locarno",
+  "description": "Events in Ascona, Locarno, Minusio, Tenero, Orselina und Muralto",
   "lang": "de",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
